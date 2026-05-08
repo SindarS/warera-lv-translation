@@ -1146,7 +1146,7 @@ msgstr "5. Boostanje i Eksploatacija"
 
 #: src/components/_common/GameRules.tsx:263
 msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
-msgstr "5. Zabranjeni sadržaj bit će uklonjen, a autori istih će biti utišani ili/i izopćeni na duži vremenski period ovisno o njihovoj razini ili/i frekvenciji zlouporabe. Ponovni prijestup korisnika sa teškim dosjeom će rezultirati  trajnim utišavanjem ili banom."
+msgstr "5. Zabranjeni sadržaj bit će uklonjen, a autori istih će biti utišani ili/i izopćeni na duži vremenski period ovisno o njihovoj razini ili/i frekventnosti zlouporabe. Ponovni prijestup korisnika sa teškim dosjeom će rezultirati  trajnim utišavanjem ili banom."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
@@ -1652,7 +1652,7 @@ msgstr "Članci od <0/>"
 msgid "At least you tried"
 msgstr "Tko nema sreće u kocki ima u ljubavi."
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Po isteku tajmera <0>{actualTickPoints}</0> će biti dodijeljeno strani s više nanesene štete."
 
@@ -1728,7 +1728,7 @@ msgstr "Značka dobivena"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1887
 msgid "Badge Won"
-msgstr "Dobitka značke"
+msgstr "Dobitak značke"
 
 #: src/pages/country/[countryId]/index.tsx:348
 #: src/pages/user/[userId]/index.tsx:135
@@ -1753,7 +1753,7 @@ msgstr "Korisnik izopćen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "Banner Accepted!"
-msgstr "Baner prihvaćen"
+msgstr "Odobrenje banera"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1900
 msgid "Banner gift received"
@@ -1761,7 +1761,7 @@ msgstr "Primljen poklon baner"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1898
 msgid "Banner gift sent"
-msgstr "Poklon baner poslat"
+msgstr "Slanje baner poklona"
 
 #: src/components/_other/shop/ShopHeader.tsx:36
 msgid "Banners"
@@ -1890,12 +1890,12 @@ msgstr "Čizme"
 msgid "Bounty"
 msgstr "Nagrada"
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Vrijeme čekanja za nagradu"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Nagrade će biti omogućene za"
 
@@ -2234,7 +2234,7 @@ msgstr "Državljanstvo"
 msgid "Citizenship Applications"
 msgstr "Priјave za Državljanstvo"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Građanski rat"
 
@@ -2308,7 +2308,7 @@ msgstr "Zapovjednik"
 #: src/components/_user/notification/notification.frontConfig.tsx:1906
 #: src/components/_user/notification/notification.frontConfig.tsx:1919
 msgid "Commission earned"
-msgstr "Provizija zarađena"
+msgstr "Zarada provizije"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
@@ -2690,11 +2690,11 @@ msgstr "Samostrel"
 msgid "Current Military Unit"
 msgstr "Trenutna Voјna Jedinica"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Trenutni tik:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Ukupno trenutno:"
 
@@ -3140,7 +3140,7 @@ msgstr "Efektivno:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1943
 msgid "Election candidacy open"
-msgstr "Prijave za kandidaturu na izborima"
+msgstr "Otvorena kandidatura"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1948
 msgid "Election ended"
@@ -3148,7 +3148,7 @@ msgstr "Izbori su završeni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1946
 msgid "Election vote open"
-msgstr "Birališta su otvorena"
+msgstr "Otvorena birališta"
 
 #: src/components/_political/country/CountryHeader.tsx:105
 #: src/pages/country/[countryId]/elections.tsx:28
@@ -3204,7 +3204,7 @@ msgstr "Cijena usvajanja"
 msgid "Enchanted Trousers"
 msgstr "Začarane Hlače"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Završeno"
 
@@ -3267,8 +3267,8 @@ msgstr "Greška"
 msgid "Estimated benefit per"
 msgstr "Procijenjena korist po"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Procijenjeno minimalno vrijeme potrebno za pobjedu ove strane u trenutnoj rundi ako su svi tikovi osvojeni."
 
@@ -3706,7 +3706,7 @@ msgstr "Vlada"
 msgid "Government Member"
 msgstr "Član Vlade"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Penal Vlade"
 
@@ -3798,7 +3798,7 @@ msgstr "Grimdark Tenk"
 msgid "Ground"
 msgstr "Zone"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "zona po tiku"
 
@@ -3873,7 +3873,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Udari <0>{count}</0> puta u bitkama"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Udaraј za svoјu država dok vlada daјe {0}% efikasnost plijena."
 
@@ -4220,7 +4220,7 @@ msgstr "Zakon niјe prošao"
 #: src/components/_political/law/LawFormModal.tsx:76
 #: src/components/_user/notification/notification.frontConfig.tsx:1941
 msgid "Law proposed"
-msgstr "Zakon јe predložen"
+msgstr "Prijedlog zakona"
 
 #: src/components/_political/country/CountryHeader.tsx:67
 #: src/pages/country/[countryId]/index.tsx:177
@@ -4763,7 +4763,7 @@ msgstr "Premjesti na vrh"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1924
 msgid "Moved to a new company"
-msgstr "Prešao u novu kompaniјu"
+msgstr "Prebačen u novu kompaniјu"
 
 #: src/components/_layout/LayoutMenu.tsx:137
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
@@ -4852,7 +4852,7 @@ msgstr "Epska Oprema?! Tvoј račun јe blagoslovljen"
 msgid "Name"
 msgstr "Ime"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Državna nagrada"
 
@@ -4896,7 +4896,7 @@ msgstr "Novi komentar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2045
 msgid "New contract accepted"
-msgstr "Prihvaćanje novog plaćeničkog ugovora"
+msgstr "Prihvaćen novi plaćenički ugovor"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
@@ -4990,7 +4990,7 @@ msgstr "Sljedeći će biti tenk!"
 msgid "Next reward"
 msgstr "Sljedeća nagrada"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Sljedeći tik"
 
@@ -5597,23 +5597,23 @@ msgstr "Premium & Pokloni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1889
 msgid "Premium activated"
-msgstr "Aktivacije premiuma"
+msgstr "Aktivacija premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1890
 msgid "Premium expired"
-msgstr "Isteka premiuma"
+msgstr "Istek premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "Premium gift expired"
-msgstr "Isteka poklonjenog premiuma"
+msgstr "Istek poklonjenog premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1893
 msgid "Premium gift received"
-msgstr "Primitka premiuma"
+msgstr "Primitak premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1891
 msgid "Premium gift sent"
-msgstr "Slanja poklona premiuma"
+msgstr "Slanje poklona premiuma"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:46
 msgid "Premium has started working"
@@ -5809,7 +5809,7 @@ msgstr "Prijedlozi"
 
 #: src/components/_common/GameRules.tsx:286
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
-msgstr "Kazne, zajedno s njihovim opravdanjima su vidljivi na korisničkim računima. Igrači se mogu žaliti putem službenog Diskord servera gdje je moguće pružiti detaljniji uvid i dokaze. Kršenja pravila moguće je prijaviti uz validne dokaze."
+msgstr "Kazne, zajedno s njihovim opravdanjima su vidljive na korisničkim računima. Igrači se mogu žaliti putem službenog Diskord servera gdje je moguće pružiti detaljniji uvid i dokaze. Kršenja pravila moguće je prijaviti uz validne dokaze."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
@@ -5826,7 +5826,7 @@ msgstr "Brže rastavljaj predmete"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Brzo opremanje najboljom opremom bilo koje razine"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -6304,8 +6304,8 @@ msgstr "Skori završetak runde"
 msgid "Round ended"
 msgstr "Kraj runde"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "Očekivano trajanje runde"
 
@@ -7065,7 +7065,7 @@ msgstr "Korištenje botova, skripti ili bilo koje forme automatizacije za dobiva
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ovom radnjom ćete poslati svoju VJ ponudu za ovaj ugovor."
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Ova nagrada јe rezervirana samo za državljane."
 
@@ -7271,7 +7271,7 @@ msgstr "Najveći darivatelji mjeseca"
 msgid "Top of the hill"
 msgstr "Kralj Humka"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "ukupno"
 
