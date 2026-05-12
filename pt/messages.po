@@ -1660,7 +1660,7 @@ msgstr "Pelo menos você tentou"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "No final do timer <0>{actualTickPoints}</0> serão atribuídos ao lado com mais dano."
 
-#: src/components/_military/hit/HitButton.tsx:462
+#: src/components/_military/hit/HitButton.tsx:466
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -1700,6 +1700,10 @@ msgstr "Autenticação falhou. Por favor tente novamente."
 #: src/pages/country/[countryId]/citizenship.tsx:47
 msgid "Auto approval"
 msgstr "Aprovação automática"
+
+#: src/components/_user/kits/KitsPopover.tsx:223
+msgid "Auto-equip when item breaks"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -2871,7 +2875,7 @@ msgstr "Diminuir"
 msgid "Decrease unrest"
 msgstr "Diminuir agitação"
 
-#: src/components/_military/hit/HitButton.tsx:465
+#: src/components/_military/hit/HitButton.tsx:469
 msgid "Defend"
 msgstr "Defender"
 
@@ -3643,6 +3647,10 @@ msgstr "Obtenha várias skins de uma só vez com um desconto de 30%!"
 #: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Obter subscrição"
+
+#: src/components/_user/kits/KitsPopover.tsx:211
+msgid "Get Supporter Plan"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
@@ -6210,7 +6218,7 @@ msgstr "Resetar Nome"
 msgid "Reshuffle in"
 msgstr "Redistribuição em"
 
-#: src/components/_military/hit/HitButton.tsx:460
+#: src/components/_military/hit/HitButton.tsx:464
 msgid "Resist"
 msgstr "Resistir"
 
@@ -6364,6 +6372,10 @@ msgstr "Com pouca saúde?"
 #: src/pages/user/[userId]/skills.tsx:210
 msgid "Save"
 msgstr "Salvar"
+
+#: src/components/_user/kits/KitsPopover.tsx:197
+msgid "Save your equipment kits"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -6928,6 +6940,10 @@ msgstr "Plano de Apoiante"
 #: src/components/_user/modals/PremiumModal.tsx:31
 msgid "Supporter Plan"
 msgstr "Plano de Apoiante"
+
+#: src/components/_user/kits/KitsPopover.tsx:200
+msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"

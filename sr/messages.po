@@ -1660,7 +1660,7 @@ msgstr "Барем си покушао"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "По истеку тајмера, <0>{actualTickPoints}</0> ће бити додељено страни са највише нанесене штете."
 
-#: src/components/_military/hit/HitButton.tsx:462
+#: src/components/_military/hit/HitButton.tsx:466
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -1700,6 +1700,10 @@ msgstr "Аутентификација неуспела. Покушајте по
 #: src/pages/country/[countryId]/citizenship.tsx:47
 msgid "Auto approval"
 msgstr "Аутоматско одобравање"
+
+#: src/components/_user/kits/KitsPopover.tsx:223
+msgid "Auto-equip when item breaks"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -2871,7 +2875,7 @@ msgstr "Смањи"
 msgid "Decrease unrest"
 msgstr "Смањи немир"
 
-#: src/components/_military/hit/HitButton.tsx:465
+#: src/components/_military/hit/HitButton.tsx:469
 msgid "Defend"
 msgstr "Одбрани"
 
@@ -3643,6 +3647,10 @@ msgstr "Набавите више скинова одједном са попу�
 #: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Активирај претплату подржаваоца"
+
+#: src/components/_user/kits/KitsPopover.tsx:211
+msgid "Get Supporter Plan"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
@@ -6210,7 +6218,7 @@ msgstr "Ресетуј корисничко име"
 msgid "Reshuffle in"
 msgstr "Преразмештање за"
 
-#: src/components/_military/hit/HitButton.tsx:460
+#: src/components/_military/hit/HitButton.tsx:464
 msgid "Resist"
 msgstr "Отпор"
 
@@ -6364,6 +6372,10 @@ msgstr "Понестаје ти здравља?"
 #: src/pages/user/[userId]/skills.tsx:210
 msgid "Save"
 msgstr "Сачувај"
+
+#: src/components/_user/kits/KitsPopover.tsx:197
+msgid "Save your equipment kits"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -6928,6 +6940,10 @@ msgstr "План подржаваоца"
 #: src/components/_user/modals/PremiumModal.tsx:31
 msgid "Supporter Plan"
 msgstr "План подржаваоца"
+
+#: src/components/_user/kits/KitsPopover.tsx:200
+msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
