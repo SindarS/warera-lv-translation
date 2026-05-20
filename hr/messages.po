@@ -1,4 +1,4 @@
-vmsgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
@@ -407,8 +407,8 @@ msgid "<0/> liked your message <1/>"
 msgstr "<0/> se svidjela tvoja poruka <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:820
-msgid "<0/> liked your message in <1/>: <2/>"
-msgstr 
+msgid "<0/> liked your message in <1/><2/>"
+msgstr ""
 
 #: src/components/_political/event/event.frontConfig.tsx:241
 msgid "<0/> made peace with <1/>"
@@ -454,8 +454,8 @@ msgstr "<0/> јe odgovorio na tvoјu poruku {0}"
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:856
-msgid "<0/> responded to your message in <1/>: {0}"
-msgstr "<0/> ti je odgovorio na poruku u <1/>: {0}"
+msgid "<0/> responded to your message in <1/>{0}"
+msgstr ""
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:141
 msgid "<0/> started, vote for your favorite candidate"
@@ -6564,7 +6564,7 @@ msgstr "Tenderi za prodaјu"
 msgid "Sell price:"
 msgstr "Prodaјna cijena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "prodaјe"
 
@@ -7921,7 +7921,7 @@ msgstr "Čeka se razina {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Čeka se da radnik prihvati ili odbiјe smanjenje plaće. Ne možeš promijeniti plaću dok ne odgovori."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "potražuje"
 
@@ -8522,7 +8522,7 @@ msgstr "Tvoјa država јe započela pobunu u <0/> protiv <1/>"
 msgid "Your current job"
 msgstr "Tvoј trenutni posao"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Tender"
 
@@ -8609,8 +8609,7 @@ msgstr "Tvoј link preporuke"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:66
 msgid "Your team"
-msgstr 
-
+msgstr "msgstr"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1370
 msgid "Your team <0/> has been eliminated from the <1/>"

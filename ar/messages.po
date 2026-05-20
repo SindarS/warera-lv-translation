@@ -452,7 +452,7 @@ msgstr "قام <0/> بإحالتك إلى اللعبة."
 msgid "<0/> responded to your message {0}"
 msgstr "رد <0/> على رسالتك {0}"
 
-#. placeholder {0}: data.messageId && 
+#. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:856
 msgid "<0/> responded to your message in <1/>{0}"
 msgstr "ردّ <0/> على رسالتك في <1/>{0}"
