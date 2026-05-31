@@ -30,8 +30,8 @@ msgid " - Gear merging schemes *"
 msgstr " - Esquemas de fusión de equipo *"
 
 #: src/components/_common/GameRules.tsx:117
-msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
-msgstr " - Trabajo con salarios fuera de rango (por debajo de 0,7x o por encima de 1,3x del salario normal)"
+msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
+msgstr ""
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422

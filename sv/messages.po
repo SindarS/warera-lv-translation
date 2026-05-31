@@ -30,8 +30,8 @@ msgid " - Gear merging schemes *"
 msgstr "- Systematiska materielupplägg *"
 
 #: src/components/_common/GameRules.tsx:117
-msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
-msgstr " - Oskälig lönesättning (lägre än 0.7x eller högre än 1.3x av normallön)"
+msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
+msgstr ""
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422

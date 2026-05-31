@@ -30,8 +30,8 @@ msgid " - Gear merging schemes *"
 msgstr " - دمج العتاد *"
 
 #: src/components/_common/GameRules.tsx:117
-msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
-msgstr " - العمالة منخفضة الأجر (أقل من 0.7x وأعلى من 1.3x من الراتب الطبيعي)"
+msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
+msgstr ""
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422
