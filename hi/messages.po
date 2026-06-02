@@ -747,6 +747,12 @@ msgstr "<0>एक ही नियोक्ता के लिए काम क
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
 msgstr "<0>कर्मचारियों के कार्य और स्वचालित इंजन द्वारा <1>उत्पादन अंक</1> भरे जाते हैं।</0><2>केवल कंपनी का मालिक इन्हें वस्तुएँ बनाने के लिए खर्च कर सकता है।</2>"
 
+#. placeholder {0}: gameConfig?.unrest.contributionCost
+#. placeholder {1}: gameConfig?.unrest.contributionCost
+#. placeholder {2}: gameConfig?.unrest.contributionValue
+#. placeholder {3}: gameConfig?.unrest.battleCooldownHours
+#. placeholder {4}: gameConfig?.unrest.bordersOpenDays
+#. placeholder {5}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
 msgstr "<0>अशांति</0> देश के भीतर के तनाव को दर्शाती है।<1/><2/>नागरिक <5>{0}</5> या <6>{1}</6> खर्च करके बार को <7>{2}</7> बदलते हुए अशांति को <3>बढ़ा</3> या <4>घटा</4> सकते हैं।<8/><9/>जब बार भर जाता है, तो कोई भी दल प्रस्ताव के माध्यम से <10>गृहयुद्ध</10> शुरू करने के लिए मतदान कर सकता है (लागत: <11>विकास × 10</11>, कूलडाउन: {3} घंटे)। युद्ध राजधानी क्षेत्र में होता है और <12>केवल नागरिक</12> ही लड़ सकते हैं।<13/><14/>यदि क्रांतिकारी जीतते हैं:<15/>- सरकार को पदच्युत कर दिया जाता है<16/>- सीमाएँ {4} दिनों के लिए खोल दी जाती हैं<17/>- राष्ट्रपति चुनाव शुरू हो जाते हैं<18/><19/>क्रांति के बाद {5} घंटों तक योगदान निष्क्रिय रहते हैं।"
@@ -7236,8 +7242,8 @@ msgid "This member won't be able to be nominated again for {cooldownDays} days."
 msgstr "यह सदस्य {cooldownDays} दिनों तक पुनः नामांकित नहीं किया जा सकेगा।"
 
 #: src/pages/region/[regionId]/index.tsx:177
-msgid "This region is not linked to its owner's capital."
-msgstr "यह क्षेत्र अपने मालिक की राजधानी से जुड़ा नहीं है।"
+msgid "This region is not linked to it's owner's capital."
+msgstr ""
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:205
 msgid "This round only"
@@ -8347,7 +8353,7 @@ msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
 msgstr "आपको <1/> में रैंक <0>#{0}</0> प्राप्त करने पर एक लूट आइटम मिला।"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
-#. placeholder {1}: data.rank && ( <> position <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
+#. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
 #: src/components/_user/notification/notification.frontConfig.tsx:1391
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "आपको रैंकिंग <1/> में <0/> स्तर पर {0} {1} के लिए पुरस्कार प्राप्त हुआ।"
