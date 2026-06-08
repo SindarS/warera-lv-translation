@@ -1114,8 +1114,8 @@ msgid "3★ Specialist"
 msgstr "3★ 特战兵"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:19
-msgid "3★ 见习兵"
-msgstr "3★ 训练兵"
+msgid "3★ Trainee"
+msgstr "3★ 见习兵"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:39
 msgid "3★ Trooper"
@@ -1233,7 +1233,7 @@ msgstr "滥用举报系统可能会受到处罚。"
 
 #: src/pages/country/[countryId]/index.tsx:132
 msgid "Abusing this power to advantage another country will lead to a <0>ban.</0>"
-msgstr "滥用此权力向其他国家提供优势将会导致封禁"
+msgstr "滥用此权力为其他国家谋取优势将会导致<0>封禁</0>。"
 
 #: src/components/_political/law/Law.tsx:159
 #: src/components/_political/partyMotion/PartyMotion.tsx:158
@@ -2871,23 +2871,23 @@ msgstr "跟随命令输出伤害"
 
 #: src/utils/translations.tsx:59
 msgid "Deals a fucking big lot of damages"
-msgstr "输出巨量伤害"
+msgstr "造成巨量伤害"
 
 #: src/utils/translations.tsx:58
 msgid "Deals a lot of damages"
-msgstr "输出很多伤害"
+msgstr "造成很多伤害"
 
 #: src/utils/translations.tsx:55
 msgid "Deals damages"
-msgstr "输出伤害"
+msgstr "造成伤害"
 
 #: src/utils/translations.tsx:57
 msgid "Deals more damages"
-msgstr "输出更多伤害"
+msgstr "造成更多伤害"
 
 #: src/utils/translations.tsx:56
 msgid "Deals some damages"
-msgstr "输出一些伤害"
+msgstr "造成一些伤害"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2098
 msgid "Debuff ended"
@@ -3703,7 +3703,7 @@ msgstr "获取专属的 <0>订阅者皮肤</0>！"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:94
 msgid "Get multiple skins at once with a 30% discount!"
-msgstr "购买多款皮肤享受30%折扣!"
+msgstr "以30%折扣一次性购买多款皮肤!"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
@@ -5320,7 +5320,7 @@ msgstr "Okay okay，还不差"
 
 #: src/utils/translations.tsx:42
 msgid "Omg, so OP"
-msgstr "我的天啊，太 OP 了吧"
+msgstr "天啊，太 OP 了吧"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:20
 msgid "On contract completion: +1 rep per <0/> paid out."
@@ -6756,7 +6756,7 @@ msgstr "阵营"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
-msgstr "技术问题？"
+msgstr "技能问题？"
 
 #: src/components/_user/user/SkillValue.tsx:45
 msgid "Skill upgrade:"
@@ -8460,7 +8460,7 @@ msgstr "一切就绪！"
 
 #: src/components/_user/premium/PremiumCard.tsx:55
 msgid "You're already a supporter <0/>"
-msgstr "你已经是支持者了"
+msgstr "你已经是支持者了 <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:38
 msgid "You're climbing, don't stop now"
@@ -8639,7 +8639,7 @@ msgstr "你的队伍 <0/>已在 <1/> 中被淘汰"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1281
 msgid "Your team <0/> won a round in <1/>!"
-msgstr "你的队伍 <0/> "
+msgstr "你的队伍 <0/> 在 <1/> 中赢得了一回合！"
 
 #: src/pages/events/index.tsx:124
 msgid "Your team:"
