@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: zh-CN\n"
-"Project-Id-Version: 1.0.0\n"
+"Project-Id-Version: 1.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Rich\n"
@@ -676,7 +676,7 @@ msgstr "<0>{0}</0> 来自于战略资源加成。"
 #. placeholder {0}: gameConfig.battle.pointsToWinRound
 #: src/components/_common/RoundPoints.tsx:17
 msgid "<0>{0}</0> ground are required to win a round, points are gained every tick"
-msgstr "还需要 <0>{0}</0> 领土控制值来取得回合胜利，控制值每个结算周期都会增加"
+msgstr "还需要 <0>{0}</0> 地面控制点来取得回合胜利，地面控制点每次结算都会增加"
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1606
@@ -741,7 +741,7 @@ msgstr "<0>双方累计造成的每 <1/> 点总伤害都会向战斗战利品池
 #. placeholder {2}: 10
 #: src/components/_user/worker/WorkerItem.tsx:112
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
-msgstr "<0>每天为同一位雇主工作，忠诚度加成会增加 <1>{0}</1> 。</0><2>这会使生产加成增加 <3>{1}</3> ，最高累计至 <4>{2}</4> 。<5>此加成于工作完成后结算，不计入薪资中。</5>"
+msgstr "<0>每天为同一位雇主工作，忠诚度加成会增加 <1>{0}</1> 。</0><2>这会使生产加成增加 <3>{1}</3> ，最高累计至 <4>{2}</4> 。</2><5>此加成于工作完成后结算，不计入薪资中。</5>"
 
 #: src/components/_economy/company/CompanyProduce.tsx:81
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
@@ -763,7 +763,7 @@ msgstr "<0>你的账号需要进一步验证。请尽快验证你的手机号以
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr "= 消耗更多能量"
+msgstr "= 消耗更多性能"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1554,7 +1554,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:242
 msgid "App pattern"
-msgstr "App 背景"
+msgstr "界面样式"
 
 #: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
@@ -1571,7 +1571,7 @@ msgstr "已批准"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:182
 msgid "Arcane Boots"
-msgstr "奥术靴"
+msgstr "Arcane Boots"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:222
 msgid "Are you sure you want to consume pill?"
@@ -1583,7 +1583,7 @@ msgstr "确定要降级这名指挥官吗？"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:113
 msgid "Are you sure you want to fire this worker?"
-msgstr "你确定要开除这位员工吗？"
+msgstr "你确定要解雇这位员工吗？"
 
 #: src/components/_military/mu/MuMemberList.tsx:140
 msgid "Are you sure you want to kick this member?"
@@ -1901,7 +1901,7 @@ msgstr "黑名单 (隐藏内容)"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
-msgstr "蓝色法杖"
+msgstr "Blue Staff"
 
 #: src/components/_layout/LayoutOptions.tsx:149
 msgid "Blur"
@@ -1909,7 +1909,7 @@ msgstr "模糊"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr "骨制棍棒"
+msgstr "Bone Club"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2055,7 +2055,7 @@ msgstr "军校学员"
 
 #: src/components/_political/election/CandidateFormModal.tsx:66
 msgid "Campaign Article Link (optional)"
-msgstr "参选文章链接 (选填)"
+msgstr "参选文章链接 (可选)"
 
 #: src/components/_political/election/CandidateFormModal.tsx:83
 msgid "Cancel"
@@ -2147,11 +2147,11 @@ msgstr "箱子内含随机物品，点击来打开它！"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
-msgstr "投石机"
+msgstr "Catapult"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:269
 msgid "Cave Bear Headdress"
-msgstr "洞熊头饰"
+msgstr "Cave Bear Headdress"
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
@@ -2340,11 +2340,11 @@ msgstr "关闭"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:266
 msgid "Clovis Point"
-msgstr "克洛维斯尖矛"
+msgstr "Clovis Point"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
-msgstr "冷到爆"
+msgstr "Cold af"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
@@ -2550,11 +2550,11 @@ msgstr "战斗中会消耗"
 #. placeholder {1}: staticGameConfig.items.cocain.flatStats?.debuffDurationHours
 #: src/utils/translations.tsx:113
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
-msgstr "使用它将会增加你的<0>攻击力</0> {0} 小时。随后减少相同的攻击力 {1} 小时。"
+msgstr "使用它将会增加你的 <0>攻击力</0> {0} 小时。<1/> 随后减少相同的攻击力 {1} 小时。"
 
 #: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
-msgstr "现况国界"
+msgstr "动态边界线"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Contract cancelled"
@@ -2753,7 +2753,7 @@ msgstr "暴击"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:89
 msgid "Crossbow"
-msgstr "十字弓"
+msgstr "Crossbow"
 
 #: src/pages/user/[userId]/index.tsx:163
 msgid "Current Military Unit"
@@ -2761,7 +2761,7 @@ msgstr "当前所处的军团"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
-msgstr "当前结算周期："
+msgstr "本次结算："
 
 #: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
@@ -2827,15 +2827,15 @@ msgstr "暗黑"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:25
 msgid "Dark Era"
-msgstr "黑暗时代"
+msgstr "Dark Era"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:24
 msgid "Dark Era Pack"
-msgstr "黑暗时代皮肤礼包"
+msgstr "Dark Era Pack"
 
 #: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
-msgstr "暗黑地图"
+msgstr "深色地图"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:122
 msgid "Deal <0>{count}</0> for allies or your country"
@@ -3144,7 +3144,7 @@ msgstr "宿舍"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:155
 msgid "Dragon"
-msgstr "巨龙"
+msgstr "Dragon"
 
 #: src/components/_common/GameRules.tsx:218
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -3173,7 +3173,7 @@ msgstr "吃牛排"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:20
 msgid "Eco Mode"
-msgstr "省电模式"
+msgstr "Eco Mode"
 
 #: src/components/_political/law/LawTypeSelect.tsx:108
 msgid "Economic laws"
@@ -3267,7 +3267,7 @@ msgstr "施行费用"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:188
 msgid "Enchanted Trousers"
-msgstr "附魔长裤"
+msgstr "Enchanted Trousers"
 
 #: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
@@ -3281,7 +3281,7 @@ msgstr "已结束<0/>"
 #: src/components/_military/battle/ActiveBattlesList.tsx:105
 #: src/components/_military/battle/ActiveBattlesList.tsx:160
 msgid "Enemies"
-msgstr "死敌"
+msgstr "敌人"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:145
 #: src/components/_user/user/skills.frontConfig.tsx:90
@@ -3336,7 +3336,7 @@ msgstr "预估收益每个"
 #: src/components/_military/battle/BattleSystem.tsx:467
 #: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
-msgstr "如果本阵营赢下所有结算周期，本阵营赢得当前回合的预计最短时间。"
+msgstr "如果本阵营赢下后续所有结算周期，本阵营赢得当前回合的预计最短时间。"
 
 #: src/pages/party/[partyId]/index.tsx:57
 msgid "Ethics"
@@ -3464,31 +3464,31 @@ msgstr "极端共和主义"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:21
 msgid "Farmer"
-msgstr "农夫"
+msgstr "Farmer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:146
 msgid "Farmer Boots"
-msgstr "农夫靴子"
+msgstr "Farmer Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:143
 msgid "Farmer Chest"
-msgstr "农夫胸甲"
+msgstr "Farmer Chest"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:152
 msgid "Farmer Gloves"
-msgstr "农夫手套"
+msgstr "Farmer Gloves"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:140
 msgid "Farmer Helmet"
-msgstr "农夫头盔"
+msgstr "Farmer Helmet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:137
 msgid "Farmer Knife"
-msgstr "农夫匕首"
+msgstr "Farmer Knife"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:149
 msgid "Farmer Pants"
-msgstr "农夫裤子"
+msgstr "Farmer Pants"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:87
 #: src/components/_military/battle/ActiveBattlesList.tsx:167
@@ -3593,19 +3593,19 @@ msgstr "找别的工作"
 #: src/components/_political/government/Government.tsx:228
 #: src/components/_user/worker/WorkerEditFormModal.tsx:214
 msgid "Fire"
-msgstr "开除"
+msgstr "解雇"
 
 #: src/components/_political/government/Government.tsx:240
 msgid "Fire government member"
-msgstr "开除政府成员"
+msgstr "解雇政府成员"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:112
 msgid "Fire worker?"
-msgstr "开除员工？"
+msgstr "解雇员工？"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1988
 msgid "Fired from government"
-msgstr "从政府被开除"
+msgstr "从政府被解雇"
 
 #: src/utils/translations.tsx:36
 msgid "Fish"
@@ -3613,11 +3613,11 @@ msgstr "鱼"
 
 #: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
-msgstr "旗帜"
+msgstr "国旗显示"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:158
 msgid "Flail"
-msgstr "连枷"
+msgstr "Flail"
 
 #: src/components/_layout/LayoutOptions.tsx:212
 msgid "Font"
@@ -3646,23 +3646,23 @@ msgstr "免费每日奖励"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
-msgstr "冷知识：庄家永远是赢的"
+msgstr "冷知识：庄家永远是赚的"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr "毛皮靴子"
+msgstr "Fur Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr "毛皮兜裆布"
+msgstr "Fur Loincloth"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr "毛皮连指手套"
+msgstr "Fur Mittens"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr "毛皮束腰外衣"
+msgstr "Fur Tunic"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
@@ -3760,7 +3760,7 @@ msgstr "给予 <0>{0}</0>"
 
 #: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
-msgstr "球体 (试验性)"
+msgstr "地球仪模式（实验性功能）"
 
 #: src/components/_user/UserEquipments.tsx:217 
 #: src/utils/translations.tsx:201
@@ -3773,7 +3773,7 @@ msgstr "现在就去买彩券吧"
 
 #: src/components/_economy/company/CompanyProduce.tsx:117
 msgid "Go to job market"
-msgstr "去工作市场"
+msgstr "去招聘市场"
 
 #: src/components/_economy/company/CompanyList.tsx:88
 msgid "Go to skills"
@@ -3813,83 +3813,83 @@ msgstr "做得好！再多攻击几次来帮助你这边获得胜利。"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:161
 msgid "Green Staff"
-msgstr "绿色法杖"
+msgstr "Green Staff"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:29
 msgid "Grimdark"
-msgstr "暗黑"
+msgstr "Grimdark"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:218
 msgid "Grimdark Ammo"
-msgstr "暗黑弹药"
+msgstr "Grimdark Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:230
 msgid "Grimdark Boots"
-msgstr "暗黑靴子"
+msgstr "Grimdark Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:227
 msgid "Grimdark Chest"
-msgstr "暗黑胸甲"
+msgstr "Grimdark Chest"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:236
 msgid "Grimdark Gloves"
-msgstr "暗黑手套"
+msgstr "Grimdark Gloves"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:200
 msgid "Grimdark Gun"
-msgstr "暗黑枪"
+msgstr "Grimdark Gun"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:221
 msgid "Grimdark Heavy Ammo"
-msgstr "暗黑重型弹药"
+msgstr "Grimdark Heavy Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:224
 msgid "Grimdark Helmet"
-msgstr "暗黑头盔"
+msgstr "Grimdark Helmet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:212
 msgid "Grimdark Jet"
-msgstr "暗黑喷气机"
+msgstr "Grimdark Jet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:197
 msgid "Grimdark Knife"
-msgstr "暗黑匕首"
+msgstr "Grimdark Knife"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:215
 msgid "Grimdark Light Ammo"
-msgstr "暗黑轻型弹药"
+msgstr "Grimdark Light Ammo"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:28
 msgid "Grimdark Pack"
-msgstr "暗黑皮肤礼包"
+msgstr "Grimdark Pack"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:233
 msgid "Grimdark Pants"
-msgstr "暗黑裤子"
+msgstr "Grimdark Pants"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:203
 msgid "Grimdark Rifle"
-msgstr "暗黑步枪"
+msgstr "Grimdark Rifle"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:206
 msgid "Grimdark Sniper"
-msgstr "暗黑狙击枪"
+msgstr "Grimdark Sniper"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:209
 msgid "Grimdark Tank"
-msgstr "暗黑坦克"
+msgstr "Grimdark Tank"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:33
 msgid "Ground"
-msgstr "领土控制值"
+msgstr "地面控制点"
 
 #: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
-msgstr "每结算周期领土控制值"
+msgstr "地面控制点每次结算"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:123
 msgid "Ground points"
-msgstr "领土控制值"
+msgstr "地面控制点"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
@@ -3901,7 +3901,7 @@ msgstr "h. 美化、宣传或鼓励违规或作弊"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
-msgstr "仓鼠坦克"
+msgstr "Hamster Tank"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -3998,7 +3998,7 @@ msgstr "若为负数，每天可支付 <0/> 购买 <1/>（每日一次）。"
 
 #: src/components/_political/government/NominateForm.tsx:58
 msgid "If the new nominee is already in government, their positions will be swapped. Otherwise the current member will be fired and won't be able to be nominated again for {cooldownDays} days."
-msgstr "如果新提名者已经在政府中，他们的职位将互换。否则当前成员将被撤职，并且在 {cooldownDays} 天内无法再次被提名。"
+msgstr "如果新提名者已经在政府中，他们的职位将互换。否则当前成员将被解雇，并且在 {cooldownDays} 天内无法再次被提名。"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:51
 msgid "Imagine if you stop right before the Mythic"
@@ -4236,7 +4236,7 @@ msgstr "继续战斗！"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:201
 msgid "Keep in current company"
-msgstr "维持在现在公司"
+msgstr "留在现在公司"
 
 #: src/components/_military/mu/MuMemberList.tsx:428
 msgid "Kick"
@@ -4248,15 +4248,15 @@ msgstr "踢出成员"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
-msgstr "打制燧石"
+msgstr "Knapped Flints"
 
 #: src/utils/translations.tsx:22
 msgid "Knife"
-msgstr "小刀"
+msgstr "匕首"
 
 #: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
-msgstr "小刀不使用子弹"
+msgstr "匕首不使用子弹"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:262
 msgid "Land <0>{count}</0> critical hits"
@@ -4330,7 +4330,7 @@ msgstr "铅"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
-msgstr "皮革投石索"
+msgstr "Leather Sling"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 msgid "Leave"
@@ -4482,7 +4482,7 @@ msgstr "登出"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:86
 msgid "Long Sword"
-msgstr "长剑"
+msgstr "Long Sword"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:315
 msgid "Loot <0>{count}</0> from battles"
@@ -4507,7 +4507,7 @@ msgstr "战利品"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:23
 msgid "Love Paper Jet"
-msgstr "爱的纸飞机"
+msgstr "Love Paper Jet"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:101
 msgid "Lt. Colonel"
@@ -4523,7 +4523,7 @@ msgstr "幸运女神终于眷顾我了"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:191
 msgid "Mage Robe"
-msgstr "法师长袍"
+msgstr "Mage Robe"
 
 #: src/components/_political/law/Law.tsx:96
 msgid "Maintenance cost"
@@ -4597,47 +4597,47 @@ msgstr "或许下次吧 ^^"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:13
 msgid "Medieval"
-msgstr "中世纪"
+msgstr "Medieval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:68
 msgid "Medieval Boots"
-msgstr "中世纪靴子"
+msgstr "Medieval Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:62
 msgid "Medieval Chest"
-msgstr "中世纪胸甲"
+msgstr "Medieval Chest"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:71
 msgid "Medieval Gloves"
-msgstr "中世纪手套"
+msgstr "Medieval Gloves"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:59
 msgid "Medieval Helmet"
-msgstr "中世纪头盔"
+msgstr "Medieval Helmet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:77
 msgid "Medieval Iron Arrow"
-msgstr "中世纪铁箭"
+msgstr "Medieval Iron Arrow"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:12
 msgid "Medieval Pack"
-msgstr "中世纪皮肤包"
+msgstr "Medieval Pack"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:65
 msgid "Medieval Pants"
-msgstr "中世纪裤子"
+msgstr "Medieval Pants"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:83
 msgid "Medieval Spear"
-msgstr "中世纪矛"
+msgstr "Medieval Spear"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:80
 msgid "Medieval Steel Arrow"
-msgstr "中世纪钢箭"
+msgstr "Medieval Steel Arrow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:74
 msgid "Medieval Stone Arrow"
-msgstr "中世纪石箭"
+msgstr "Medieval Stone Arrow"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:204
 msgid "Meet other players in the chat. Don't be shy, introduce yourself!"
@@ -4693,11 +4693,11 @@ msgstr "雇佣兵声望"
 
 #: src/components/_other/shop/SkinPackModal.tsx:237
 msgid "Message (Optional)"
-msgstr "消息 (选填)"
+msgstr "消息 (可选)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2103
 msgid "Message liked"
-msgstr "已赞讯息"
+msgstr "已赞消息"
 
 #: src/components/_political/party/party.frontConfig.tsx:79
 msgid "Militarism vs Pacifism"
@@ -5093,7 +5093,7 @@ msgstr "下一个奖励"
 
 #: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
-msgstr "下个结算周期"
+msgstr "下一次结算"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:39
 msgid "Nice"
@@ -5165,7 +5165,7 @@ msgstr "尚无捐款"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:187
 msgid "No ground ranking yet."
-msgstr "还没有领土控制值排名。"
+msgstr "还没有地面控制点排名。"
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -5690,7 +5690,7 @@ msgstr "精准"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
-msgstr "史前礼包"
+msgstr "Prehistoric Pack"
 
 #: src/pages/shop/index.tsx:165
 msgid "Premium"
@@ -5917,7 +5917,7 @@ msgstr "处罚及其原因会显示在用户资料中。玩家可在官方 Disco
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
-msgstr "紫色法杖"
+msgstr "Purple Staff"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:35
 msgid "Put yourself to work!"
@@ -6046,7 +6046,7 @@ msgstr "预备兵"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:170
 msgid "Red Staff"
-msgstr "红色法杖"
+msgstr "Red Staff"
 
 #: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
@@ -6807,7 +6807,7 @@ msgstr "皮肤"
 
 #: src/components/_other/shop/SkinPackModal.tsx:250
 msgid "Skins in this pack"
-msgstr "在这组合包中的造型"
+msgstr "在这皮肤包中的皮肤"
 
 #: src/components/_other/tour/TutorialStep.tsx:181
 msgid "Skip Tutorial"
@@ -6815,7 +6815,7 @@ msgstr "跳过教学"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr "投石"
+msgstr "Sling Stones"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -6847,7 +6847,7 @@ msgstr "特产物品"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:194
 msgid "Spellcaster Gloves"
-msgstr "施法者手套"
+msgstr "Spellcaster Gloves"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:74
 msgid "Spend your <0>Energy</0> working here to earn <1>Money</1>. Keep clicking to work more!"
@@ -6953,7 +6953,7 @@ msgstr "钢材"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
-msgstr "石槌"
+msgstr "Stone Maul"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:78
@@ -7110,7 +7110,7 @@ msgstr "服务条款"
 
 #: src/components/_layout/LayoutOptions.tsx:265
 msgid "Texture"
-msgstr "质感"
+msgstr "纹理"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:76
 msgid "That dopamine hit is free"
@@ -7159,7 +7159,7 @@ msgid "The deposit will expire in the following amount of time."
 msgstr "资源点将于一段时间后到期。"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:714
-msgid "The effect of your consumed buffs has ended. The debuff phase has begun and "will last <0>{debuffDuration}h</0>."
+msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
 msgstr "你的食用增益效果已结束，接下来将获取减益效果，持续 <0>{debuffDuration} 小时</0>。"
 
 #. placeholder {0}: Math.round(contract.moneyPool * 10) / 100
@@ -7343,15 +7343,15 @@ msgstr "Token 名称"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:179
 msgid "Tome of Flames"
-msgstr "火焰之书"
+msgstr "Tome of Flames"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:176
 msgid "Tome of Storms"
-msgstr "风暴之书"
+msgstr "Tome of Storms"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:173
 msgid "Tome of Tides"
-msgstr "潮汐之书"
+msgstr "Tome of Tides"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:124
 #: src/components/_social/ArticleList.tsx:181
@@ -7376,11 +7376,11 @@ msgstr "回合伤害第 1 名"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:92
 msgid "Top 1 ground points in a battle"
-msgstr "战斗地面点数第 1 名"
+msgstr "战斗地面控制点第 1 名"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:98
 msgid "Top 1 ground points in a round"
-msgstr "回合地面点数第 1 名"
+msgstr "回合地面控制点第 1 名"
 
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:84
 msgid "Top 3 offers"
@@ -7396,7 +7396,7 @@ msgstr "捐献榜首"
 
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:66
 msgid "Top eligible offer:"
-msgstr "最好的薪资："
+msgstr "最高合格薪资："
 
 #: src/pages/shop/index.tsx:85
 msgid "Top gift givers of the month"
@@ -7521,7 +7521,7 @@ msgstr "转让所有权"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:199
 msgid "Transfer to company (optional)"
-msgstr "调职到其他公司 (选填)"
+msgstr "调职到其他公司 (可选)"
 
 #: src/components/_political/law/law.frontConfig.tsx:344
 msgid "Transfer<0/> to <1/>"
@@ -7533,11 +7533,11 @@ msgstr "翻译者"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Trebuchet"
-msgstr "大型投石机"
+msgstr "Trebuchet"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:36
 msgid "Trooper"
-msgstr "兵士"
+msgstr "上等兵"
 
 #: src/pages/user/[userId]/settings.tsx:67
 msgid "Tutorials"
@@ -7549,7 +7549,7 @@ msgstr "重置教学"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
-msgstr "霸王龙"
+msgstr "Tyrannosaurus Rex"
 
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
@@ -7641,7 +7641,7 @@ msgstr "更新资讯"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:225
 msgid "Update worker"
-msgstr "更新员工资料"
+msgstr "更新员工信息"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:383
 msgid "Upgrade a company"
@@ -7756,7 +7756,7 @@ msgstr "用户遭屏蔽"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:124
 msgid "User participation to the ground points."
-msgstr "用户对优势点的贡献"
+msgstr "用户对地面控制点的贡献"
 
 #: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
@@ -7792,67 +7792,67 @@ msgstr "UwU"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:11
 msgid "Valentine Ammo"
-msgstr "情人节子弹"
+msgstr "Valentine Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:50
 msgid "Valentine Boots"
-msgstr "情人节靴子"
+msgstr "Valentine Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:29
 msgid "Valentine Cat Ears"
-msgstr "情人节猫耳"
+msgstr "Valentine Cat Ears"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:32
 msgid "Valentine Chest"
-msgstr "情人节胸甲"
+msgstr "Valentine Chest"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:56
 msgid "Valentine Gloves"
-msgstr "情人节手套"
+msgstr "Valentine Gloves"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:44
 msgid "Valentine Gun"
-msgstr "情人节枪"
+msgstr "Valentine Gun"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:17
 msgid "Valentine Heavy Ammo"
-msgstr "情人节重型子弹"
+msgstr "Valentine Heavy Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:38
 msgid "Valentine Knife"
-msgstr "情人节小刀"
+msgstr "Valentine Knife"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:14
 msgid "Valentine Light Ammo"
-msgstr "情人节轻型子弹"
+msgstr "Valentine Light Ammo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:41
 msgid "Valentine Lollipop"
-msgstr "情人节棒棒糖"
+msgstr "Valentine Lollipop"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:8
 msgid "Valentine Pack"
-msgstr "情人节组合包"
+msgstr "Valentine Pack"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:35
 msgid "Valentine Pants"
-msgstr "情人节靴子"
+msgstr "Valentine Pants"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:47
 msgid "Valentine Rifle"
-msgstr "情人节来福枪"
+msgstr "Valentine Rifle"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:26
 msgid "Valentine Skirt"
-msgstr "情人节裙子"
+msgstr "Valentine Skirt"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:53
 msgid "Valentine Sniper"
-msgstr "情人节狙击枪"
+msgstr "Valentine Sniper"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:20
 msgid "Valentine Tank"
-msgstr "情人节坦克"
+msgstr "Valentine Tank"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
@@ -7919,7 +7919,7 @@ msgstr "薪资花费 ({productionPoints} pts)："
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:183
 msgid "Wage per production"
-msgstr "每点生产点数/薪资"
+msgstr "每点生产点数薪资"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:35
 msgid "Wage reduction accepted."
@@ -8041,24 +8041,24 @@ msgstr "你为何想提出这项法律？"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier pack"
-msgstr "冬日战士礼包"
+msgstr "Winter Soldier pack"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
-msgstr "有加成"
+msgstr "包含生产加成"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:195
 msgid "with bonus + fidelity"
-msgstr "有加成 + 忠诚度"
+msgstr "包含生产加成 + 忠诚度加成"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:111
 #: src/components/_military/battle/ActiveBattlesList.tsx:174
 msgid "With bounty"
-msgstr "带赏金"
+msgstr "赏金"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
-msgstr "巫师帽"
+msgstr "Wizard Hat"
 
 #: src/pages/events/index.tsx:138
 msgid "Won by"
@@ -8066,11 +8066,11 @@ msgstr "赢家"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
-msgstr "木制长弓"
+msgstr "Wooden Self Bow"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:254
 msgid "Woolly Mammoth"
-msgstr "长毛猛犸象"
+msgstr "Woolly Mammoth"
 
 #: src/components/_economy/company/WorkButton.tsx:244
 #: src/components/_user/mission/mission.frontConfig.tsx:76
@@ -8398,7 +8398,7 @@ msgstr "你参加了一次重要选举投票"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:537
 msgid "You was fired from the government by <0/>"
-msgstr "你已被 <0/> 从政府中革职"
+msgstr "你已被 <0/> 从政府中解雇"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:117
 msgid "You were an alpha tester (user before 20 march 2025)"
