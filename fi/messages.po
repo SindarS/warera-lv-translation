@@ -219,12 +219,12 @@ msgid "<0/> bought your banner{0}!"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:444
+#: src/components/_political/law/law.frontConfig.tsx:443
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:455
+#: src/components/_political/law/law.frontConfig.tsx:454
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> ostaa alueesi <1/> hintaan <2>{0}</2>"
 
@@ -353,7 +353,7 @@ msgstr "<0/> on rahoittanut vastarintaa maassa <1/>"
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> on muodostanut liiton <1/> kanssa"
 
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
 msgstr ""
 
@@ -1305,7 +1305,7 @@ msgstr ""
 msgid "Accept defensive pact"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:440
+#: src/components/_political/law/law.frontConfig.tsx:439
 msgid "Accept or reject a region buy offer"
 msgstr "Hyväksy tai hylkää alueostotarjous"
 
@@ -1590,7 +1590,7 @@ msgstr "Liitto on katkennut"
 msgid "An alliance has been formed"
 msgstr "Liitto on muodostettu"
 
-#: src/components/_political/law/law.frontConfig.tsx:380
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
 msgstr ""
 
@@ -2190,7 +2190,7 @@ msgid "Buy <0/>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:472
+#: src/components/_political/law/law.frontConfig.tsx:471
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr ""
 
@@ -2382,13 +2382,13 @@ msgstr ""
 msgid "Change the color scheme of the alliance."
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:546
+#: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
 msgstr "Muuta maan värimaailmaa"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:551
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Muuta maan väriteema <0>{0}</0> <1>{1}</1> karttakoristeella"
 
@@ -3846,15 +3846,15 @@ msgstr "Rahoita vastarintataistelua <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Rahoita vastarintataistelua maasi miehitetyllä alueella"
 
-#: src/components/_political/law/law.frontConfig.tsx:615
+#: src/components/_political/law/law.frontConfig.tsx:614
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Rahoita vastarintaa miehitetyn alueen vapauttamiseksi"
 
-#: src/components/_political/law/law.frontConfig.tsx:628
+#: src/components/_political/law/law.frontConfig.tsx:627
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Rahoita kapina vapauttaaksesi <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:614
+#: src/components/_political/law/law.frontConfig.tsx:613
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Rahoita ulkomaista vastustusta"
@@ -3863,7 +3863,7 @@ msgstr "Rahoita ulkomaista vastustusta"
 msgid "Finance local resistance"
 msgstr "Rahoita paikallista vastustusta"
 
-#: src/components/_political/law/law.frontConfig.tsx:619
+#: src/components/_political/law/law.frontConfig.tsx:618
 msgid "Finance resistance in <0/>"
 msgstr ""
 
@@ -4563,7 +4563,7 @@ msgstr "Työtarjouksia"
 msgid "Jobs"
 msgstr "Työpaikat"
 
-#: src/components/_political/law/law.frontConfig.tsx:385
+#: src/components/_political/law/law.frontConfig.tsx:384
 msgid "Join <0/>"
 msgstr ""
 
@@ -4571,7 +4571,7 @@ msgstr ""
 msgid "Join a Military Unit"
 msgstr "Liity sotilasyksikköön"
 
-#: src/components/_political/law/law.frontConfig.tsx:379
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
 msgstr ""
@@ -4810,15 +4810,15 @@ msgstr "Nosta osaamistasi!"
 msgid "Level up!"
 msgstr "Taso ylöspäin!"
 
-#: src/components/_political/law/law.frontConfig.tsx:499
+#: src/components/_political/law/law.frontConfig.tsx:498
 msgid "Liberate <0/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:508
+#: src/components/_political/law/law.frontConfig.tsx:507
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Vapauta <0/> ja palauta se alkuperäiseen maahan"
 
-#: src/components/_political/law/law.frontConfig.tsx:494
+#: src/components/_political/law/law.frontConfig.tsx:493
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Vapauta alue"
@@ -6427,16 +6427,16 @@ msgid "Propose peace to another country"
 msgstr "Ehdota rauhaa toiselle maalle"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:482
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Ehdota ostaa <0/> alkaen <1/> hintaan <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:467
+#: src/components/_political/law/law.frontConfig.tsx:466
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Ehdota alueen ostamista"
 
-#: src/components/_political/law/law.frontConfig.tsx:468
+#: src/components/_political/law/law.frontConfig.tsx:467
 msgid "Propose to buy a region from another country"
 msgstr "Ehdota alueen ostamista toisesta maasta"
 
@@ -6637,7 +6637,7 @@ msgstr "Regens <0>{0}</0> kulutettuna"
 msgid "Region"
 msgstr "Alue"
 
-#: src/components/_political/law/law.frontConfig.tsx:439
+#: src/components/_political/law/law.frontConfig.tsx:438
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Alueen ostotarjous"
@@ -6766,7 +6766,7 @@ msgstr "Erotetaan valtuuston jäsen"
 msgid "Remove Description"
 msgstr "Poista kuvaus"
 
-#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:428
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Poista vihollinen"
@@ -6914,7 +6914,7 @@ msgstr "Vastaus viestiin"
 msgid "Restore your health!"
 msgstr "Palauta terveytesi!"
 
-#: src/components/_political/law/law.frontConfig.tsx:495
+#: src/components/_political/law/law.frontConfig.tsx:494
 msgid "Return a region to its original country"
 msgstr "Palauta alue alkuperäiseen maahan"
 
@@ -7168,7 +7168,7 @@ msgstr "Myyntihinta:"
 msgid "sells"
 msgstr "myy"
 
-#: src/components/_political/law/law.frontConfig.tsx:419
+#: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
 msgstr ""
 
@@ -7198,7 +7198,7 @@ msgstr "Lähetä Viesti"
 
 #. placeholder {0}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].allianceTaxRate * 100
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
 msgstr ""
 
@@ -7214,11 +7214,11 @@ msgstr "Aseta <0>kuvaus</0>"
 msgid "Set a referrer"
 msgstr "Aseta viittaus"
 
-#: src/components/_political/law/law.frontConfig.tsx:519
+#: src/components/_political/law/law.frontConfig.tsx:518
 msgid "Set a welcome article for your country"
 msgstr "Aseta tervetuloartikkeli maallesi"
 
-#: src/components/_political/law/law.frontConfig.tsx:524
+#: src/components/_political/law/law.frontConfig.tsx:523
 msgid "Set a welcome article for your country<0/>"
 msgstr "Aseta tervetuliaisartikkeli maallesi<0/>"
 
@@ -7226,13 +7226,13 @@ msgstr "Aseta tervetuliaisartikkeli maallesi<0/>"
 msgid "Set bounty"
 msgstr "Aseta palkkio"
 
-#: src/components/_political/law/law.frontConfig.tsx:545
+#: src/components/_political/law/law.frontConfig.tsx:544
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Aseta maan väri"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:537
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
 msgstr ""
 
@@ -7252,17 +7252,17 @@ msgstr "Aseta puolueen etiikka"
 msgid "Set Profile Picture"
 msgstr "Aseta profiilikuva"
 
-#: src/components/_political/law/law.frontConfig.tsx:591
+#: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Aseta erikoistumiskohde"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:597
+#: src/components/_political/law/law.frontConfig.tsx:596
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Aseta maan erikoistuote <0>{0}</0>.<1/>Maan strategiset resurssit <2>Tuotantobonus</2> ovat saatavilla tätä tuotetta valmistaville paikallisille yrityksille."
 
-#: src/components/_political/law/law.frontConfig.tsx:592
+#: src/components/_political/law/law.frontConfig.tsx:591
 msgid "Set the country's specialized production item"
 msgstr "Aseta maan erikoistuote"
 
@@ -7270,7 +7270,7 @@ msgstr "Aseta maan erikoistuote"
 msgid "Set Username"
 msgstr "Aseta käyttäjätunnus"
 
-#: src/components/_political/law/law.frontConfig.tsx:518
+#: src/components/_political/law/law.frontConfig.tsx:517
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Aseta tervetuloartikkeli"
@@ -8145,11 +8145,11 @@ msgstr "Tapaht."
 msgid "Transactions"
 msgstr "Tapahtumat"
 
-#: src/components/_political/law/law.frontConfig.tsx:409
+#: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Transfer <0/> to <1/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:403
+#: src/components/_political/law/law.frontConfig.tsx:402
 #: src/components/_political/law/lawNames.tsx:28
 msgid "Transfer money"
 msgstr "Siirrä rahaa"
@@ -8270,8 +8270,8 @@ msgstr "Levottomuuksien avustajat"
 msgid "Unselect all"
 msgstr "Poista kaikki valinnat"
 
-#: src/components/_political/law/law.frontConfig.tsx:430
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Purkaa vannonut vihollismaa"
 

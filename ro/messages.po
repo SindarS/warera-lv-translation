@@ -216,12 +216,12 @@ msgid "<0/> bought your banner{0}!"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:444
+#: src/components/_political/law/law.frontConfig.tsx:443
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:455
+#: src/components/_political/law/law.frontConfig.tsx:454
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> cumpără regiunea <1/> pentru <2>{0}</2>"
 
@@ -350,7 +350,7 @@ msgstr "<0/> a finanțat o luptă de rezistență în <1/>"
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> s-a aliat cu <1/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
 msgstr ""
 
@@ -1302,7 +1302,7 @@ msgstr ""
 msgid "Accept defensive pact"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:440
+#: src/components/_political/law/law.frontConfig.tsx:439
 msgid "Accept or reject a region buy offer"
 msgstr "Acceptă sau respinge o ofertă de cupărare a unei regiuni"
 
@@ -1587,7 +1587,7 @@ msgstr "O alianță a fost ruptă"
 msgid "An alliance has been formed"
 msgstr "O alianță a fost formată"
 
-#: src/components/_political/law/law.frontConfig.tsx:380
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
 msgstr ""
 
@@ -2187,7 +2187,7 @@ msgid "Buy <0/>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:472
+#: src/components/_political/law/law.frontConfig.tsx:471
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr ""
 
@@ -2379,13 +2379,13 @@ msgstr ""
 msgid "Change the color scheme of the alliance."
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:546
+#: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
 msgstr "Schimbă paleta de culori a țării"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:551
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Schimbă paleta de culori a țării la <0>{0}</0> cu o tentă <1>{1}</1>"
 
@@ -3843,15 +3843,15 @@ msgstr "Finanțează o revoltă în <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Finanțează o revoltă într-o regiune ocupată a țării tale"
 
-#: src/components/_political/law/law.frontConfig.tsx:615
+#: src/components/_political/law/law.frontConfig.tsx:614
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Finanțează o revoltă pentru eliberarea unei regiuni ocupate"
 
-#: src/components/_political/law/law.frontConfig.tsx:628
+#: src/components/_political/law/law.frontConfig.tsx:627
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Finanțează o revoltă pentru a elibera <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:614
+#: src/components/_political/law/law.frontConfig.tsx:613
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Finanțează o revoltă străină"
@@ -3860,7 +3860,7 @@ msgstr "Finanțează o revoltă străină"
 msgid "Finance local resistance"
 msgstr "Finanțează o revoltă locală"
 
-#: src/components/_political/law/law.frontConfig.tsx:619
+#: src/components/_political/law/law.frontConfig.tsx:618
 msgid "Finance resistance in <0/>"
 msgstr ""
 
@@ -4560,7 +4560,7 @@ msgstr "Oferte de muncă"
 msgid "Jobs"
 msgstr "Locuri de muncă"
 
-#: src/components/_political/law/law.frontConfig.tsx:385
+#: src/components/_political/law/law.frontConfig.tsx:384
 msgid "Join <0/>"
 msgstr ""
 
@@ -4568,7 +4568,7 @@ msgstr ""
 msgid "Join a Military Unit"
 msgstr "Alătură-te unei Unități Militare"
 
-#: src/components/_political/law/law.frontConfig.tsx:379
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
 msgstr ""
@@ -4807,15 +4807,15 @@ msgstr "Crește-ți competențele!"
 msgid "Level up!"
 msgstr "Ai avansat în nivel!"
 
-#: src/components/_political/law/law.frontConfig.tsx:499
+#: src/components/_political/law/law.frontConfig.tsx:498
 msgid "Liberate <0/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:508
+#: src/components/_political/law/law.frontConfig.tsx:507
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Eliberează <0/> către țara originală"
 
-#: src/components/_political/law/law.frontConfig.tsx:494
+#: src/components/_political/law/law.frontConfig.tsx:493
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Eliberează o regiune"
@@ -6424,16 +6424,16 @@ msgid "Propose peace to another country"
 msgstr "Propune pace cu o altă țară"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:482
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Propune cumpărarea regiunii <0/> de la <1/> pentru <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:467
+#: src/components/_political/law/law.frontConfig.tsx:466
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Propune cumpărarea unei regiuni"
 
-#: src/components/_political/law/law.frontConfig.tsx:468
+#: src/components/_political/law/law.frontConfig.tsx:467
 msgid "Propose to buy a region from another country"
 msgstr "Propune cumpărarea unei regiuni de la altă țară"
 
@@ -6634,7 +6634,7 @@ msgstr "Regenerează <0>{0}</0> la consum"
 msgid "Region"
 msgstr "Regiune"
 
-#: src/components/_political/law/law.frontConfig.tsx:439
+#: src/components/_political/law/law.frontConfig.tsx:438
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Ofertă de cumpărare regiune"
@@ -6763,7 +6763,7 @@ msgstr "Elimină membru partid"
 msgid "Remove Description"
 msgstr "Șterge Descriere"
 
-#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:428
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Elimină inamicul principal"
@@ -6911,7 +6911,7 @@ msgstr "Răspuns la mesaj"
 msgid "Restore your health!"
 msgstr "Reîncarcă-ți viața!"
 
-#: src/components/_political/law/law.frontConfig.tsx:495
+#: src/components/_political/law/law.frontConfig.tsx:494
 msgid "Return a region to its original country"
 msgstr "Eliberează o regiune către țara ei originală"
 
@@ -7165,7 +7165,7 @@ msgstr "Preț vânzare:"
 msgid "sells"
 msgstr "vinde"
 
-#: src/components/_political/law/law.frontConfig.tsx:419
+#: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
 msgstr ""
 
@@ -7195,7 +7195,7 @@ msgstr "Trimite mesaje"
 
 #. placeholder {0}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].allianceTaxRate * 100
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
 msgstr ""
 
@@ -7211,11 +7211,11 @@ msgstr "Setează o <0>descriere</0>"
 msgid "Set a referrer"
 msgstr "Setează recomandator"
 
-#: src/components/_political/law/law.frontConfig.tsx:519
+#: src/components/_political/law/law.frontConfig.tsx:518
 msgid "Set a welcome article for your country"
 msgstr "Seteaza un articol de bun-venit pentru țară"
 
-#: src/components/_political/law/law.frontConfig.tsx:524
+#: src/components/_political/law/law.frontConfig.tsx:523
 msgid "Set a welcome article for your country<0/>"
 msgstr "Seteaza un articol de bun-venit pentru țară<0/>"
 
@@ -7223,13 +7223,13 @@ msgstr "Seteaza un articol de bun-venit pentru țară<0/>"
 msgid "Set bounty"
 msgstr "Setează recompensă"
 
-#: src/components/_political/law/law.frontConfig.tsx:545
+#: src/components/_political/law/law.frontConfig.tsx:544
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Setează culoarea țării"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:537
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
 msgstr ""
 
@@ -7249,17 +7249,17 @@ msgstr "Setează etici partid"
 msgid "Set Profile Picture"
 msgstr "Setează poza de profil"
 
-#: src/components/_political/law/law.frontConfig.tsx:591
+#: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Setează produsul de specialitate"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:597
+#: src/components/_political/law/law.frontConfig.tsx:596
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Setează produsul de specialitate al țării la <0>{0}</0>.<1/><2>Bonusul de Producție</2> oferit de resursele strategice ale țării va fi disponibil pentru companii locale care produc acest produs."
 
-#: src/components/_political/law/law.frontConfig.tsx:592
+#: src/components/_political/law/law.frontConfig.tsx:591
 msgid "Set the country's specialized production item"
 msgstr "Setează produsul de specialitate al țării"
 
@@ -7267,7 +7267,7 @@ msgstr "Setează produsul de specialitate al țării"
 msgid "Set Username"
 msgstr "Setează numele de utilizator"
 
-#: src/components/_political/law/law.frontConfig.tsx:518
+#: src/components/_political/law/law.frontConfig.tsx:517
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Setează articol de bun-venit"
@@ -8142,11 +8142,11 @@ msgstr "Transac."
 msgid "Transactions"
 msgstr "Tranzacții"
 
-#: src/components/_political/law/law.frontConfig.tsx:409
+#: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Transfer <0/> to <1/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:403
+#: src/components/_political/law/law.frontConfig.tsx:402
 #: src/components/_political/law/lawNames.tsx:28
 msgid "Transfer money"
 msgstr "Transferă bani"
@@ -8267,8 +8267,8 @@ msgstr "Contribuții tensiune"
 msgid "Unselect all"
 msgstr "Deselectează tot"
 
-#: src/components/_political/law/law.frontConfig.tsx:430
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Elimină inamicul principal al țării"
 

@@ -218,12 +218,12 @@ msgid "<0/> bought your banner{0}!"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:444
+#: src/components/_political/law/law.frontConfig.tsx:443
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:455
+#: src/components/_political/law/law.frontConfig.tsx:454
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> pērk jūsu reģionu <1/> par <2>{0}</2>"
 
@@ -352,7 +352,7 @@ msgstr "<0/> finansēja pretošanos <1/>"
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> noslēdza aliansi ar <1/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
 msgstr ""
 
@@ -1304,7 +1304,7 @@ msgstr ""
 msgid "Accept defensive pact"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:440
+#: src/components/_political/law/law.frontConfig.tsx:439
 msgid "Accept or reject a region buy offer"
 msgstr "Pieņemt vai noraidīt reģiona pirkšanas piedāvājumu"
 
@@ -1589,7 +1589,7 @@ msgstr "Alianse tika lauzta"
 msgid "An alliance has been formed"
 msgstr "Alianse tika noslēgta"
 
-#: src/components/_political/law/law.frontConfig.tsx:380
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
 msgstr ""
 
@@ -2189,7 +2189,7 @@ msgid "Buy <0/>"
 msgstr ""
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:472
+#: src/components/_political/law/law.frontConfig.tsx:471
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr ""
 
@@ -2381,13 +2381,13 @@ msgstr ""
 msgid "Change the color scheme of the alliance."
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:546
+#: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
 msgstr "Pamainīt valsts krāsu"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:551
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Pamainīt valsts krāsu uz <0>{0}</0> ar <1>{1}</1> kartes toni"
 
@@ -3845,15 +3845,15 @@ msgstr "Finansēt sacelšanās kauju <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Finansēt sacelšanās kauju savas valsts okupētajā reģionā"
 
-#: src/components/_political/law/law.frontConfig.tsx:615
+#: src/components/_political/law/law.frontConfig.tsx:614
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Finansēt sacelšanos, lai atbrīvotu okupētu reģionu"
 
-#: src/components/_political/law/law.frontConfig.tsx:628
+#: src/components/_political/law/law.frontConfig.tsx:627
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Finansēt sacelšanos, lai atbrīvotu <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:614
+#: src/components/_political/law/law.frontConfig.tsx:613
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Finansēt ārvalsts sacelšanos"
@@ -3862,7 +3862,7 @@ msgstr "Finansēt ārvalsts sacelšanos"
 msgid "Finance local resistance"
 msgstr "Finansēt vietējo sacelšanos"
 
-#: src/components/_political/law/law.frontConfig.tsx:619
+#: src/components/_political/law/law.frontConfig.tsx:618
 msgid "Finance resistance in <0/>"
 msgstr ""
 
@@ -4562,7 +4562,7 @@ msgstr "Darba piedāvājumi"
 msgid "Jobs"
 msgstr "Darbs"
 
-#: src/components/_political/law/law.frontConfig.tsx:385
+#: src/components/_political/law/law.frontConfig.tsx:384
 msgid "Join <0/>"
 msgstr ""
 
@@ -4570,7 +4570,7 @@ msgstr ""
 msgid "Join a Military Unit"
 msgstr "Pievienojies Militārajai Vienībai"
 
-#: src/components/_political/law/law.frontConfig.tsx:379
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
 msgstr ""
@@ -4809,15 +4809,15 @@ msgstr "Uzlabo prasmes!"
 msgid "Level up!"
 msgstr "Jauns līmenis!"
 
-#: src/components/_political/law/law.frontConfig.tsx:499
+#: src/components/_political/law/law.frontConfig.tsx:498
 msgid "Liberate <0/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:508
+#: src/components/_political/law/law.frontConfig.tsx:507
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Atbrīvot <0/> un atgriezt to sākotnējās valsts rokās"
 
-#: src/components/_political/law/law.frontConfig.tsx:494
+#: src/components/_political/law/law.frontConfig.tsx:493
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Atbrīvot reģionu"
@@ -6426,16 +6426,16 @@ msgid "Propose peace to another country"
 msgstr "Piedāvāt pamieru kādai valstij"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:482
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Piedāvāt nopirkt <0/> no <1/> par <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:467
+#: src/components/_political/law/law.frontConfig.tsx:466
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Piedāvāt nopirkt reģionu"
 
-#: src/components/_political/law/law.frontConfig.tsx:468
+#: src/components/_political/law/law.frontConfig.tsx:467
 msgid "Propose to buy a region from another country"
 msgstr "Piedāvāt nopirkt citas valsts reģionu"
 
@@ -6636,7 +6636,7 @@ msgstr "Izmantošana atjauno <0>{0}</0>"
 msgid "Region"
 msgstr "Reģions"
 
-#: src/components/_political/law/law.frontConfig.tsx:439
+#: src/components/_political/law/law.frontConfig.tsx:438
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Reģiona pirkšanas piedāvājums"
@@ -6765,7 +6765,7 @@ msgstr "Atlaist padomes biedru"
 msgid "Remove Description"
 msgstr "Noņemt aprakstu"
 
-#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:428
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Noņemt ienaidnieku"
@@ -6913,7 +6913,7 @@ msgstr "Atbilde uz ziņu"
 msgid "Restore your health!"
 msgstr "Atjauno savas dzīvības!"
 
-#: src/components/_political/law/law.frontConfig.tsx:495
+#: src/components/_political/law/law.frontConfig.tsx:494
 msgid "Return a region to its original country"
 msgstr "Atgriezt reģionu sākotnējai valstij"
 
@@ -7167,7 +7167,7 @@ msgstr "Pārdošanas cena:"
 msgid "sells"
 msgstr "pārdod"
 
-#: src/components/_political/law/law.frontConfig.tsx:419
+#: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
 msgstr ""
 
@@ -7197,7 +7197,7 @@ msgstr "Nosūtīt Ziņu"
 
 #. placeholder {0}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].allianceTaxRate * 100
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
 msgstr ""
 
@@ -7213,11 +7213,11 @@ msgstr "Iestatīt <0>aprakstu</0>"
 msgid "Set a referrer"
 msgstr "Iestatīt ielūdzēju"
 
-#: src/components/_political/law/law.frontConfig.tsx:519
+#: src/components/_political/law/law.frontConfig.tsx:518
 msgid "Set a welcome article for your country"
 msgstr "Iestatīt jauniņo sasveicināšanās rakstu"
 
-#: src/components/_political/law/law.frontConfig.tsx:524
+#: src/components/_political/law/law.frontConfig.tsx:523
 msgid "Set a welcome article for your country<0/>"
 msgstr "Iestatīt jauniņo sasveicināšanās rakstu<0/>"
 
@@ -7225,13 +7225,13 @@ msgstr "Iestatīt jauniņo sasveicināšanās rakstu<0/>"
 msgid "Set bounty"
 msgstr "Iestatīt atlīdzību"
 
-#: src/components/_political/law/law.frontConfig.tsx:545
+#: src/components/_political/law/law.frontConfig.tsx:544
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Nomainīt valsts krāsu"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:537
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
 msgstr ""
 
@@ -7251,17 +7251,17 @@ msgstr "Iestatīt partijas vērtības"
 msgid "Set Profile Picture"
 msgstr "Nomainīt profila bildi"
 
-#: src/components/_political/law/law.frontConfig.tsx:591
+#: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Mainīt specializāciju"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:597
+#: src/components/_political/law/law.frontConfig.tsx:596
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Iestatīt <0>{0}</0> kā valsts specializācijas produktu.<1/>Valsts stratēģisko resursu <2>Ražošanas Bonuss</2> būs pieejams vietējiem uzņēmumiem, kas ražos šo produktu."
 
-#: src/components/_political/law/law.frontConfig.tsx:592
+#: src/components/_political/law/law.frontConfig.tsx:591
 msgid "Set the country's specialized production item"
 msgstr "Iestatīt valsts specializācijas produktu"
 
@@ -7269,7 +7269,7 @@ msgstr "Iestatīt valsts specializācijas produktu"
 msgid "Set Username"
 msgstr "Nomainīt Lietotājvārdu"
 
-#: src/components/_political/law/law.frontConfig.tsx:518
+#: src/components/_political/law/law.frontConfig.tsx:517
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Jauns sasveicināšanās raksts"
@@ -8144,11 +8144,11 @@ msgstr "Darījumi"
 msgid "Transactions"
 msgstr "Darījumi"
 
-#: src/components/_political/law/law.frontConfig.tsx:409
+#: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Transfer <0/> to <1/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:403
+#: src/components/_political/law/law.frontConfig.tsx:402
 #: src/components/_political/law/lawNames.tsx:28
 msgid "Transfer money"
 msgstr "Pārskaitīt naudu"
@@ -8269,8 +8269,8 @@ msgstr "Nemieru Dalībnieki"
 msgid "Unselect all"
 msgstr "Noņemt visu atlasi"
 
-#: src/components/_political/law/law.frontConfig.tsx:430
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Atiestatīt zvērētā ienaidnieka valsti"
 

@@ -218,12 +218,12 @@ msgid "<0/> bought your banner{0}!"
 msgstr "<0/> је купио твој банер{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:444
+#: src/components/_political/law/law.frontConfig.tsx:443
 msgid "<0/> buys <1/> for <2>{0}</2>"
 msgstr "<0/> купује <1/> за <2>{0}</2>"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:455
+#: src/components/_political/law/law.frontConfig.tsx:454
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> купује твој регион <1/> за <2>{0}</2>"
 
@@ -352,7 +352,7 @@ msgstr "<0/> финансира отпор у <1/>"
 msgid "<0/> has formed an alliance with <1/>"
 msgstr "<0/> склапа савез са <1/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:393
+#: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
 msgstr ""
 
@@ -1304,7 +1304,7 @@ msgstr ""
 msgid "Accept defensive pact"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:440
+#: src/components/_political/law/law.frontConfig.tsx:439
 msgid "Accept or reject a region buy offer"
 msgstr "Прихвати или одбиј понуду за куповину региона"
 
@@ -1589,7 +1589,7 @@ msgstr "Савез је раскинут"
 msgid "An alliance has been formed"
 msgstr "Савез је склопљен"
 
-#: src/components/_political/law/law.frontConfig.tsx:380
+#: src/components/_political/law/law.frontConfig.tsx:379
 msgid "An alliance has invited your country to join"
 msgstr ""
 
@@ -2189,7 +2189,7 @@ msgid "Buy <0/>"
 msgstr "Купи <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:472
+#: src/components/_political/law/law.frontConfig.tsx:471
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Купи <0/> од <1/> за <2>{0}</2>"
 
@@ -2381,13 +2381,13 @@ msgstr ""
 msgid "Change the color scheme of the alliance."
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:546
+#: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
 msgstr "Промени шему боја земље"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
-#: src/components/_political/law/law.frontConfig.tsx:552
+#: src/components/_political/law/law.frontConfig.tsx:551
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
 msgstr "Промени шему боја земље на <0>{0}</0> са <1>{1}</1> акцентом мапе"
 
@@ -3845,15 +3845,15 @@ msgstr "Финансирај битку отпора у <0/>"
 msgid "Finance a resistance battle in an occupied region of your country"
 msgstr "Финансирај битку отпора у окупираном региону ваше земље"
 
-#: src/components/_political/law/law.frontConfig.tsx:615
+#: src/components/_political/law/law.frontConfig.tsx:614
 msgid "Finance a resistance to liberate an occupied region"
 msgstr "Финансирај отпор за ослобађање окупираног региона"
 
-#: src/components/_political/law/law.frontConfig.tsx:628
+#: src/components/_political/law/law.frontConfig.tsx:627
 msgid "Finance a revolt to liberate <0/>"
 msgstr "Финансирај побуну за ослобођење <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:614
+#: src/components/_political/law/law.frontConfig.tsx:613
 #: src/components/_political/law/lawNames.tsx:38
 msgid "Finance foreign resistance"
 msgstr "Финансирај страни отпор"
@@ -3862,7 +3862,7 @@ msgstr "Финансирај страни отпор"
 msgid "Finance local resistance"
 msgstr "Финансирај локални отпор"
 
-#: src/components/_political/law/law.frontConfig.tsx:619
+#: src/components/_political/law/law.frontConfig.tsx:618
 msgid "Finance resistance in <0/>"
 msgstr "Финансирај отпор у <0/>"
 
@@ -4562,7 +4562,7 @@ msgstr "Понуде запослења"
 msgid "Jobs"
 msgstr "Послови"
 
-#: src/components/_political/law/law.frontConfig.tsx:385
+#: src/components/_political/law/law.frontConfig.tsx:384
 msgid "Join <0/>"
 msgstr ""
 
@@ -4570,7 +4570,7 @@ msgstr ""
 msgid "Join a Military Unit"
 msgstr "Придружи се војној јединици"
 
-#: src/components/_political/law/law.frontConfig.tsx:379
+#: src/components/_political/law/law.frontConfig.tsx:378
 #: src/components/_political/law/lawNames.tsx:27
 msgid "Join alliance"
 msgstr ""
@@ -4809,15 +4809,15 @@ msgstr "Надогради своје вештине!"
 msgid "Level up!"
 msgstr "Подигнут ниво!"
 
-#: src/components/_political/law/law.frontConfig.tsx:499
+#: src/components/_political/law/law.frontConfig.tsx:498
 msgid "Liberate <0/>"
 msgstr "Ослободи <0/>"
 
-#: src/components/_political/law/law.frontConfig.tsx:508
+#: src/components/_political/law/law.frontConfig.tsx:507
 msgid "Liberate <0/> and return it to its original country"
 msgstr "Ослободи <0/> и врати га изворној земљи"
 
-#: src/components/_political/law/law.frontConfig.tsx:494
+#: src/components/_political/law/law.frontConfig.tsx:493
 #: src/components/_political/law/lawNames.tsx:32
 msgid "Liberate a region"
 msgstr "Ослободи регион"
@@ -6426,16 +6426,16 @@ msgid "Propose peace to another country"
 msgstr "Предложи мир другој земљи"
 
 #. placeholder {0}: law.data.amount ?? 0
-#: src/components/_political/law/law.frontConfig.tsx:483
+#: src/components/_political/law/law.frontConfig.tsx:482
 msgid "Propose to buy <0/> from <1/> for <2>{0}</2>"
 msgstr "Предложи куповину <0/> од <1/> за <2>{0}</2>"
 
-#: src/components/_political/law/law.frontConfig.tsx:467
+#: src/components/_political/law/law.frontConfig.tsx:466
 #: src/components/_political/law/lawNames.tsx:31
 msgid "Propose to buy a region"
 msgstr "Предложи куповину региона"
 
-#: src/components/_political/law/law.frontConfig.tsx:468
+#: src/components/_political/law/law.frontConfig.tsx:467
 msgid "Propose to buy a region from another country"
 msgstr "Предложи куповину региона од друге земље"
 
@@ -6636,7 +6636,7 @@ msgstr "Регенерише <0>{0}</0> при конзумирању"
 msgid "Region"
 msgstr "Регион"
 
-#: src/components/_political/law/law.frontConfig.tsx:439
+#: src/components/_political/law/law.frontConfig.tsx:438
 #: src/components/_political/law/lawNames.tsx:30
 msgid "Region buy offer"
 msgstr "Понуда за куповину региона"
@@ -6765,7 +6765,7 @@ msgstr "Уклони члана савета"
 msgid "Remove Description"
 msgstr "Уклони опис"
 
-#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:428
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
 msgstr "Уклони непријатеља"
@@ -6913,7 +6913,7 @@ msgstr "Одговор на поруку"
 msgid "Restore your health!"
 msgstr "Обнови своје здравље!"
 
-#: src/components/_political/law/law.frontConfig.tsx:495
+#: src/components/_political/law/law.frontConfig.tsx:494
 msgid "Return a region to its original country"
 msgstr "Врати регион његовој изворној земљи"
 
@@ -7167,7 +7167,7 @@ msgstr "Продајна цена:"
 msgid "sells"
 msgstr "продаје"
 
-#: src/components/_political/law/law.frontConfig.tsx:419
+#: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
 msgstr ""
 
@@ -7197,7 +7197,7 @@ msgstr "Пошаљи поруку"
 
 #. placeholder {0}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].allianceTaxRate * 100
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
-#: src/components/_political/law/law.frontConfig.tsx:405
+#: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
 msgstr ""
 
@@ -7213,11 +7213,11 @@ msgstr "Постави <0>опис</0>"
 msgid "Set a referrer"
 msgstr "Постави препоручиоца"
 
-#: src/components/_political/law/law.frontConfig.tsx:519
+#: src/components/_political/law/law.frontConfig.tsx:518
 msgid "Set a welcome article for your country"
 msgstr "Постави чланак добродошлице за своју земљу"
 
-#: src/components/_political/law/law.frontConfig.tsx:524
+#: src/components/_political/law/law.frontConfig.tsx:523
 msgid "Set a welcome article for your country<0/>"
 msgstr "Постави чланак добродошлице за своју земљу<0/>"
 
@@ -7225,13 +7225,13 @@ msgstr "Постави чланак добродошлице за своју з�
 msgid "Set bounty"
 msgstr "Постави награду"
 
-#: src/components/_political/law/law.frontConfig.tsx:545
+#: src/components/_political/law/law.frontConfig.tsx:544
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
 msgstr "Постави боју земље"
 
 #. placeholder {0}: law.data.scheme
-#: src/components/_political/law/law.frontConfig.tsx:537
+#: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
 msgstr "Постави боју земље на <0>{0}</0> "
 
@@ -7251,17 +7251,17 @@ msgstr "Постави страначку етику"
 msgid "Set Profile Picture"
 msgstr "Постави профилну слику"
 
-#: src/components/_political/law/law.frontConfig.tsx:591
+#: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
 msgstr "Постави предмет специјализације"
 
 #. placeholder {0}: ts[law.data.itemCode]
-#: src/components/_political/law/law.frontConfig.tsx:597
+#: src/components/_political/law/law.frontConfig.tsx:596
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
 msgstr "Поставља специјализовани предмет државе на <0>{0}</0>.<1/> <2>Бонус производње</2> стратешких ресурса државе биће доступан локалним компанијама које производе овај предмет."
 
-#: src/components/_political/law/law.frontConfig.tsx:592
+#: src/components/_political/law/law.frontConfig.tsx:591
 msgid "Set the country's specialized production item"
 msgstr "Постави специјализовани предмет производње земље"
 
@@ -7269,7 +7269,7 @@ msgstr "Постави специјализовани предмет произ�
 msgid "Set Username"
 msgstr "Постави корисничко име"
 
-#: src/components/_political/law/law.frontConfig.tsx:518
+#: src/components/_political/law/law.frontConfig.tsx:517
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
 msgstr "Постави чланак добродошлице"
@@ -8144,11 +8144,11 @@ msgstr "Трансак."
 msgid "Transactions"
 msgstr "Трансакције"
 
-#: src/components/_political/law/law.frontConfig.tsx:409
+#: src/components/_political/law/law.frontConfig.tsx:408
 msgid "Transfer <0/> to <1/>"
 msgstr ""
 
-#: src/components/_political/law/law.frontConfig.tsx:403
+#: src/components/_political/law/law.frontConfig.tsx:402
 #: src/components/_political/law/lawNames.tsx:28
 msgid "Transfer money"
 msgstr "Пренос новца"
@@ -8269,8 +8269,8 @@ msgstr "Доприносиоци немира"
 msgid "Unselect all"
 msgstr "Поништи избор свега"
 
-#: src/components/_political/law/law.frontConfig.tsx:430
-#: src/components/_political/law/law.frontConfig.tsx:432
+#: src/components/_political/law/law.frontConfig.tsx:429
+#: src/components/_political/law/law.frontConfig.tsx:431
 msgid "Unset the sworn enemy country"
 msgstr "Поништи статус заклетог непријатеља"
 
