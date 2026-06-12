@@ -197,7 +197,7 @@ msgstr "<0/> ar <1>{0}</1> algu.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
-msgstr "<0/> tika nobanots <1/> no šīs sarunas"
+msgstr "<0/> nobanoja <1/> no šīs sarunas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -317,7 +317,7 @@ msgstr "<0/> tika ievēlēts par <1/> valsts prezidentu"
 
 #: src/components/_political/event/event.frontConfig.tsx:379
 msgid "<0/> has been excluded from the alliance <1/>"
-msgstr "<0/> tika izslēgts no alianses <1/>"
+msgstr "<0/> tika izslēgta no alianses <1/>"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:216
@@ -461,7 +461,7 @@ msgstr "<0/> pieminēja tevi <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "<0/> mentioned you in <1/><2/>"
-msgstr "<0/> ieminēja tevi <1/><2/>"
+msgstr "<0/> pieminēja tevi <1/><2/>"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:221
 msgid "<0/> paid fee"
@@ -756,7 +756,7 @@ msgstr "<0>#{key}</0> katra tipa resurss = <1>{value}</1>"
 
 #: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
-msgstr "<0>Vidējā attīstība</0> ir vidējais no <1>Pamata attīstības</1> un <2>Pašreizējās attīstības</2>."
+msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>Pamata attīstību</1> un <2>Pašreizējo attīstības</2>."
 
 #: src/components/_user/user/UserTooltip.tsx:131
 msgid "<0>Buff</0> ends <1/>"
@@ -764,7 +764,7 @@ msgstr "<0>Pastiprinājums</0> beigsies <1/>"
 
 #: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr "<0>Pamata attīstība</0> rēķinās atkarībā no valsts <1>Iedzīvotāju skaita</1> un vidējā <2>Līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>Pamatreģioniem</3>."
+msgstr "<0>Pamata attīstība</0> rēķinās atkarībā no valsts <1>Iedzīvotāju skaita</1> un to vidējā <2>Līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>Pamatreģioniem</3>."
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
@@ -1505,7 +1505,7 @@ msgstr "Alianse <0/> (<1/>)"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:92
 msgid "Alliance battle damage bonus"
-msgstr "Alianses kaujas bojājumu bonuss"
+msgstr "Alianses kauju bojājumu bonuss"
 
 #: src/components/_political/event/EventList.tsx:75
 msgid "Alliance broken"
@@ -2095,7 +2095,7 @@ msgstr ""
 #: src/components/_military/battle/BattleDamageBonuses.tsx:62
 #: src/components/_political/law/law.frontConfig.tsx:235
 msgid "Bonus damages"
-msgstr "Bonusa bojājumi"
+msgstr "Bojājumu bonusi"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:114
 msgid "Boost your production!"
@@ -2269,7 +2269,7 @@ msgstr "Admina atcelts"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:155
 msgid "Candidacy is open for <0/>"
-msgstr "Kandidēšana ir sākusies <0/>"
+msgstr "Kandidēšana <0/> ir sākusies"
 
 #: src/components/_political/election/CandidateFormModal.tsx:86
 msgid "Candidate"
@@ -2427,7 +2427,7 @@ msgstr "Izvēlies savu pusi un spied, lai nodarītu <0>Bojājumus</0>! Turpini s
 
 #: src/components/_economy/inventory/CraftModal.tsx:358
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr "Izvēlēties konkrētu mantu izmaksā x2 tērauda:"
+msgstr "Izvēlēties konkrētu mantu maksā x2 tērauda:"
 
 #: src/components/_user/user/UserHeader.tsx:282
 msgid "Citizen since <0><1/></0>"
@@ -3744,7 +3744,7 @@ msgstr "Fanātiskais Izolacionisms: visu likumu uzturēšana izmaksā par {more}
 
 #: src/components/_political/law/LawEthicEffects.tsx:114
 msgid "Fanatic Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr "Fanātiskais Izolacionisms: zvērētā ienaidnieka bonuss sākas ar {start}% un aug par +{perDay}% dienā."
+msgstr "Fanātiskais Izolacionisms: zvērētā ienaidnieka bonuss sākas ar {start}% un pieaug par +{perDay}% dienā."
 
 #: src/components/_political/party/party.frontConfig.tsx:56
 msgid "Fanatic Pacifist"
@@ -4357,7 +4357,7 @@ msgstr "Ja jaunais nominants jau ir valdībā, tā pozīcijas ar jauno amatu tik
 
 #: src/components/_political/party/party.frontConfig.tsx:429
 msgid "If your capital is occupied, national orders give only the regular bonus and the capital automatically revolts at full resistance."
-msgstr "Ja tava galvaspilsēta ir okupēta, valsts rīkojumi dod tikai parasto bonusu un galvaspilsētā automātiski notiek sacelšanās ar pilnu pretošanos."
+msgstr "Ja tava galvaspilsēta ir okupēta, valsts rīkojumi dod tikai parasto bonusu un sacelšanās galvaspilsētā automātiski notiek ar pilnu pretošanās līmeni."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:51
 msgid "Imagine if you stop right before the Mythic"
@@ -4514,7 +4514,7 @@ msgstr "Izolacionisms"
 
 #: src/components/_political/law/LawEthicEffects.tsx:128
 msgid "Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr "Izolacionisms: zvērētā ienaidnieka bonuss sākas ar {start}% un aug par +{perDay}% dienā."
+msgstr "Izolacionisms: zvērētā ienaidnieka bonuss sākas ar {start}% un pieaug par +{perDay}% dienā."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
@@ -6386,11 +6386,11 @@ msgstr "Ierosināt priekšlikumu"
 
 #: src/components/_political/law/law.frontConfig.tsx:268
 msgid "Propose a mutual defensive pact with <0/>. Once accepted, defenders of either country get a bonus that starts at 1% and grows +1% per day up to 10%."
-msgstr "Piedāvāt abpusēju aizsardzības paktu ar <0/>. Tiklīdz pieņemts, abu valstu pilsoņi gūst bonusu aizsardzībā, kas sākas ar 1% un aug par +1% dienā līdz 10%. "
+msgstr "Piedāvāt abpusēju aizsardzības paktu ar <0/>. Tiklīdz pieņemts, abu valstu pilsoņi gūst bonusu aizsardzībā, kas sākas ar 1% un pieaug par +1% dienā līdz 10%. "
 
 #: src/components/_political/law/law.frontConfig.tsx:254
 msgid "Propose a mutual defensive pact with another country to get a growing defensive bonus"
-msgstr "Piedāvāt abpusēju aizsardzības paktu ar kādu valsti, lai gūtu augošu aizsardzības bonusu"
+msgstr "Piedāvāt abpusēju aizsardzības paktu ar kādu valsti, lai gūtu pieaugošu aizsardzības bonusu"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:125
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:36
@@ -6721,7 +6721,7 @@ msgstr "Atlaist <0/> no kongresa neaktivitātes dēļ"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:82
 msgid "Remove <0/> from the alliance immediately on acceptance."
-msgstr "Izraidīt <0/> no alianses, nekavējoties pēc pieņemšanas."
+msgstr "Izraidīt <0/> no alianses nekavējoties pēc pieņemšanas."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:38
 msgid "Remove <0/> from the party council"
@@ -7199,7 +7199,7 @@ msgstr "Nosūtīt ziņu"
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
 #: src/components/_political/law/law.frontConfig.tsx:405
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
-msgstr "Nosūtīt naudu uz citu valsti. Papīra nodoklis pa virsu: {0}% alianses starpā, {1}% priekš ārējiem pārskaitījumiem."
+msgstr "Nosūtīt naudu uz citu valsti. Papīra nodoklis pa virsu: {0}% starp alianses dalībvalstīm, {1}% priekš ārējiem pārskaitījumiem."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
@@ -7296,7 +7296,7 @@ msgstr "Veikals"
 #. placeholder {0}: Math.min(step, remaining)
 #: src/components/_political/party/PartyMembers.tsx:217
 msgid "Show {0} more ({remaining} remaining)"
-msgstr "Parādīt {0} vairāk ({remaining} remaining)"
+msgstr "Parādīt vēl {0} (atlika {remaining})"
 
 #. placeholder {0}: auction.bids.length
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
@@ -7441,7 +7441,7 @@ msgstr "Tēriņi"
 
 #: src/components/_political/country/CountryHeader.tsx:186
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
-msgstr "Stabils iekarojuma-noturīgs spēks. Joprojām izmantots priekš nemieriem, valdības algām un revolūcijas izmaksām. Citas izmaksas izmanto <0>Vidējo attīstību</0>."
+msgstr "Stabils, iekarojuma-noturīgs spēks. Joprojām izmantots priekš nemieriem, valdības algām un revolūcijas izmaksām. Citas izmaksas izmanto <0>Vidējo attīstību</0>."
 
 #: src/components/_political/law/law.frontConfig.tsx:169
 #: src/components/_political/law/law.frontConfig.tsx:171
@@ -7656,7 +7656,7 @@ msgstr "Zvērētā ienaidnieka uzturēšanas maksa tiek palielināta par <0>{0}<
 #: src/components/_political/party/party.frontConfig.tsx:141
 #: src/components/_political/party/party.frontConfig.tsx:177
 msgid "Sworn enemy treaties start at <0>{0} fidelity</0> and gain <1>{1}</1> each day."
-msgstr "Zvērētā ienaidnieka bonuss sākas ar <0>{0}%</0> un aug par <1>{1}%</1> dienā."
+msgstr "Zvērētā ienaidnieka bonuss sākas ar <0>{0}%</0> un pieaug par <1>{1}%</1> dienā."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:433
@@ -7759,7 +7759,7 @@ msgstr "Līgums tika atcelts. <0>{0}</0> nosūtīts atpakaļ <1/>."
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
-msgstr "Izmaksas ir likuma bāzes izmaksas, kas koriģētas atbilstoši valsts vidējai attīstībai."
+msgstr "Izmaksas aprēķinās no likuma bāzes maksas, kas koriģētas atbilstoši valsts vidējai attīstībai."
 
 #: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
@@ -8203,7 +8203,7 @@ msgstr "Neētisks"
 
 #: src/components/_political/law/LawEthicEffects.tsx:79
 msgid "Unethical countries cannot hold any treaty — this law cannot be enacted."
-msgstr "Neētiskas valstis nevar noslēgt nekādu starptautisku līgumu — šis likums nevar tikt ierosināts."
+msgstr "Neētiskās valstis nevar noslēgt nekādu starptautisku līgumu — šis likums nevar tikt ierosināts."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:457
@@ -8687,7 +8687,7 @@ msgstr "Aizstāvoties pret sacelšanos, gūsti papildu <0>{0}</0> kaujas bonusu 
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
-msgstr "Taisot sacelšanos, tu kopē ienaidnieka aizsardzības kaujas bonusu no Bunkura uzlabojumiem."
+msgstr "Taisot sacelšanos, tu kopē ienaidnieka aizsardzības bonusu no Bunkura līmeņa."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
@@ -9018,7 +9018,7 @@ msgstr "Abonēt var tikai tīmekļa lapā"
 
 #: src/components/_political/government/PoliticalEthicsSelect.tsx:115
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
-msgstr "Tu vari izmantot visus 3 vērtību punktus ({pointsRemaining} atlikuši)"
+msgstr "Tu vari izmantot visus 3 vērtību punktus (atlika {pointsRemaining})"
 
 #: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
