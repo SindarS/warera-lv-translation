@@ -210,7 +210,7 @@ msgstr "<0/> nopirka tavu {assetLabel}!"
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1508
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr "<0/> nopirka tavu baneri{0} kā dāvanu priekš <1/>!"
+msgstr "<0/> nopirka tavu baneri{0} kā dāvanu <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1516
