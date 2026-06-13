@@ -9018,7 +9018,7 @@ msgstr "Abonēt var tikai tīmekļa lapā"
 
 #: src/components/_political/government/PoliticalEthicsSelect.tsx:115
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
-msgstr "Tu vari izmantot visus 3 vērtību punktus (atlika {pointsRemaining})"
+msgstr "Tev jāizmanto visi 3 vērtību punkti (atlikuši {pointsRemaining})"
 
 #: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
