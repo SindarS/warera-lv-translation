@@ -358,7 +358,7 @@ msgstr "<0/> ielūdza tavu valsti pievienoties."
 
 #: src/components/_political/event/event.frontConfig.tsx:349
 msgid "<0/> has joined the alliance <1/>"
-msgstr "<0/> pievienojās aliansei <1/>"
+msgstr "<0/> pievienojās <1/> aliansei"
 
 #: src/components/_political/event/event.frontConfig.tsx:364
 msgid "<0/> has left the alliance <1/>"
