@@ -6123,7 +6123,7 @@ msgstr "Gaidāmā algas samazināšana"
 
 #: src/components/_political/event/event.frontConfig.tsx:422
 msgid "People are angry, an auto revolt has started in <0/>"
-msgstr "Cilvēki ir saniknoti, automātiskā sacelšanās ir sākusies <0/>"
+msgstr "Cilvēki ir saniknoti, ir sākusies automātiskā sacelšanās <0/>"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
