@@ -473,7 +473,7 @@ msgstr "<0/> Prioritāte beigsies pēc <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:296
 msgid "<0/> proposed a mutual defensive pact to your country."
-msgstr "<0/> piedāvāja abpusēju aizsardzības paktu tavai valstij."
+msgstr "<0/> piedāvāja tavai valstij abpusēju aizsardzības paktu."
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:145
 msgid "<0/> proposed a new alliance law: <1/>"
@@ -756,7 +756,7 @@ msgstr "<0>#{key}</0> katra tipa resurss = <1>{value}</1>"
 
 #: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
-msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>Pamata attīstību</1> un <2>Pašreizējo attīstības</2>."
+msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>Pamata attīstību</1> un <2>Pašreizējo attīstību</2>."
 
 #: src/components/_user/user/UserTooltip.tsx:131
 msgid "<0>Buff</0> ends <1/>"
@@ -764,11 +764,11 @@ msgstr "<0>Pastiprinājums</0> beigsies <1/>"
 
 #: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr "<0>Pamata attīstība</0> rēķinās atkarībā no valsts <1>Iedzīvotāju skaita</1> un to vidējā <2>Līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>Pamatreģioniem</3>."
+msgstr "<0>Pamata attīstība</0> tiek aprēķināta atkarībā no valsts <1>Iedzīvotāju skaita</1> un to vidējā <2>Līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>Pamatreģioniem</3>."
 
 #: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
-msgstr "<0>Pašreizējā attīstība</0> ir kopēja attīstība valsts kontrolējamos <1>reģionos</1>, ieskaitot iekaroto teritoriju."
+msgstr "<0>Pašreizējā attīstība</0> ir kopējā attīstība valsts kontrolējamos <1>reģionos</1>, ieskaitot iekarotās teritorijas."
 
 #: src/components/_user/user/UserTooltip.tsx:140
 msgid "<0>Debuff</0> ends <1/>"
@@ -815,7 +815,7 @@ msgstr "<0>Tavam profilam ir nepieciešama papildu verifikācija. Lūdzu verific
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr "= tērē vairāk enerģijas"
+msgstr "= patērē vairāk resursus"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1950,7 +1950,7 @@ msgstr "Bani"
 
 #: src/components/_political/law/LawCostExplanation.tsx:38
 msgid "Base cost"
-msgstr "Bāzes izmaksa"
+msgstr "Pamata izmaksas"
 
 #: src/utils/translations.tsx:203
 msgid "Basic Boots"
@@ -2342,7 +2342,7 @@ msgstr "Iespēja trāpīt mērķim.<0/>Netrāpījumi nevar nodarīt kritisku tri
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:65
 msgid "Change {0} tax to <0/>"
-msgstr "Pamainīt {0} nodokli uz <0/>"
+msgstr "Mainīt {0} nodokli uz <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:61
 msgid "Change a country tax"
@@ -2351,12 +2351,12 @@ msgstr "Pamainīt vienu no valsts nodokļiem"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:19
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:141
 msgid "Change color"
-msgstr "Pamainīt krāsu"
+msgstr "Mainīt krāsu"
 
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:149
 msgid "Change color to <0>{0}</0>"
-msgstr "Pamainīt krāsu uz <0>{0}</0>"
+msgstr "Mainīt krāsu uz <0>{0}</0>"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2379,11 +2379,11 @@ msgstr "Pamainīt alianses krāsu shēmu <0>{0}</0> nekavējoties pēc pieņemš
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
-msgstr "Pamainīt alianses krāsu shēmu."
+msgstr "Mainīt alianses krāsu shēmu."
 
 #: src/components/_political/law/law.frontConfig.tsx:546
 msgid "Change the country color scheme"
-msgstr "Pamainīt valsts krāsu shēmu"
+msgstr "Mainīt valsts krāsu shēmu"
 
 #. placeholder {0}: law.data.scheme
 #. placeholder {1}: law.data.mapAccent
@@ -2393,7 +2393,7 @@ msgstr "Pamainīt valsts krāsu uz <0>{0}</0> ar <1>{1}</1> kartes toni"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:121
 msgid "Change the name of the alliance."
-msgstr "Pamainīt alianses nosaukumu."
+msgstr "Mainīt alianses nosaukumu."
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:76
@@ -2852,7 +2852,7 @@ msgstr "Valsts ražošanas bonuss"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:141
 msgid "Country to invite"
-msgstr "Ielūgt valsti"
+msgstr "Ielūdzamā valsts"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:181
 msgid "Country Tournament Winner"
@@ -2888,7 +2888,7 @@ msgstr "Dibini Uzņēmumu"
 #. placeholder {1}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:342
 msgid "Create a new alliance named <0>{0}</0> with <1>{1}</1> color scheme."
-msgstr "Izveidot jaunu aliansi ar nosaukumu <0>{0}</0> ar <1>{1}</1> krāsu shēmu."
+msgstr "Izveidot jaunu aliansi ar nosaukumu <0>{0}</0> un <1>{1}</1> krāsu shēmu."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:356
 msgid "Create a new company"
@@ -4958,7 +4958,7 @@ msgstr "Majors"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:110
 msgid "Make <0/> the new alliance leader. The leader can edit the alliance avatar and color scheme directly."
-msgstr "Iecelt <0/> par jauno alianses līderi. Līderis var pats rediģēt alianses profila bildi un krāsu shēmu."
+msgstr "Iecelt <0/> par jauno alianses līderi. Līderis var rediģēt alianses profila bildi un krāsu shēmu."
 
 #: src/components/_user/premium/PremiumActions.tsx:81
 msgid "Manage Subscription"
@@ -5082,7 +5082,7 @@ msgstr "Dalībvalstis"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:153
 msgid "Member country to kick"
-msgstr "Dalībvalsts, kuru izraidīt"
+msgstr "Izraidāmā dalībvalsts"
 
 #: src/components/_military/mu/MuMemberList.tsx:116
 msgid "Member demoted from commander"
@@ -5589,11 +5589,11 @@ msgstr "Nav aktīvu karu"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:101
 msgid "No alliance bonus: the allied country's membership is suspended for unpaid alliance maintenance."
-msgstr "Nav alianses bonusa: sabiedrotās valsts dalība ir apturēta par neapmaksātu alianses uzturēšanas maksu."
+msgstr "Nav alianses bonusa: sabiedrotās valsts dalība ir apturēta neapmaksātu alianses uzturēšanas izmaksu dēļ."
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:96
 msgid "No alliance bonus: your country's membership is suspended for unpaid alliance maintenance."
-msgstr "Nav alianses bonusa: tavas valsts dalība ir apturēta par neapmaksātu alianses uzturēšanas maksu."
+msgstr "Nav alianses bonusa: tavas valsts dalība ir apturēta neapmaksātu alianses uzturēšanas izmaksu dēļ."
 
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:50
 msgid "No alliance laws yet"
@@ -5774,7 +5774,7 @@ msgstr "Nav slikti!"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
-msgstr "Nepietiek papīra, lai izmaksāt dienas alianses uzturēšanas maksu. Alianses bojājumu bonusi tiek izslēgti šai valstij, līdz tā samaksā."
+msgstr "Nepietiek papīra, lai apmaksātu alianses dienas izmaksas. Šīs valsts alianses bojājumu bonusi tiek apturēti līdz izmaksas tiks segtas."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:36
 msgid "Not impressive, but not shameful"
@@ -6386,11 +6386,11 @@ msgstr "Ierosināt priekšlikumu"
 
 #: src/components/_political/law/law.frontConfig.tsx:268
 msgid "Propose a mutual defensive pact with <0/>. Once accepted, defenders of either country get a bonus that starts at 1% and grows +1% per day up to 10%."
-msgstr "Piedāvāt abpusēju aizsardzības paktu ar <0/>. Tiklīdz pieņemts, abu valstu pilsoņi gūst bonusu aizsardzībā, kas sākas ar 1% un pieaug par +1% dienā līdz 10%. "
+msgstr "Piedāvāt <0/> abpusēju aizsardzības paktu. Tiklīdz tas tiks pieņemts, abu valstu pilsoņi gūs bonusu aizsardzībā, kas sākas ar 1% un pieaug par +1% dienā līdz 10%. "
 
 #: src/components/_political/law/law.frontConfig.tsx:254
 msgid "Propose a mutual defensive pact with another country to get a growing defensive bonus"
-msgstr "Piedāvāt abpusēju aizsardzības paktu ar kādu valsti, lai gūtu pieaugošu aizsardzības bonusu"
+msgstr "Piedāvāt abpusēju aizsardzības paktu kādai valstij, lai gūtu pieaugošu aizsardzības bonusu"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:125
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:36
@@ -6668,7 +6668,7 @@ msgstr "Reģioni"
 
 #: src/components/_political/party/party.frontConfig.tsx:125
 msgid "Regions you occupy generate double the amount of resistance."
-msgstr "Reģioni, kurus tu okupē rada pretestību dubultā."
+msgstr "Reģioni, kurus tu okupē rada dubultu pretestības apjomu."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:131
 msgid "Register"
@@ -6786,12 +6786,12 @@ msgstr "Pārsaukt"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:18
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:120
 msgid "Rename alliance"
-msgstr "Pārsaukt aliansi"
+msgstr "Pārdēvēt aliansi"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
 msgid "Rename alliance to \"{0}\""
-msgstr "Pārsaukt aliansi uz \"{0}\""
+msgstr "Pārdēvēt aliansi uz \"{0}\""
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
@@ -7507,7 +7507,7 @@ msgstr "Sākam no apakšas…"
 #. placeholder {0}: gameConfig?.battle.enemyDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:237
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
-msgstr "sākas ar 1% un aug +1% dienā līdz <0>{0}</0>"
+msgstr "sākas ar 1% un pieaug par +1% dienā līdz <0>{0}</0>"
 
 #: src/pages/events/index.tsx:117
 msgid "Starts soon..."
@@ -7634,7 +7634,7 @@ msgstr "Atbalstītāja Plāns"
 
 #: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
-msgstr "Atbalstītāja Plāns ļauj tev saglabāt līdz {maxKits} pielāgotiem ekipējuma komplektiem un pārslēgties starp tiem ar vienu klīkšķi."
+msgstr "Atbalstītāja Plāns ļauj tev saglabāt līdz {maxKits} pielāgotiem ekipējuma komplektiem un pārslēgties starp tiem ar vienu klikšķi."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7759,7 +7759,7 @@ msgstr "Līgums tika atcelts. <0>{0}</0> nosūtīts atpakaļ <1/>."
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
-msgstr "Izmaksas aprēķinās no likuma bāzes maksas, kas koriģētas atbilstoši valsts vidējai attīstībai."
+msgstr "Izmaksas tiek aprēķinātas no likuma pamata maksas un koriģētas atbilstoši valsts vidējai attīstībai."
 
 #: src/components/_user/user/skills.frontConfig.tsx:59
 msgid "The damage factor increase of critical hits over normal hits"
@@ -7779,7 +7779,7 @@ msgstr "Tabletes darbība ir beigusies. Tagad tev ir paģiras, kas ilgs <0>{debu
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
-msgstr "Pilns <0/> bonuss tiek piemērots līdz <1/> <2>Attīstības</2> īpatsvara pasaulē. Virs tā, bonuss krīt par <3/> par katru īpatsvara procentpunktu, līdz <4/>."
+msgstr "Pilns <0/> bonuss tiek piemērots līdz <1/> no <2>Attīstības</2> īpatsvara pasaulē. Virs tā, bonuss krīt par <3/> par katru īpatsvara procentpunktu, līdz <4/>."
 
 #. placeholder {0}: Math.round(contract.moneyPool * 10) / 100
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:85
@@ -7845,7 +7845,7 @@ msgstr "Šis ir kopsavilkums par laupījumu, ko saņēmāt šajā kaujā. Tas sa
 
 #: src/components/_political/country/CountryHeader.tsx:215
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
-msgstr "Šī vērtība tiek izmantota, lai aprēķinātu lielāko daļu izmaksu: kaujas rīkojumi, alianses, zvērētu ienaidnieku un aizsardzības paktu uzturēšana, likumi un uzlabojumu uzturēšana."
+msgstr "Šī vērtība tiek izmantota, lai aprēķinātu lielāko daļu izmaksu: kauju rīkojumiem, aliansēm, zvērēto ienaidnieku un aizsardzības paktu uzturēšanai, likumiem un uzlabojumu uzturēšanai."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:27
 msgid "This is your company hub. Here you can produce items and build your empire."
@@ -8213,7 +8213,7 @@ msgstr "Neētisks: ja galvaspilsēta okupēta, valsts rīkojumi dod tikai parast
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:452
 msgid "Unethical: national orders deal ×2 damage but cost ×2 <0>{0}</0>"
-msgstr "Neētisks: valsts rīkojumi nodara x2 bojājumu, bet maksā x2 <0>{0}</0>"
+msgstr "Neētisks: valsts rīkojumi nodara ×2 bojājumus, bet izmaksā ×2 <0>{0}</0>"
 
 #: src/pages/region/[regionId]/index.tsx:200
 msgid "Unlinked"
@@ -8380,7 +8380,7 @@ msgstr "Eļļas ražošanai"
 
 #: src/utils/translations.tsx:89
 msgid "Used to produce Paper"
-msgstr "Izmantots papīra ražošanai"
+msgstr "Izmanto papīra ražošanai"
 
 #: src/utils/translations.tsx:115
 msgid "Used to produce Pills"
