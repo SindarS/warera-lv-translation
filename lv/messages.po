@@ -1607,7 +1607,7 @@ msgstr "Animēts <0>GIF</0> kā profila bilde"
 
 #: src/pages/country/[countryId]/government.tsx:145
 msgid "Announcement"
-msgstr "Šūnapraide"
+msgstr "Šūnapraides paziņojums"
 
 #: src/components/_political/law/law.frontConfig.tsx:282
 msgid "Another country proposed a defensive pact to yours"
@@ -6123,7 +6123,7 @@ msgstr "Gaidāmā algas samazināšana"
 
 #: src/components/_political/event/event.frontConfig.tsx:422
 msgid "People are angry, an auto revolt has started in <0/>"
-msgstr "Cilvēki ir saniknoti, ir sākusies automātiskā sacelšanās <0/>"
+msgstr "Cilvēki ir dusmīgi, ir sākusies automātiskā sacelšanās <0/>"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
@@ -7199,7 +7199,7 @@ msgstr "Nosūtīt ziņu"
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
 #: src/components/_political/law/law.frontConfig.tsx:405
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
-msgstr "Nosūtīt naudu uz citu valsti. Papīra nodoklis pa virsu: {0}% starp alianses dalībvalstīm, {1}% priekš ārējiem pārskaitījumiem."
+msgstr "Nosūtīt naudu citai valstij. Papildu papīra nodoklis: {0}% starp alianses dalībvalstīm, {1}% ārējiem pārskaitījumiem."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
@@ -8203,12 +8203,12 @@ msgstr "Neētisks"
 
 #: src/components/_political/law/LawEthicEffects.tsx:79
 msgid "Unethical countries cannot hold any treaty — this law cannot be enacted."
-msgstr "Neētiskās valstis nevar noslēgt nekādu starptautisku līgumu — šis likums nevar tikt ierosināts."
+msgstr "Neētiskās valstis nevar noslēgt nekādus starptautiskus līgumus — šis likums nevar tikt ierosināts."
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:457
 msgid "Unethical: capital occupied, national orders give only the regular bonus but still cost ×2 <0>{0}</0>"
-msgstr "Neētisks: ja galvaspilsēta okupēta, valsts rīkojumi dod tikai parasto bonusu, bet maksā joprojām x2 <0>{0}</0>"
+msgstr "Neētisks: ja galvaspilsēta ir okupēta, valsts rīkojumi dod tikai parasto bonusu, bet izmaksā joprojām ×2 <0>{0}</0>"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:452
@@ -8512,7 +8512,7 @@ msgstr "Valentīndienas Tanks"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
-msgstr "Vērtīgs sniegums tiks atzīmēts ar \"Kļūmju meklētāja\" medaļu."
+msgstr "Vērtīgie ieguldījumi tiks apbalvoti ar \"Kļūmju meklētāja\" medaļu."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -8687,7 +8687,7 @@ msgstr "Aizstāvoties pret sacelšanos, gūsti papildu <0>{0}</0> kaujas bonusu 
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
-msgstr "Taisot sacelšanos, tu kopē ienaidnieka aizsardzības bonusu no Bunkura līmeņa."
+msgstr "Rīkojot sacelšanos, tu kopē ienaidnieka bunkura bojājumu bonusu."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
@@ -8998,7 +8998,7 @@ msgstr "Tu aizgāji no darba!"
 #. placeholder {0}: gameConfig.election.candidateMinLevel
 #: src/components/_political/election/Election.tsx:133
 msgid "You must be at least level {0} to become a candidate."
-msgstr "Tev jābūt vismaz {0} līmenim, lai kļūtu par kandidātu."
+msgstr "Tev jābūt vismaz {0} līmenim, lai kandidētu."
 
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
