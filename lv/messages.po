@@ -1488,7 +1488,7 @@ msgstr ""
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].treatyMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:161
 msgid "All treaty maintenance costs are increased by <0>{0}</0>."
-msgstr "Visas līgumu uzturēšanas maksas tiek palielinātas par <0>{0}</0>."
+msgstr "Visas līgumu uzturēšanas izmaksas tiek palielinātas par <0>{0}</0>."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
