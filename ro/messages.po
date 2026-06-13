@@ -1638,7 +1638,7 @@ msgstr "Tokeni API"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Tokenii API permit aplicațiilor externe să acceseze API-ul în numele tău. Folosește tokenul în headerul <0>X-API-Key</0>. Fiecare token are o limită de 200 de cereri (requests) pe minut."
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:257
 msgid "App pattern"
 msgstr "Textură"
 
@@ -1659,7 +1659,7 @@ msgstr "Aprobat"
 msgid "Arcane Boots"
 msgstr ""
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:233
+#: src/components/_economy/inventory/ConsumeItems.tsx:231
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1856,8 +1856,8 @@ msgstr "Autentificarea a eșuat. Te rugăm să încerci din nou."
 msgid "Auto approval"
 msgstr "Aprobare automată"
 
-#: src/components/_layout/LayoutOptions.tsx:185
-#: src/components/_user/kits/KitsPopover.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_user/kits/KitsPopover.tsx:221
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1865,7 +1865,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Generează automat <0>Puncte de Producție</0> de-a lungul timpului, fără să lucrezi."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:290
+#: src/components/_economy/inventory/ConsumeItems.tsx:288
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2056,8 +2056,8 @@ msgstr "Lupte câștigate"
 msgid "Become a Candidate"
 msgstr "Deveniți candidat"
 
-#: src/components/_layout/LayoutOptions.tsx:205
-#: src/components/_user/kits/KitsPopover.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_user/kits/KitsPopover.tsx:245
 msgid "Best"
 msgstr ""
 
@@ -2422,7 +2422,7 @@ msgstr "Alege-ți țara"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Alege o parte și apasă pentru a produce <0>Daune</0>! Continua să lupți pentru a ajuta echipa ta să câștige."
 
-#: src/components/_economy/inventory/CraftModal.tsx:361
+#: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr ""
 
@@ -2484,7 +2484,7 @@ msgstr "Apasă pe conversația țării tale pentru a discuta cu alți cetățeni
 msgid "Click to apply and start earning money right away."
 msgstr "Apasă să aplici și începe să câștigi bani."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:176
+#: src/components/_economy/inventory/ConsumeItems.tsx:175
 msgid "Click to consume."
 msgstr ""
 
@@ -2702,7 +2702,7 @@ msgstr "Cuceritor"
 msgid "Consider giving it to your local moderator"
 msgstr "Consideră să-l dăruiești moderatorului tău local"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:173
+#: src/components/_economy/inventory/ConsumeItems.tsx:172
 msgid "Consume items"
 msgstr ""
 
@@ -3572,7 +3572,7 @@ msgid "Entrepreneurship"
 msgstr "Antreprenoriat"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3917,11 +3917,11 @@ msgstr "Steaguri"
 msgid "Flail"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 msgid "Font"
 msgstr "Font"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Font size"
 msgstr "Mărimea fontului"
 
@@ -4011,7 +4011,7 @@ msgstr "Primești mai multe skinuri la o reducere de 30%!"
 msgid "Get supporter plan"
 msgstr "Obține planul Susținător"
 
-#: src/components/_user/kits/KitsPopover.tsx:215
+#: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -4657,7 +4657,7 @@ msgstr "Cuțitele nu acceptă muniție"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Dă <0>{count}</0> lovituri critice"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Limbă"
@@ -4864,7 +4864,7 @@ msgstr "Limită pentru consum alimentar"
 msgid "Limited:"
 msgstr "Limitat:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:269
 msgid "Line"
 msgstr "Linii"
 
@@ -5219,6 +5219,10 @@ msgstr "Ministrul Finanțelor"
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
 msgstr "Ministrul Externelor"
+
+#: src/components/_layout/LayoutOptions.tsx:175
+msgid "Mission tags"
+msgstr ""
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -7040,7 +7044,7 @@ msgstr "Nu mai ai viață?"
 msgid "Save"
 msgstr "Salvează"
 
-#: src/components/_user/kits/KitsPopover.tsx:201
+#: src/components/_user/kits/KitsPopover.tsx:195
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -7630,7 +7634,7 @@ msgstr "Plan Susținător"
 msgid "Supporter Plan"
 msgstr "Plan Susținător"
 
-#: src/components/_user/kits/KitsPopover.tsx:204
+#: src/components/_user/kits/KitsPopover.tsx:198
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7717,7 +7721,7 @@ msgstr "Termeni"
 msgid "Terms of Service"
 msgstr "Termeni de Utilizare"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:280
 msgid "Texture"
 msgstr "Puncte"
 
@@ -7878,7 +7882,7 @@ msgstr "Doar runda curentă"
 msgid "This user is not part of any family group"
 msgstr "Acest utilizator nu face parte din niciun grup de familie"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:234
+#: src/components/_economy/inventory/ConsumeItems.tsx:232
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8777,8 +8781,8 @@ msgstr ""
 msgid "World Cup Ball"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:217
-#: src/components/_user/kits/KitsPopover.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_user/kits/KitsPopover.tsx:259
 msgid "Worst"
 msgstr ""
 

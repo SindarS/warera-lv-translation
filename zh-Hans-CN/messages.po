@@ -1640,7 +1640,7 @@ msgstr "API Tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API token 允许外部程序使用你的身份。请在 <0>X-API-Key</0> Header 中使用你的 token 。每个 token 的请求速率上限为每分钟 200 次"
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:257
 msgid "App pattern"
 msgstr "界面样式"
 
@@ -1661,7 +1661,7 @@ msgstr "已批准"
 msgid "Arcane Boots"
 msgstr "Arcane Boots"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:233
+#: src/components/_economy/inventory/ConsumeItems.tsx:231
 msgid "Are you sure you want to consume pill?"
 msgstr "确定要服用药丸吗？"
 
@@ -1858,8 +1858,8 @@ msgstr "认证失败，请重试。"
 msgid "Auto approval"
 msgstr "自动批准"
 
-#: src/components/_layout/LayoutOptions.tsx:185
-#: src/components/_user/kits/KitsPopover.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_user/kits/KitsPopover.tsx:221
 msgid "Auto-equip when item breaks"
 msgstr "物品损坏时自动装备"
 
@@ -1867,7 +1867,7 @@ msgstr "物品损坏时自动装备"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "随时间自动产生 <0>生产点数</0>，不需要工作。"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:290
+#: src/components/_economy/inventory/ConsumeItems.tsx:288
 msgid "Autobuy when empty"
 msgstr "耗尽时自动购买"
 
@@ -2058,8 +2058,8 @@ msgstr "战斗获胜"
 msgid "Become a Candidate"
 msgstr "成为一位参选人"
 
-#: src/components/_layout/LayoutOptions.tsx:205
-#: src/components/_user/kits/KitsPopover.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_user/kits/KitsPopover.tsx:245
 msgid "Best"
 msgstr "最佳"
 
@@ -2424,7 +2424,7 @@ msgstr "选择你的国家"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "选边后点击来输出<0>伤害</0>！持续攻击来为你的队伍取得胜利。"
 
-#: src/components/_economy/inventory/CraftModal.tsx:361
+#: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr "选择指定物品将花费2倍钢材"
 
@@ -2486,7 +2486,7 @@ msgstr "点击你的国家聊天室来与同袍聊天。"
 msgid "Click to apply and start earning money right away."
 msgstr "点击申请，现在就开始赚钱。"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:176
+#: src/components/_economy/inventory/ConsumeItems.tsx:175
 msgid "Click to consume."
 msgstr "点击以使用。"
 
@@ -2704,7 +2704,7 @@ msgstr "征服者"
 msgid "Consider giving it to your local moderator"
 msgstr "可以考虑给你的管理员"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:173
+#: src/components/_economy/inventory/ConsumeItems.tsx:172
 msgid "Consume items"
 msgstr "使用物品"
 
@@ -3574,7 +3574,7 @@ msgid "Entrepreneurship"
 msgstr "创业能力"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3919,11 +3919,11 @@ msgstr "国旗显示"
 msgid "Flail"
 msgstr "Flail"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 msgid "Font"
 msgstr "字体"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Font size"
 msgstr "字体大小"
 
@@ -4013,7 +4013,7 @@ msgstr "以 30% 折扣一次性购买多款皮肤!"
 msgid "Get supporter plan"
 msgstr "获取支持者计划"
 
-#: src/components/_user/kits/KitsPopover.tsx:215
+#: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Get Supporter Plan"
 msgstr "获取支持者计划"
 
@@ -4659,7 +4659,7 @@ msgstr "匕首不用弹药"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "造成 <0>{count}</0> 次暴击伤害"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "语言"
@@ -4866,7 +4866,7 @@ msgstr "食物使用上限"
 msgid "Limited:"
 msgstr "限制:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:269
 msgid "Line"
 msgstr "线条"
 
@@ -5221,6 +5221,10 @@ msgstr "经济部长"
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
 msgstr "外交部长"
+
+#: src/components/_layout/LayoutOptions.tsx:175
+msgid "Mission tags"
+msgstr ""
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -7042,7 +7046,7 @@ msgstr "生命值要用完了吗？"
 msgid "Save"
 msgstr "保存"
 
-#: src/components/_user/kits/KitsPopover.tsx:201
+#: src/components/_user/kits/KitsPopover.tsx:195
 msgid "Save your equipment kits"
 msgstr "保存你的装备套装"
 
@@ -7632,7 +7636,7 @@ msgstr "支持者计划"
 msgid "Supporter Plan"
 msgstr "支持者计划"
 
-#: src/components/_user/kits/KitsPopover.tsx:204
+#: src/components/_user/kits/KitsPopover.tsx:198
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr "支持者计划可让你保存最多 {maxKits} 套自定义装备配置，并一键切换。"
 
@@ -7719,7 +7723,7 @@ msgstr "条款"
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:280
 msgid "Texture"
 msgstr "纹理"
 
@@ -7880,7 +7884,7 @@ msgstr "仅本回合"
 msgid "This user is not part of any family group"
 msgstr "该用户不属于任何家庭群组"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:234
+#: src/components/_economy/inventory/ConsumeItems.tsx:232
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "这会为你提供 {cocainBuffHours} 小时增益，然后带来 {cocainDebuffHours} 小时减益"
 
@@ -8779,8 +8783,8 @@ msgstr "世界 <0/>"
 msgid "World Cup Ball"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:217
-#: src/components/_user/kits/KitsPopover.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_user/kits/KitsPopover.tsx:259
 msgid "Worst"
 msgstr "最差"
 

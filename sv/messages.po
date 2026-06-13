@@ -1640,7 +1640,7 @@ msgstr "API-tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API-tokens tillåter externa applikationer att ansluta för din räkning. Använd din token i <0>X-API-Key</0>-headern. Varje token är begränsad till 200 anrop per minut."
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:257
 msgid "App pattern"
 msgstr "App-mönster"
 
@@ -1661,7 +1661,7 @@ msgstr "Beviljad"
 msgid "Arcane Boots"
 msgstr "Magiska Kängor"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:233
+#: src/components/_economy/inventory/ConsumeItems.tsx:231
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1858,8 +1858,8 @@ msgstr "Autentiseringen misslyckades. Försök igen."
 msgid "Auto approval"
 msgstr "Automatiskt godkännande"
 
-#: src/components/_layout/LayoutOptions.tsx:185
-#: src/components/_user/kits/KitsPopover.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_user/kits/KitsPopover.tsx:221
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Genererar <0>produktionspoäng</0> automatiskt över tid, utan behov av manuellt arbete."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:290
+#: src/components/_economy/inventory/ConsumeItems.tsx:288
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2058,8 +2058,8 @@ msgstr "Vunna strider"
 msgid "Become a Candidate"
 msgstr "Kandidera"
 
-#: src/components/_layout/LayoutOptions.tsx:205
-#: src/components/_user/kits/KitsPopover.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_user/kits/KitsPopover.tsx:245
 msgid "Best"
 msgstr ""
 
@@ -2424,7 +2424,7 @@ msgstr "Välj ditt land"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Välj sida och klicka för att ge <0>skada</0>. Fortsätt anfalla för att hjälpa ditt lag till seger."
 
-#: src/components/_economy/inventory/CraftModal.tsx:361
+#: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr ""
 
@@ -2486,7 +2486,7 @@ msgstr "Klicka på ditt lands konversation för att kommunicera med andra medbor
 msgid "Click to apply and start earning money right away."
 msgstr "Klicka för att söka tjänsten och börja tjäna valuta omedelbart."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:176
+#: src/components/_economy/inventory/ConsumeItems.tsx:175
 msgid "Click to consume."
 msgstr ""
 
@@ -2704,7 +2704,7 @@ msgstr "Erövrare"
 msgid "Consider giving it to your local moderator"
 msgstr "Överväg att skänka det till din lokala moderator"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:173
+#: src/components/_economy/inventory/ConsumeItems.tsx:172
 msgid "Consume items"
 msgstr ""
 
@@ -3574,7 +3574,7 @@ msgid "Entrepreneurship"
 msgstr "Entreprenörskap"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3919,11 +3919,11 @@ msgstr "Flaggor"
 msgid "Flail"
 msgstr "Stridsslaga"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 msgid "Font"
 msgstr "Typsnitt"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Font size"
 msgstr "Teckenstorlek"
 
@@ -4013,7 +4013,7 @@ msgstr "Få flera utseenden samtidigt med 30 % rabatt!"
 msgid "Get supporter plan"
 msgstr "Skaffa supporter-medlemskap"
 
-#: src/components/_user/kits/KitsPopover.tsx:215
+#: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -4659,7 +4659,7 @@ msgstr "Knivar kan inte laddas med ammunition"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Få <0>{count}</0> fullträffar"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Språk"
@@ -4866,7 +4866,7 @@ msgstr "Gräns för livsmedelskonsumtion"
 msgid "Limited:"
 msgstr "Begränsad:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:269
 msgid "Line"
 msgstr "Linje"
 
@@ -5221,6 +5221,10 @@ msgstr "Finansminister"
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
 msgstr "Utrikesminister"
+
+#: src/components/_layout/LayoutOptions.tsx:175
+msgid "Mission tags"
+msgstr ""
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -7042,7 +7046,7 @@ msgstr "Börjar hälsan ta slut?"
 msgid "Save"
 msgstr "Spara"
 
-#: src/components/_user/kits/KitsPopover.tsx:201
+#: src/components/_user/kits/KitsPopover.tsx:195
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -7632,7 +7636,7 @@ msgstr "Supportermedlemskap"
 msgid "Supporter Plan"
 msgstr "Supportermedlemskap"
 
-#: src/components/_user/kits/KitsPopover.tsx:204
+#: src/components/_user/kits/KitsPopover.tsx:198
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7719,7 +7723,7 @@ msgstr "Villkor"
 msgid "Terms of Service"
 msgstr "Användarvillkor"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:280
 msgid "Texture"
 msgstr "Textur"
 
@@ -7880,7 +7884,7 @@ msgstr "Endast denna rond"
 msgid "This user is not part of any family group"
 msgstr "Denna användare ingår inte i någon familjegrupp"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:234
+#: src/components/_economy/inventory/ConsumeItems.tsx:232
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8779,8 +8783,8 @@ msgstr ""
 msgid "World Cup Ball"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:217
-#: src/components/_user/kits/KitsPopover.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_user/kits/KitsPopover.tsx:259
 msgid "Worst"
 msgstr ""
 

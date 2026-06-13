@@ -1640,7 +1640,7 @@ msgstr "API-Tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API-Tokens ermöglichen es externen Anwendungen, in Ihrem Namen auf die API zuzugreifen. Verwenden Sie den Token im <0>X-API-Key</0>-Header. Jeder Token hat ein Ratelimit von 200 Anfragen pro Minute."
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:257
 msgid "App pattern"
 msgstr "App-Muster"
 
@@ -1661,7 +1661,7 @@ msgstr "Genehmigt"
 msgid "Arcane Boots"
 msgstr "Arkane Stiefel"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:233
+#: src/components/_economy/inventory/ConsumeItems.tsx:231
 msgid "Are you sure you want to consume pill?"
 msgstr "Bist du sicher, dass du die Pille einnehmen möchtest?"
 
@@ -1858,8 +1858,8 @@ msgstr "Authentifizierung fehlgeschlagen. Bitte versuche es erneut."
 msgid "Auto approval"
 msgstr "Automatische Genehmigung"
 
-#: src/components/_layout/LayoutOptions.tsx:185
-#: src/components/_user/kits/KitsPopover.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_user/kits/KitsPopover.tsx:221
 msgid "Auto-equip when item breaks"
 msgstr "Automatisch ausrüsten, wenn Gegenstand zerbricht"
 
@@ -1867,7 +1867,7 @@ msgstr "Automatisch ausrüsten, wenn Gegenstand zerbricht"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Generiert automatisch <0>Produktionspunkte</0> über Zeit, ohne dass gearbeitet werden muss."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:290
+#: src/components/_economy/inventory/ConsumeItems.tsx:288
 msgid "Autobuy when empty"
 msgstr "Automatisch nachkaufen, wenn leer"
 
@@ -2058,8 +2058,8 @@ msgstr "Gewonnene Schlachten"
 msgid "Become a Candidate"
 msgstr "Kandidat werden"
 
-#: src/components/_layout/LayoutOptions.tsx:205
-#: src/components/_user/kits/KitsPopover.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_user/kits/KitsPopover.tsx:245
 msgid "Best"
 msgstr "Beste"
 
@@ -2424,7 +2424,7 @@ msgstr "Wähle dein Land"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Wähle deine Seite und klicke, um <0>Schaden</0> zu verursachen! Schlage weiter zu, um deinem Team zum Sieg zu verhelfen."
 
-#: src/components/_economy/inventory/CraftModal.tsx:361
+#: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr ""
 
@@ -2486,7 +2486,7 @@ msgstr "Klicke auf die Konversation deines Landes, um mit Mitbürgern zu chatten
 msgid "Click to apply and start earning money right away."
 msgstr "Klicke, um dich zu bewerben und sofort Geld zu verdienen."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:176
+#: src/components/_economy/inventory/ConsumeItems.tsx:175
 msgid "Click to consume."
 msgstr "Klicken zum Verbrauchen."
 
@@ -2704,7 +2704,7 @@ msgstr "Eroberer"
 msgid "Consider giving it to your local moderator"
 msgstr "Überlege, es deinem lokalen Moderator zu geben"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:173
+#: src/components/_economy/inventory/ConsumeItems.tsx:172
 msgid "Consume items"
 msgstr "Gegenstände verbrauchen"
 
@@ -3574,7 +3574,7 @@ msgid "Entrepreneurship"
 msgstr "Unternehmertum"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3919,11 +3919,11 @@ msgstr "Flaggen"
 msgid "Flail"
 msgstr "Flegel"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 msgid "Font"
 msgstr "Schriftart"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Font size"
 msgstr "Schriftgröße"
 
@@ -4013,7 +4013,7 @@ msgstr "Hol dir mehrere Skins auf einmal mit 30% Rabatt!"
 msgid "Get supporter plan"
 msgstr "Supporter-Plan holen"
 
-#: src/components/_user/kits/KitsPopover.tsx:215
+#: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Get Supporter Plan"
 msgstr "Supporter-Plan holen"
 
@@ -4659,7 +4659,7 @@ msgstr "Messer akzeptieren keine Munition"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Erziele <0>{count}</0> kritische Treffer"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Sprache"
@@ -4866,7 +4866,7 @@ msgstr "Limit für Nahrungsverbrauch"
 msgid "Limited:"
 msgstr "Begrenzt:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:269
 msgid "Line"
 msgstr "Linie"
 
@@ -5221,6 +5221,10 @@ msgstr "Wirtschaftsminister"
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
 msgstr "Außenminister"
+
+#: src/components/_layout/LayoutOptions.tsx:175
+msgid "Mission tags"
+msgstr ""
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -7042,7 +7046,7 @@ msgstr "Wenig Gesundheit?"
 msgid "Save"
 msgstr "Speichern"
 
-#: src/components/_user/kits/KitsPopover.tsx:201
+#: src/components/_user/kits/KitsPopover.tsx:195
 msgid "Save your equipment kits"
 msgstr "Ausrüstungs-Sets speichern"
 
@@ -7632,7 +7636,7 @@ msgstr "Supporter-Plan"
 msgid "Supporter Plan"
 msgstr "Supporter-Plan"
 
-#: src/components/_user/kits/KitsPopover.tsx:204
+#: src/components/_user/kits/KitsPopover.tsx:198
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr "Mit dem Supporter-Plan kannst du bis zu {maxKits} individuelle Ausrüstungs-Sets speichern und mit einem Klick zwischen ihnen wechseln."
 
@@ -7719,7 +7723,7 @@ msgstr "Bedingungen"
 msgid "Terms of Service"
 msgstr "Nutzungsbedingungen"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:280
 msgid "Texture"
 msgstr "Textur"
 
@@ -7880,7 +7884,7 @@ msgstr "Nur diese Runde"
 msgid "This user is not part of any family group"
 msgstr "Dieser Benutzer ist nicht Teil einer Familiengruppe"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:234
+#: src/components/_economy/inventory/ConsumeItems.tsx:232
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Dies verleiht dir einen Buff für {cocainBuffHours} Std. und verursacht anschließend einen Malus für {cocainDebuffHours} Std."
 
@@ -8779,8 +8783,8 @@ msgstr ""
 msgid "World Cup Ball"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:217
-#: src/components/_user/kits/KitsPopover.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_user/kits/KitsPopover.tsx:259
 msgid "Worst"
 msgstr "Schlechteste"
 

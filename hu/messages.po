@@ -1640,7 +1640,7 @@ msgstr "API Tokenek"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Az API tokenek lehetővé teszik külső alkalmazások számára, hogy a nevedben hozzáférjenek az API-hoz. Használd a tokent az <0>X-API-Key</0> fejlécben. Minden token percenként legfeljebb 200 kérést képes kezelni."
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:257
 msgid "App pattern"
 msgstr "Alkalmazás minta"
 
@@ -1661,7 +1661,7 @@ msgstr "Jóváhagyva"
 msgid "Arcane Boots"
 msgstr "Titokzatos csizma"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:233
+#: src/components/_economy/inventory/ConsumeItems.tsx:231
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1858,8 +1858,8 @@ msgstr "Hitelesítés sikertelen. Kérlek, próbáld újra."
 msgid "Auto approval"
 msgstr "Automatikus jóváhagyás"
 
-#: src/components/_layout/LayoutOptions.tsx:185
-#: src/components/_user/kits/KitsPopover.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_user/kits/KitsPopover.tsx:221
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Automatikusan generál <0>Termelési Pontokat</0> az idő múlásával, munka nélkül."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:290
+#: src/components/_economy/inventory/ConsumeItems.tsx:288
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2058,8 +2058,8 @@ msgstr "Nyert csaták"
 msgid "Become a Candidate"
 msgstr "Jelöltté válás"
 
-#: src/components/_layout/LayoutOptions.tsx:205
-#: src/components/_user/kits/KitsPopover.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_user/kits/KitsPopover.tsx:245
 msgid "Best"
 msgstr ""
 
@@ -2424,7 +2424,7 @@ msgstr "Válaszd ki az országod"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Válaszd ki az oldaladat és kattints, hogy <0>Sebzést</0> okozz! Támadj tovább, hogy segíts a csapatodnak győzni."
 
-#: src/components/_economy/inventory/CraftModal.tsx:361
+#: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr ""
 
@@ -2486,7 +2486,7 @@ msgstr "Kattints az országod beszélgetésére, hogy csevegj a többi állampol
 msgid "Click to apply and start earning money right away."
 msgstr "Kattints a jelentkezéshez, és kezdj el azonnal pénzt keresni."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:176
+#: src/components/_economy/inventory/ConsumeItems.tsx:175
 msgid "Click to consume."
 msgstr ""
 
@@ -2704,7 +2704,7 @@ msgstr "Hódító"
 msgid "Consider giving it to your local moderator"
 msgstr "Fontold meg, hogy odaadod a helyi moderátorodnak"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:173
+#: src/components/_economy/inventory/ConsumeItems.tsx:172
 msgid "Consume items"
 msgstr ""
 
@@ -3574,7 +3574,7 @@ msgid "Entrepreneurship"
 msgstr "Vállalkozás"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3919,11 +3919,11 @@ msgstr "Zászlók"
 msgid "Flail"
 msgstr "Láncos buzogány"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 msgid "Font"
 msgstr "Betűtípus"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Font size"
 msgstr "Betűméret"
 
@@ -4013,7 +4013,7 @@ msgstr "Szerezz több skint egyszerre 30% kedvezménnyel!"
 msgid "Get supporter plan"
 msgstr "Támogatói csomag beszerzése"
 
-#: src/components/_user/kits/KitsPopover.tsx:215
+#: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -4659,7 +4659,7 @@ msgstr "A kések nem használnak lőszert"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Mérj <0>{count}</0> kritikus találatot"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Nyelv"
@@ -4866,7 +4866,7 @@ msgstr "Élelemfogyasztás korlátja"
 msgid "Limited:"
 msgstr "Korlátozott:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:269
 msgid "Line"
 msgstr "Vonal"
 
@@ -5221,6 +5221,10 @@ msgstr "Gazdasági miniszter"
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
 msgstr "Külügyminiszter"
+
+#: src/components/_layout/LayoutOptions.tsx:175
+msgid "Mission tags"
+msgstr ""
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -7042,7 +7046,7 @@ msgstr "Kevés az életerőd?"
 msgid "Save"
 msgstr "Mentés"
 
-#: src/components/_user/kits/KitsPopover.tsx:201
+#: src/components/_user/kits/KitsPopover.tsx:195
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -7632,7 +7636,7 @@ msgstr "Támogató terv"
 msgid "Supporter Plan"
 msgstr "Támogató Terv"
 
-#: src/components/_user/kits/KitsPopover.tsx:204
+#: src/components/_user/kits/KitsPopover.tsx:198
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7719,7 +7723,7 @@ msgstr "Feltételek"
 msgid "Terms of Service"
 msgstr "Felhasználási Feltételek"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:280
 msgid "Texture"
 msgstr "Textúra"
 
@@ -7880,7 +7884,7 @@ msgstr "Csak ez a menet"
 msgid "This user is not part of any family group"
 msgstr "Ez a felhasználó nem tagja egyetlen családi csoportnak sem"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:234
+#: src/components/_economy/inventory/ConsumeItems.tsx:232
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8779,8 +8783,8 @@ msgstr ""
 msgid "World Cup Ball"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:217
-#: src/components/_user/kits/KitsPopover.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_user/kits/KitsPopover.tsx:259
 msgid "Worst"
 msgstr ""
 

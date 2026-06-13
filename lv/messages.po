@@ -1640,7 +1640,7 @@ msgstr "API Žetons"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API žetoni ļauj ārējām lietotnēm piekļūt API tavā vārdā. Lieto žetonu <0>X-API-Key</0> vaicājuma galvenē. Katram žetonam ir ierobežojums 200 pieprasījumu minūtē."
 
-#: src/components/_layout/LayoutOptions.tsx:252
+#: src/components/_layout/LayoutOptions.tsx:257
 msgid "App pattern"
 msgstr "Kartes fons"
 
@@ -1661,7 +1661,7 @@ msgstr "Pieņemts"
 msgid "Arcane Boots"
 msgstr "Arkānie Zābaki"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:233
+#: src/components/_economy/inventory/ConsumeItems.tsx:231
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1858,8 +1858,8 @@ msgstr "Autentifikācija neizdevās. Lūdzu mēģini vēlreiz."
 msgid "Auto approval"
 msgstr "Automātiskā apstiprināšana"
 
-#: src/components/_layout/LayoutOptions.tsx:185
-#: src/components/_user/kits/KitsPopover.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_user/kits/KitsPopover.tsx:221
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Automātiski rada <0>Ražošanas Punktus</0> laika gaitā, bez nepieciešamības strādāt."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:290
+#: src/components/_economy/inventory/ConsumeItems.tsx:288
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2058,8 +2058,8 @@ msgstr "Kaujas uzvarētas"
 msgid "Become a Candidate"
 msgstr "Kandidēt"
 
-#: src/components/_layout/LayoutOptions.tsx:205
-#: src/components/_user/kits/KitsPopover.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_user/kits/KitsPopover.tsx:245
 msgid "Best"
 msgstr ""
 
@@ -2424,7 +2424,7 @@ msgstr "Izvēlies savu valsti"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Izvēlies savu pusi un spied, lai nodarītu <0>Bojājumus</0>! Turpini sist, lai palīdzētu savai komandai uzvarēt."
 
-#: src/components/_economy/inventory/CraftModal.tsx:361
+#: src/components/_economy/inventory/CraftModal.tsx:363
 msgid "Choosing a specific item costs ×2 steel:"
 msgstr ""
 
@@ -2486,7 +2486,7 @@ msgstr "Spied uz savas valsts čatu, lai sarunātos ar līdzpilsoņiem."
 msgid "Click to apply and start earning money right away."
 msgstr "Spied, lai pieteiktos un sāktu uzreiz pelnīt naudu."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:176
+#: src/components/_economy/inventory/ConsumeItems.tsx:175
 msgid "Click to consume."
 msgstr ""
 
@@ -2704,7 +2704,7 @@ msgstr "Iekarotājs"
 msgid "Consider giving it to your local moderator"
 msgstr "Apsver to atdot savam vietējam moderatoram"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:173
+#: src/components/_economy/inventory/ConsumeItems.tsx:172
 msgid "Consume items"
 msgstr ""
 
@@ -3574,7 +3574,7 @@ msgid "Entrepreneurship"
 msgstr "Uzņēmējdarbība"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:182
+#: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3919,11 +3919,11 @@ msgstr "Karogi"
 msgid "Flail"
 msgstr "Vāle"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 msgid "Font"
 msgstr "Fonts"
 
-#: src/components/_layout/LayoutOptions.tsx:234
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Font size"
 msgstr "Teksta izmērs"
 
@@ -4013,7 +4013,7 @@ msgstr "Iegādājies vairākus veidolus reizē ar 30% atlaidi!"
 msgid "Get supporter plan"
 msgstr "Iegādāties atbalstītāja plānu"
 
-#: src/components/_user/kits/KitsPopover.tsx:215
+#: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -4659,7 +4659,7 @@ msgstr "Ar nažiem nevar šaut"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Iebliez <0>{count}</0> kritiskos triecienus"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Valoda"
@@ -4866,7 +4866,7 @@ msgstr "Ēšanas limits"
 msgid "Limited:"
 msgstr "Limits:"
 
-#: src/components/_layout/LayoutOptions.tsx:264
+#: src/components/_layout/LayoutOptions.tsx:269
 msgid "Line"
 msgstr "Līnijas"
 
@@ -5221,6 +5221,10 @@ msgstr "Ekonomikas Ministrs"
 #: src/components/_political/government/GovernmentScroll.tsx:68
 msgid "Minister of Foreign Affairs"
 msgstr "Ārlietu Ministrs"
+
+#: src/components/_layout/LayoutOptions.tsx:175
+msgid "Mission tags"
+msgstr ""
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -7042,7 +7046,7 @@ msgstr "Maz dzīvību?"
 msgid "Save"
 msgstr "Saglabāt"
 
-#: src/components/_user/kits/KitsPopover.tsx:201
+#: src/components/_user/kits/KitsPopover.tsx:195
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -7632,7 +7636,7 @@ msgstr "Atbalstītāja plāns"
 msgid "Supporter Plan"
 msgstr "Atbalstītāja Plāns"
 
-#: src/components/_user/kits/KitsPopover.tsx:204
+#: src/components/_user/kits/KitsPopover.tsx:198
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7719,7 +7723,7 @@ msgstr "Lietošanas noteikumi"
 msgid "Terms of Service"
 msgstr "Lietošanas noteikumi"
 
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:280
 msgid "Texture"
 msgstr "Tekstūra"
 
@@ -7880,7 +7884,7 @@ msgstr "Tikai šim raundam"
 msgid "This user is not part of any family group"
 msgstr "Šis lietotājs nav nevienas ģimenes grupas dalībnieks"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:234
+#: src/components/_economy/inventory/ConsumeItems.tsx:232
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8779,8 +8783,8 @@ msgstr ""
 msgid "World Cup Ball"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:217
-#: src/components/_user/kits/KitsPopover.tsx:265
+#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_user/kits/KitsPopover.tsx:259
 msgid "Worst"
 msgstr ""
 
