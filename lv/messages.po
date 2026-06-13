@@ -317,7 +317,7 @@ msgstr "<0/> tika ievēlēts par <1/> valsts prezidentu"
 
 #: src/components/_political/event/event.frontConfig.tsx:379
 msgid "<0/> has been excluded from the alliance <1/>"
-msgstr "<0/> tika izslēgta no alianses <1/>"
+msgstr "<0/> tika izslēgta no <1/> alianses"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:216
