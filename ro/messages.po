@@ -130,7 +130,7 @@ msgstr "Companiile lui {0}"
 
 #. placeholder {0}: activeCompaniesCount.data ?? 0
 #. placeholder {1}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:253
+#: src/components/_economy/company/CompanyDropdown.tsx:260
 msgid "{0}/{1} active"
 msgstr "{0}/{1} active"
 
@@ -145,7 +145,7 @@ msgid "{0}% income tax will be deducted from your workers wages."
 msgstr "{0}% impozit pe venit va fi reținut din salariile muncitorilor tăi."
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
-#: src/components/_economy/company/CompanyDropdown.tsx:314
+#: src/components/_economy/company/CompanyDropdown.tsx:321
 msgid "{0}% of invested"
 msgstr "{0}% din investiție"
 
@@ -751,7 +751,7 @@ msgstr "<0>{strategicBonus}</0> din <1/> bonus de producție oferit de resurse s
 msgid "<0>#{key}</0> resource of each type = <1>{value}</1>"
 msgstr "<0>#{key}</0> resursă din fiecare tip = <1>{value}</1>"
 
-#: src/components/_political/country/CountryHeader.tsx:206
+#: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
 msgstr ""
 
@@ -759,11 +759,11 @@ msgstr ""
 msgid "<0>Buff</0> ends <1/>"
 msgstr "<0>Buff</0> se termină <1/>"
 
-#: src/components/_political/country/CountryHeader.tsx:170
+#: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
 msgstr ""
 
-#: src/components/_political/country/CountryHeader.tsx:234
+#: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
 msgstr ""
 
@@ -1895,7 +1895,7 @@ msgstr ""
 msgid "Baby Boomer"
 msgstr "Baby Boomer"
 
-#: src/components/_user/referral/ReferralList.tsx:110
+#: src/components/_user/referral/ReferralList.tsx:111
 msgid "Badge won"
 msgstr "Insignă câștigată"
 
@@ -2077,7 +2077,7 @@ msgstr "Ofertă"
 msgid "Birthday Hat for 1st year of Beta"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:292
 msgid "Block (hide content)"
 msgstr "Blochează (ascunde conținut)"
 
@@ -2360,7 +2360,7 @@ msgstr ""
 msgid "Change color to <0>{0}</0>"
 msgstr ""
 
-#: src/components/_military/mu/MuSettings.tsx:89
+#: src/components/_military/mu/MuSettings.tsx:87
 msgid "Change nationality"
 msgstr ""
 
@@ -2369,7 +2369,7 @@ msgstr ""
 msgid "Change produced item"
 msgstr "Schimbă obiectul produs"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:194
+#: src/components/_economy/company/CompanyDropdown.tsx:201
 msgid "Change production"
 msgstr "Schimbă producție"
 
@@ -2530,7 +2530,7 @@ msgstr ""
 msgid "Colonel"
 msgstr "Colonel"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:232
 msgid "Color scheme"
 msgstr "Culoare"
 
@@ -2573,7 +2573,7 @@ msgstr "Limită companii"
 msgid "Companies limit reached"
 msgstr "Limită companii atinsă"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:93
+#: src/components/_economy/company/CompanyDropdown.tsx:98
 msgid "Company destroyed!"
 msgstr "Companie demolată!"
 
@@ -2581,11 +2581,11 @@ msgstr "Companie demolată!"
 msgid "Company disabled"
 msgstr "Companie dezactivată"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:120
+#: src/components/_economy/company/CompanyDropdown.tsx:125
 msgid "Company disabled!"
 msgstr "Companie dezactivată!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:119
+#: src/components/_economy/company/CompanyDropdown.tsx:124
 msgid "Company enabled!"
 msgstr "Companie activată!"
 
@@ -2601,7 +2601,7 @@ msgstr "Magazie"
 msgid "Company renamed!"
 msgstr "Companie redenumită!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:143
+#: src/components/_economy/company/CompanyDropdown.tsx:148
 msgid "Company upgraded!"
 msgstr ""
 
@@ -2981,7 +2981,7 @@ msgstr ""
 msgid "Current Military Unit"
 msgstr "Unitate Militară Actuală"
 
-#: src/components/_military/mu/MuSettings.tsx:63
+#: src/components/_military/mu/MuSettings.tsx:61
 msgid "Current nationality"
 msgstr ""
 
@@ -3283,7 +3283,7 @@ msgstr "Descriere ștersă"
 msgid "Description updated!"
 msgstr "Descriere actualizată!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:304
+#: src/components/_economy/company/CompanyDropdown.tsx:311
 msgid "Destruct"
 msgstr "Demolează"
 
@@ -3313,7 +3313,7 @@ msgstr "Diplomatic"
 msgid "Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:260
+#: src/components/_economy/company/CompanyDropdown.tsx:267
 msgid "Disable company"
 msgstr "Dezactivează companie"
 
@@ -3453,7 +3453,7 @@ msgstr "Competențe economice"
 msgid "Economy & Companies"
 msgstr "Economie & Companii"
 
-#: src/components/_user/user/UserDropdown.tsx:210
+#: src/components/_user/user/UserDropdown.tsx:223
 msgid "Edit description"
 msgstr "Editează descriere"
 
@@ -3524,7 +3524,7 @@ msgstr "Producția Angajaților"
 msgid "Empty"
 msgstr "Gol"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:250
+#: src/components/_economy/company/CompanyDropdown.tsx:257
 msgid "Enable company"
 msgstr "Activează companie"
 
@@ -3942,7 +3942,7 @@ msgstr "Font"
 msgid "Font size"
 msgstr "Mărimea fontului"
 
-#: src/components/_user/user/UserDropdown.tsx:228
+#: src/components/_user/user/UserDropdown.tsx:241
 msgid "Font style"
 msgstr "Stil text (font)"
 
@@ -4040,7 +4040,7 @@ msgstr "Cadou trimis! Pachetul de skinuri a fost deblocat pentru destinatar."
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Cadou trimis! Mulțumim că susții jocul <3"
 
-#: src/components/_user/user/UserDropdown.tsx:262
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Gift Supporter Plan"
 msgstr "Oferă Plan Susținător"
 
@@ -4559,7 +4559,7 @@ msgstr ""
 msgid "Job"
 msgstr "Loc de muncă"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:273
+#: src/components/_economy/company/CompanyDropdown.tsx:280
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:42
 msgid "Job market"
 msgstr "Piața muncii"
@@ -4742,7 +4742,7 @@ msgstr "Plumb"
 msgid "Leather Sling"
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:292
+#: src/components/_economy/company/CompanyDropdown.tsx:299
 msgid "Leave"
 msgstr "Demisionează"
 
@@ -5018,8 +5018,8 @@ msgstr "Mareșal"
 msgid "Max level reached!"
 msgstr "Nivel maxim atins!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:214
-#: src/components/_economy/company/CompanyDropdown.tsx:232
+#: src/components/_economy/company/CompanyDropdown.tsx:221
+#: src/components/_economy/company/CompanyDropdown.tsx:239
 msgid "Maxed!"
 msgstr ""
 
@@ -5110,7 +5110,7 @@ msgstr "Membru demis de la comandant"
 msgid "Member kicked successfully"
 msgstr "Membru eliminat cu succes"
 
-#: src/components/_political/country/CountryHeader.tsx:253
+#: src/components/_political/country/CountryHeader.tsx:254
 msgid "Member of <0/>"
 msgstr ""
 
@@ -5268,7 +5268,7 @@ msgstr "Clasament bani"
 msgid "Money transfer"
 msgstr "Transfer de bani"
 
-#: src/components/_user/referral/ReferralList.tsx:115
+#: src/components/_user/referral/ReferralList.tsx:116
 msgid "Money won"
 msgstr "Bani câștigați"
 
@@ -5314,7 +5314,7 @@ msgstr "Moțiuni"
 msgid "Move a company to another region"
 msgstr "Mută o companie în altă regiune"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:179
+#: src/components/_economy/company/CompanyDropdown.tsx:186
 #: src/components/_economy/company/MoveCompanyForm.tsx:64
 msgid "Move company"
 msgstr "Mută companie"
@@ -5327,7 +5327,7 @@ msgstr "Mută companie"
 msgid "Move the company"
 msgstr "Mută compania"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:241
+#: src/components/_economy/company/CompanyDropdown.tsx:248
 msgid "Move to top"
 msgstr "Mută în cap de listă"
 
@@ -5434,7 +5434,7 @@ msgstr ""
 msgid "National bounty"
 msgstr "Răsplată națională"
 
-#: src/components/_military/mu/MuSettings.tsx:31
+#: src/components/_military/mu/MuSettings.tsx:30
 msgid "Nationality updated"
 msgstr ""
 
@@ -5492,7 +5492,7 @@ msgstr "Nouă configurație de etici"
 msgid "New item offer"
 msgstr "Ofertă nouă"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:186
+#: src/components/_economy/company/CompanyDropdown.tsx:193
 #: src/components/_economy/workOffer/WorkOfferList.tsx:172
 #: src/pages/company/[companyId]/index.tsx:67
 msgid "New job offer"
@@ -5526,7 +5526,7 @@ msgstr "Aplicație nouă la UM"
 msgid "New name"
 msgstr "Nume nou"
 
-#: src/components/_military/mu/MuSettings.tsx:76
+#: src/components/_military/mu/MuSettings.tsx:74
 msgid "New nationality"
 msgstr ""
 
@@ -5816,7 +5816,7 @@ msgstr "Nu e impresionant, dar nici rușinos"
 msgid "Not in any alliance"
 msgstr ""
 
-#: src/components/_military/mu/MuSettings.tsx:69
+#: src/components/_military/mu/MuSettings.tsx:67
 msgid "Not set"
 msgstr ""
 
@@ -5890,7 +5890,7 @@ msgstr "Doar președinții pot înregistra țara lor"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Doar Susținătorii își pot vedea raportul de venit și cheltuieli."
 
-#: src/components/_military/mu/MuSettings.tsx:104
+#: src/components/_military/mu/MuSettings.tsx:97
 msgid "Only the owner and commanders can change the nationality."
 msgstr ""
 
@@ -6788,7 +6788,7 @@ msgstr "Demite un membru inactiv din parlament"
 msgid "Remove announcement"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:396
+#: src/components/_user/user/UserDropdown.tsx:409
 msgid "Remove Avatar"
 msgstr "Șterge Avatar"
 
@@ -6800,7 +6800,7 @@ msgstr "Elimină recompensă"
 msgid "Remove council member"
 msgstr "Elimină membru partid"
 
-#: src/components/_user/user/UserDropdown.tsx:418
+#: src/components/_user/user/UserDropdown.tsx:431
 msgid "Remove Description"
 msgstr "Șterge Descriere"
 
@@ -6818,7 +6818,7 @@ msgstr "Demite liderul curent al partidului din poziție"
 msgid "Removed from Military Unit"
 msgstr "Eliminat din Unitatea Militară"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:282
+#: src/components/_economy/company/CompanyDropdown.tsx:289
 msgid "Rename"
 msgstr "Redenumește"
 
@@ -6862,7 +6862,7 @@ msgstr "Înlocuiește un membru"
 msgid "Report"
 msgstr "Raportează"
 
-#: src/components/_user/user/UserDropdown.tsx:269
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Report user"
 msgstr "Raportează"
 
@@ -6883,7 +6883,7 @@ msgstr "Reputația scade cu 20% săptămânal (până la minimumul de 1)."
 msgid "Reputation purchased!"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:336
+#: src/components/_user/user/UserDropdown.tsx:349
 msgid "Request Phone Verification"
 msgstr "Cere verificare număr telefon"
 
@@ -6911,7 +6911,7 @@ msgstr "Reset Survivor"
 msgid "Reset tutorials"
 msgstr "Resetează tutorialele"
 
-#: src/components/_user/user/UserDropdown.tsx:407
+#: src/components/_user/user/UserDropdown.tsx:420
 msgid "Reset Username"
 msgstr "Resetează Nume"
 
@@ -7126,7 +7126,7 @@ msgstr "Vezi toate statisticile muncitorilor și companiilor tale"
 msgid "See your spending and income breakdown"
 msgstr "Vezi raportul cheltuielilor și veniturilor tale"
 
-#: src/components/_military/mu/MuSettings.tsx:79
+#: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
 msgstr ""
 
@@ -7146,7 +7146,7 @@ msgstr "Selectează tot"
 msgid "Select an occupied region"
 msgstr "Selectează o regiune ocupată"
 
-#: src/components/_user/user/UserDropdown.tsx:242
+#: src/components/_user/user/UserDropdown.tsx:255
 msgid "Select banner"
 msgstr "Selectează copertă"
 
@@ -7164,7 +7164,7 @@ msgstr "Selectează tentă"
 msgid "Select motion type"
 msgstr "Selectează tip moțiune"
 
-#: src/components/_user/user/UserDropdown.tsx:249
+#: src/components/_user/user/UserDropdown.tsx:262
 msgid "Select skin"
 msgstr "Selectează skin"
 
@@ -7177,7 +7177,7 @@ msgstr "Antreprenoriat"
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Muncește de <0>{count}</0> ori în propriile companii"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:324
+#: src/components/_economy/company/CompanyDropdown.tsx:331
 msgid "Sell company?"
 msgstr "Vinzi compania?"
 
@@ -7214,7 +7214,7 @@ msgstr ""
 msgid "Send <0>{count}</0> messages"
 msgstr "Trimite <0>{count}</0> mesaje"
 
-#: src/components/_user/user/UserDropdown.tsx:426
+#: src/components/_user/user/UserDropdown.tsx:204
 msgid "Send a message"
 msgstr "Trimite un mesaj"
 
@@ -7479,7 +7479,7 @@ msgstr "Consumă-ți <0>Energia</0> lucrând pentru <1>Bani</1>. Continuă să a
 msgid "Spendings"
 msgstr "Cheltuieli"
 
-#: src/components/_political/country/CountryHeader.tsx:185
+#: src/components/_political/country/CountryHeader.tsx:186
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
 msgstr ""
 
@@ -7646,9 +7646,9 @@ msgid "Supporter"
 msgstr "Susținător"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:51
-#: src/components/_user/user/UserDropdown.tsx:213
-#: src/components/_user/user/UserDropdown.tsx:222
-#: src/components/_user/user/UserDropdown.tsx:231
+#: src/components/_user/user/UserDropdown.tsx:226
+#: src/components/_user/user/UserDropdown.tsx:235
+#: src/components/_user/user/UserDropdown.tsx:244
 msgid "Supporter feature"
 msgstr "Funcție Susținător"
 
@@ -7883,7 +7883,7 @@ msgstr "Se simte bine, nu?"
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
 msgstr "Acesta e un rezumat cu prada din această luptă. Include toate cutiile primite, dar și obiectele valoroase din prada distribuită."
 
-#: src/components/_political/country/CountryHeader.tsx:214
+#: src/components/_political/country/CountryHeader.tsx:215
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
 msgstr ""
 
@@ -7924,7 +7924,7 @@ msgstr "Acest utilizator nu face parte din niciun grup de familie"
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:337
+#: src/components/_user/user/UserDropdown.tsx:350
 msgid "This will require the user to verify their mobile phone number."
 msgstr "Cere verificarea numărului de telefon mobil al jucătorului."
 
@@ -8104,7 +8104,7 @@ msgstr "Daune totale"
 msgid "Total Donated:"
 msgstr "Total donat:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:467
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:469
 msgid "Total of <0/>"
 msgstr ""
 
@@ -8228,7 +8228,7 @@ msgstr ""
 msgid "UI"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:278
+#: src/components/_user/user/UserDropdown.tsx:291
 msgid "Unblock (show content)"
 msgstr "Deblochează (arată conținut)"
 
@@ -8333,7 +8333,7 @@ msgstr "Actualizează muncitor"
 msgid "Upgrade a company"
 msgstr "Îmbunătățește o companie"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:200
+#: src/components/_economy/company/CompanyDropdown.tsx:207
 msgid "Upgrade automated engine"
 msgstr ""
 
@@ -8345,7 +8345,7 @@ msgstr "Îmbunătățește compania"
 msgid "Upgrade Skills"
 msgstr "Îmbunătățește competențele"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:218
+#: src/components/_economy/company/CompanyDropdown.tsx:225
 msgid "Upgrade storage"
 msgstr ""
 
@@ -8634,7 +8634,7 @@ msgid "Wage reduction proposed! Waiting for worker to accept or reject."
 msgstr "Reducere salarială propusă! Se așteaptă ca angajatul să accepte sau să respingă."
 
 #. placeholder {0}: gameConfig?.referral.levelNeededForBadge
-#: src/components/_user/referral/ReferralList.tsx:111
+#: src/components/_user/referral/ReferralList.tsx:112
 msgid "Waiting for level {0}"
 msgstr "Se așteaptă nivel {0}"
 
@@ -8854,7 +8854,7 @@ msgid "XP"
 msgstr "XP"
 
 #. placeholder {0}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:268
+#: src/components/_economy/company/CompanyDropdown.tsx:275
 msgid "You already have {0} active companies. Disable one first."
 msgstr "Deja deții {0} companii active. Întâi dezactivează una."
 
@@ -9033,7 +9033,7 @@ msgstr "Ai invitat prieteni, sau ai spamat pe forumuri. Când ating nivelul {0},
 msgid "You left the company."
 msgstr "Ai părăsit compania."
 
-#: src/components/_economy/company/CompanyDropdown.tsx:60
+#: src/components/_economy/company/CompanyDropdown.tsx:65
 msgid "You left your job!"
 msgstr "Ți-ai dat demisia!"
 
@@ -9160,7 +9160,7 @@ msgid "You were so close"
 msgstr "Erai așa de aproape"
 
 #. placeholder {0}: gameConfig?.referral.lifeTimeBadgeMoneySharePercent
-#: src/components/_user/referral/ReferralList.tsx:116
+#: src/components/_user/referral/ReferralList.tsx:117
 msgid "You win money for the badge + {0}% of the badge income of all your referrals"
 msgstr "Câștigi bani per recomandare, prin insignă, + {0}% din câștigurile pe toate insignele celui recomandat"
 
@@ -9327,8 +9327,8 @@ msgstr "Norocul tău e în vacanță"
 msgid "Your military unit name"
 msgstr "Numele unității militare"
 
-#: src/components/_military/mu/MuSettings.tsx:55
-msgid "Your military unit nationality is the country it represents. Changing it costs concrete and can only be done once every {cooldownDays} days."
+#: src/components/_military/mu/MuSettings.tsx:53
+msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
 msgstr ""
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
