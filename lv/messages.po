@@ -9331,7 +9331,7 @@ msgstr "Tavas militārās vienības nosaukums"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr "Tavas militārās vienības nacionālā piederība ir valsts, kuru tā pārstāv. To mainīt ir bez maksas un to var darīt ik pēc {cooldownDays} dienām."
+msgstr "Tavas militārās vienības nacionālā piederība ir valsts, kuru tā pārstāv. To var mainīt bez maksas ik pēc {cooldownDays} dienām."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
