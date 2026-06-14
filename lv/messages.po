@@ -7177,7 +7177,7 @@ msgstr "Pašdarbs"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:75
 msgid "Self work <0>{count}</0> times in your companies"
-msgstr "Nostrādā savos uzņēmumos <0>{count}</0> reizes"
+msgstr "Strādā savos uzņēmumos <0>{count}</0> reizes"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:331
 msgid "Sell company?"
