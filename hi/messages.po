@@ -132,7 +132,7 @@ msgstr "{0} की कंपनियाँ"
 
 #. placeholder {0}: activeCompaniesCount.data ?? 0
 #. placeholder {1}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:182
+#: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "{0}/{1} active"
 msgstr "{0}/{1} सक्रिय"
 
@@ -147,7 +147,7 @@ msgid "{0}% income tax will be deducted from your workers wages."
 msgstr "आपके कर्मचारियों के वेतन से {0}% आयकर काटा जाएगा।"
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
-#: src/components/_economy/company/CompanyDropdown.tsx:243
+#: src/components/_economy/company/CompanyDropdown.tsx:314
 msgid "{0}% of invested"
 msgstr "निवेशित राशि का {0}%"
 
@@ -790,7 +790,7 @@ msgstr "<0>दोनों पक्षों द्वारा किए ग�
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
 #. placeholder {2}: 10
-#: src/components/_user/worker/WorkerItem.tsx:112
+#: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
 msgstr "<0>एक ही नियोक्ता के लिए काम करने वाले प्रत्येक दिन के साथ निष्ठा बोनस <1>{0}</1> बढ़ जाता है।</0><2>यह उत्पादन बोनस को <3>{1}</3> तक बढ़ाता है, अधिकतम <4>{2}</4> तक।</2><5>यह बोनस कार्य के बाद लागू होता है, इसलिए इसे वेतन में नहीं गिना जाता।</5>"
 
@@ -1549,7 +1549,7 @@ msgstr "लगभग तैयार..."
 msgid "Alpha Tester"
 msgstr "अल्फा परीक्षक"
 
-#: src/components/_user/UserEquipments.tsx:130
+#: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "गोला-बारूद"
@@ -1661,7 +1661,7 @@ msgstr "स्वीकृत"
 msgid "Arcane Boots"
 msgstr "रहस्यमयी जूते"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:231
+#: src/components/_economy/inventory/ConsumeItems.tsx:243
 msgid "Are you sure you want to consume pill?"
 msgstr "क्या आप वाकई यह गोली उपयोग करना चाहते हैं?"
 
@@ -1693,11 +1693,11 @@ msgstr "क्या आप वाकई यह बोली लगाना च
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "क्या आप वाकई इस सदस्य को कमांडर पद पर पदोन्नत करना चाहते हैं?"
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "क्या आप वाकई सभी खरीद आदेश हटाना चाहते हैं?"
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "क्या आप वाकई सभी बिक्री आदेश हटाना चाहते हैं?"
 
@@ -1859,7 +1859,7 @@ msgid "Auto approval"
 msgstr "स्वचालित स्वीकृति"
 
 #: src/components/_layout/LayoutOptions.tsx:190
-#: src/components/_user/kits/KitsPopover.tsx:221
+#: src/components/_user/kits/KitsPopover.tsx:220
 msgid "Auto-equip when item breaks"
 msgstr "वस्तु टूटने पर स्वचालित रूप से सुसज्जित करें"
 
@@ -1867,7 +1867,7 @@ msgstr "वस्तु टूटने पर स्वचालित रू�
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "काम किए बिना समय के साथ <0>उत्पादन अंक</0> स्वतः उत्पन्न करता है।"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:288
+#: src/components/_economy/inventory/ConsumeItems.tsx:300
 msgid "Autobuy when empty"
 msgstr "खाली होने पर स्वतः खरीदें"
 
@@ -2029,7 +2029,7 @@ msgstr ""
 msgid "Battle orders to defend your core regions and revolts cost <0>{0}</0> less."
 msgstr ""
 
-#: src/components/_layout/LayoutMenu.tsx:157
+#: src/components/_layout/LayoutMenu.tsx:167
 #: src/components/_military/battle/BattlesHeader.tsx:21
 #: src/components/_military/war/WarHeader.tsx:84
 #: src/pages/region/[regionId]/index.tsx:132
@@ -2059,7 +2059,7 @@ msgid "Become a Candidate"
 msgstr "उम्मीदवार बनें"
 
 #: src/components/_layout/LayoutOptions.tsx:210
-#: src/components/_user/kits/KitsPopover.tsx:245
+#: src/components/_user/kits/KitsPopover.tsx:244
 msgid "Best"
 msgstr "सर्वश्रेष्ठ"
 
@@ -2100,7 +2100,7 @@ msgstr "अतिरिक्त क्षति"
 msgid "Boost your production!"
 msgstr "अपने उत्पादन को बढ़ाएँ!"
 
-#: src/components/_user/UserEquipments.tsx:200
+#: src/components/_user/UserEquipments.tsx:215
 #: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "जूते"
@@ -2202,7 +2202,7 @@ msgid "Buy Items"
 msgstr "वस्तुएँ खरीदें"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr "खरीद आदेश"
 
@@ -2367,7 +2367,7 @@ msgstr ""
 msgid "Change produced item"
 msgstr "उत्पादित वस्तु बदलें"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:159
+#: src/components/_economy/company/CompanyDropdown.tsx:194
 msgid "Change production"
 msgstr "उत्पादन बदलें"
 
@@ -2408,7 +2408,7 @@ msgstr "{0} का कर बदलकर करें"
 msgid "Check your loot!"
 msgstr "अपनी लूट देखें!"
 
-#: src/components/_user/UserEquipments.tsx:166
+#: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "चेस्ट"
@@ -2491,7 +2491,7 @@ msgstr "अपने देश के नागरिकों से बात�
 msgid "Click to apply and start earning money right away."
 msgstr "आवेदन करने और तुरंत कमाई शुरू करने के लिए क्लिक करें।"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:175
+#: src/components/_economy/inventory/ConsumeItems.tsx:187
 msgid "Click to consume."
 msgstr "उपयोग करने के लिए क्लिक करें।"
 
@@ -2554,7 +2554,7 @@ msgstr "कमोडोर"
 msgid "Community"
 msgstr "समुदाय"
 
-#: src/components/_layout/LayoutMenu.tsx:199
+#: src/components/_layout/LayoutMenu.tsx:209
 #: src/components/_user/user/MyAvatar.tsx:48
 #: src/components/_user/user/UserHeader.tsx:206
 #: src/components/_user/user/WealthPanel.tsx:42
@@ -2571,7 +2571,7 @@ msgstr "कंपनियों की सीमा"
 msgid "Companies limit reached"
 msgstr "कंपनियों की सीमा पूरी हो गई"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:89
+#: src/components/_economy/company/CompanyDropdown.tsx:93
 msgid "Company destroyed!"
 msgstr "कंपनी नष्ट कर दी गई!"
 
@@ -2579,11 +2579,11 @@ msgstr "कंपनी नष्ट कर दी गई!"
 msgid "Company disabled"
 msgstr "कंपनी निष्क्रिय"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:116
+#: src/components/_economy/company/CompanyDropdown.tsx:120
 msgid "Company disabled!"
 msgstr "कंपनी निष्क्रिय कर दी गई!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:115
+#: src/components/_economy/company/CompanyDropdown.tsx:119
 msgid "Company enabled!"
 msgstr "कंपनी सक्रिय कर दी गई!"
 
@@ -2598,6 +2598,10 @@ msgstr "कंपनी उत्पादन भंडारण"
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:44
 msgid "Company renamed!"
 msgstr "कंपनी का नाम बदल दिया गया!"
+
+#: src/components/_economy/company/CompanyDropdown.tsx:143
+msgid "Company upgraded!"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:194
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2709,7 +2713,7 @@ msgstr "विजेता"
 msgid "Consider giving it to your local moderator"
 msgstr "इसे अपने स्थानीय मॉडरेटर को देने पर विचार करें"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:172
+#: src/components/_economy/inventory/ConsumeItems.tsx:184
 msgid "Consume items"
 msgstr "वस्तुओं का उपयोग करें"
 
@@ -3277,7 +3281,7 @@ msgstr "विवरण हटा दिया गया"
 msgid "Description updated!"
 msgstr "विवरण अपडेट कर दिया गया!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:233
+#: src/components/_economy/company/CompanyDropdown.tsx:304
 msgid "Destruct"
 msgstr "नष्ट करें"
 
@@ -3307,7 +3311,7 @@ msgstr "कूटनीतिक"
 msgid "Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:189
+#: src/components/_economy/company/CompanyDropdown.tsx:260
 msgid "Disable company"
 msgstr "कंपनी निष्क्रिय करें"
 
@@ -3518,7 +3522,7 @@ msgstr "कर्मचारी उत्पादन"
 msgid "Empty"
 msgstr "खाली"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:179
+#: src/components/_economy/company/CompanyDropdown.tsx:250
 msgid "Enable company"
 msgstr "कंपनी सक्रिय करें"
 
@@ -3585,7 +3589,7 @@ msgstr "उद्यमिता"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3595,7 +3599,7 @@ msgstr "उपकरण"
 msgid "Equipment:"
 msgstr "उपकरण:"
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr "उपकरण"
 
@@ -3813,7 +3817,7 @@ msgstr "शुल्क"
 msgid "Feed"
 msgstr "फ़ीड"
 
-#: src/components/_user/worker/WorkerItem.tsx:110
+#: src/components/_user/worker/WorkerItem.tsx:120
 msgid "Fidelity Bonus"
 msgstr "निष्ठा बोनस"
 
@@ -4022,10 +4026,6 @@ msgstr "30% छूट के साथ एक साथ कई स्किन �
 msgid "Get supporter plan"
 msgstr "समर्थक योजना प्राप्त करें"
 
-#: src/components/_user/kits/KitsPopover.tsx:209
-msgid "Get Supporter Plan"
-msgstr "समर्थक योजना प्राप्त करें"
-
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Vatou की ओर से उपहार, किसी को मत बताना"
@@ -4075,7 +4075,7 @@ msgstr "<0>{0}</0> प्रदान करता है"
 msgid "Globe (experimental)"
 msgstr "ग्लोब (प्रायोगिक)"
 
-#: src/components/_user/UserEquipments.tsx:217
+#: src/components/_user/UserEquipments.tsx:232
 #: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "दस्ताने"
@@ -4286,7 +4286,7 @@ msgstr "स्वास्थ्य"
 msgid "Heavy Ammo"
 msgstr "भारी गोला-बारूद"
 
-#: src/components/_user/UserEquipments.tsx:151
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "हेलमेट"
@@ -4477,12 +4477,12 @@ msgstr "प्रारंभिक सदस्य"
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
 msgstr "इस नीति का जानबूझकर या बार-बार उल्लंघन करने पर स्थायी प्रतिबंध लगाया जाएगा।"
 
-#: src/components/_layout/LayoutMenu.tsx:126
+#: src/components/_layout/LayoutMenu.tsx:127
 #: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4557,7 +4557,7 @@ msgstr "j. स्पैम और बार-बार दोहराए गए 
 msgid "Job"
 msgstr "नौकरी"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:202
+#: src/components/_economy/company/CompanyDropdown.tsx:273
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:42
 msgid "Job market"
 msgstr "नौकरी बाज़ार"
@@ -4566,11 +4566,11 @@ msgstr "नौकरी बाज़ार"
 msgid "Job offer"
 msgstr "नौकरी प्रस्ताव"
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr "नौकरी प्रस्ताव"
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "नौकरियाँ"
 
@@ -4603,7 +4603,7 @@ msgstr "अपने देश की चैट में शामिल हो
 msgid "Joinable"
 msgstr "शामिल होने योग्य"
 
-#: src/components/_user/worker/WorkerItem.tsx:150
+#: src/components/_user/worker/WorkerItem.tsx:160
 msgid "Joined"
 msgstr "शामिल हुआ"
 
@@ -4660,7 +4660,7 @@ msgstr "तराशे हुए चकमक पत्थर"
 msgid "Knife"
 msgstr "चाकू"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:154
 msgid "Knives do not accept ammo"
 msgstr "चाकुओं में गोला-बारूद का उपयोग नहीं होता"
 
@@ -4740,7 +4740,7 @@ msgstr "सीसा"
 msgid "Leather Sling"
 msgstr "चमड़े की गुलेल"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:221
+#: src/components/_economy/company/CompanyDropdown.tsx:292
 msgid "Leave"
 msgstr "छोड़ें"
 
@@ -4995,8 +4995,8 @@ msgstr "मानचित्र"
 msgid "Map Accent"
 msgstr "मानचित्र उच्चारण रंग"
 
-#: src/components/_economy/market/MarketHeader.tsx:44
-#: src/components/_layout/LayoutMenu.tsx:179
+#: src/components/_economy/market/MarketHeader.tsx:37
+#: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
 #: src/pages/user/[userId]/account.tsx:26
@@ -5015,6 +5015,11 @@ msgstr "मार्शल"
 #: src/components/_military/mu/MuLevel.tsx:81
 msgid "Max level reached!"
 msgstr "अधिकतम स्तर प्राप्त हो गया!"
+
+#: src/components/_economy/company/CompanyDropdown.tsx:214
+#: src/components/_economy/company/CompanyDropdown.tsx:232
+msgid "Maxed!"
+msgstr ""
 
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:109
@@ -5307,7 +5312,7 @@ msgstr "प्रस्ताव"
 msgid "Move a company to another region"
 msgstr "किसी कंपनी को दूसरे क्षेत्र में स्थानांतरित करें"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:144
+#: src/components/_economy/company/CompanyDropdown.tsx:179
 #: src/components/_economy/company/MoveCompanyForm.tsx:64
 msgid "Move company"
 msgstr "कंपनी स्थानांतरित करें"
@@ -5320,7 +5325,7 @@ msgstr "कंपनी स्थानांतरित करें"
 msgid "Move the company"
 msgstr "कंपनी को स्थानांतरित करें"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:170
+#: src/components/_economy/company/CompanyDropdown.tsx:241
 msgid "Move to top"
 msgstr "शीर्ष पर ले जाएँ"
 
@@ -5328,7 +5333,7 @@ msgstr "शीर्ष पर ले जाएँ"
 msgid "Moved to a new company"
 msgstr "नई कंपनी में स्थानांतरित किया गया"
 
-#: src/components/_layout/LayoutMenu.tsx:139
+#: src/components/_layout/LayoutMenu.tsx:140
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
 msgid "MU"
 msgstr "MU"
@@ -5485,7 +5490,7 @@ msgstr "नई नैतिकता संरचना"
 msgid "New item offer"
 msgstr "नया वस्तु प्रस्ताव"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:151
+#: src/components/_economy/company/CompanyDropdown.tsx:186
 #: src/components/_economy/workOffer/WorkOfferList.tsx:172
 #: src/pages/company/[companyId]/index.tsx:67
 msgid "New job offer"
@@ -5665,6 +5670,10 @@ msgstr "अभी तक कोई दान नहीं"
 msgid "No ground ranking yet."
 msgstr "अभी तक कोई ग्राउंड रैंकिंग नहीं।"
 
+#: src/components/_user/kits/KitsPopover.tsx:130
+msgid "No kits yet - add one to quick-equip a full loadout."
+msgstr ""
+
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
 msgstr "अभी तक कोई कानून नहीं"
@@ -5738,7 +5747,7 @@ msgid "No sworn enemy"
 msgstr "कोई शपथ लिया हुआ दुश्मन नहीं"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr "कोई व्यापार आदेश नहीं"
 
@@ -5960,7 +5969,7 @@ msgstr "आदेश"
 msgid "Orders & actions"
 msgstr "आदेश और कार्यवाहियाँ"
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "आदेश रद्द किए गए"
 
@@ -6029,7 +6038,7 @@ msgstr ""
 msgid "Packs"
 msgstr "पैक"
 
-#: src/components/_user/UserEquipments.tsx:183
+#: src/components/_user/UserEquipments.tsx:198
 #: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "पैंट"
@@ -6763,8 +6772,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr "पार्टी परिषद से एक सदस्य को हटाएँ"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr "सभी हटाएँ"
 
@@ -6807,7 +6816,7 @@ msgstr "वर्तमान पार्टी नेता को उनक�
 msgid "Removed from Military Unit"
 msgstr "सैन्य इकाई से हटाया गया"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:211
+#: src/components/_economy/company/CompanyDropdown.tsx:282
 msgid "Rename"
 msgstr "नाम बदलें"
 
@@ -7071,10 +7080,6 @@ msgstr "स्वास्थ्य कम हो रहा है?"
 msgid "Save"
 msgstr "सहेजें"
 
-#: src/components/_user/kits/KitsPopover.tsx:195
-msgid "Save your equipment kits"
-msgstr "अपने उपकरण किट सहेजें"
-
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
 msgstr "अपनी प्रगति सहेजें!"
@@ -7170,7 +7175,7 @@ msgstr "स्वयं कार्य"
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "अपनी कंपनियों में <0>{count}</0> बार स्वयं कार्य करें"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:253
+#: src/components/_economy/company/CompanyDropdown.tsx:324
 msgid "Sell company?"
 msgstr "कंपनी बेचें?"
 
@@ -7187,7 +7192,7 @@ msgid "Sell Items"
 msgstr "वस्तुएँ बेचें"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "बिक्री आदेश"
 
@@ -7195,7 +7200,7 @@ msgstr "बिक्री आदेश"
 msgid "Sell price:"
 msgstr "बिक्री मूल्य:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr "बेचता है"
 
@@ -7665,9 +7670,9 @@ msgstr "समर्थक योजना"
 msgid "Supporter Plan"
 msgstr "समर्थक योजना"
 
-#: src/components/_user/kits/KitsPopover.tsx:198
-msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
-msgstr "समर्थक योजना आपको {maxKits} तक कस्टम उपकरण लोडआउट सहेजने और एक क्लिक में उनके बीच स्विच करने की सुविधा देती है।"
+#: src/components/_user/kits/KitsPopover.tsx:209
+msgid "Supporter Plan: up to {premiumMax} kits"
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7913,7 +7918,7 @@ msgstr "केवल यह राउंड"
 msgid "This user is not part of any family group"
 msgstr "यह उपयोगकर्ता किसी भी परिवार समूह का हिस्सा नहीं है"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:232
+#: src/components/_economy/inventory/ConsumeItems.tsx:244
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "यह आपको {cocainBuffHours} घंटे तक बफ देगा, फिर {cocainDebuffHours} घंटे तक नकारात्मक प्रभाव देगा"
 
@@ -8080,8 +8085,8 @@ msgstr "कुल"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "कुल"
 
@@ -8149,12 +8154,8 @@ msgstr "टूर्नामेंट शुरू हुआ"
 msgid "Tournament Won!"
 msgstr "टूर्नामेंट जीता!"
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "व्यापार"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "व्यापार"
 
@@ -8171,7 +8172,7 @@ msgid "Transac."
 msgstr "लेन-देन"
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "लेन-देन"
@@ -8225,7 +8226,7 @@ msgstr "यूआई"
 msgid "Unblock (show content)"
 msgstr "अनब्लॉक करें (सामग्री दिखाएँ)"
 
-#: src/components/_user/UserEquipments.tsx:103
+#: src/components/_user/UserEquipments.tsx:117
 msgid "Unequip all"
 msgstr "सभी उपकरण हटाएँ"
 
@@ -8326,6 +8327,10 @@ msgstr "कर्मचारी अपडेट करें"
 msgid "Upgrade a company"
 msgstr "कंपनी अपग्रेड करें"
 
+#: src/components/_economy/company/CompanyDropdown.tsx:200
+msgid "Upgrade automated engine"
+msgstr ""
+
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
 msgstr "कंपनी अपग्रेड करें"
@@ -8333,6 +8338,10 @@ msgstr "कंपनी अपग्रेड करें"
 #: src/components/_user/mission/mission.frontConfig.tsx:462
 msgid "Upgrade Skills"
 msgstr "कौशल अपग्रेड करें"
+
+#: src/components/_economy/company/CompanyDropdown.tsx:218
+msgid "Upgrade storage"
+msgstr ""
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
@@ -8627,7 +8636,7 @@ msgstr "स्तर {0} की प्रतीक्षा"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "कर्मचारी द्वारा वेतन कटौती स्वीकार या अस्वीकार करने की प्रतीक्षा है। उनके उत्तर देने तक आप वेतन नहीं बदल सकते।"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "चाहता है"
 
@@ -8661,7 +8670,7 @@ msgid "Wealth"
 msgstr "संपत्ति"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
-#: src/components/_user/UserEquipments.tsx:120
+#: src/components/_user/UserEquipments.tsx:134
 msgid "Weapon"
 msgstr "हथियार"
 
@@ -8813,7 +8822,7 @@ msgid "World Cup Ball"
 msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:222
-#: src/components/_user/kits/KitsPopover.tsx:259
+#: src/components/_user/kits/KitsPopover.tsx:258
 msgid "Worst"
 msgstr "सबसे खराब"
 
@@ -8843,7 +8852,7 @@ msgid "XP"
 msgstr "XP"
 
 #. placeholder {0}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:197
+#: src/components/_economy/company/CompanyDropdown.tsx:268
 msgid "You already have {0} active companies. Disable one first."
 msgstr "आपके पास पहले से {0} सक्रिय कंपनियाँ हैं। पहले एक को निष्क्रिय करें।"
 
@@ -9022,7 +9031,7 @@ msgstr "आपने किसी मित्र को आमंत्रि�
 msgid "You left the company."
 msgstr "आपने कंपनी छोड़ दी।"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:56
+#: src/components/_economy/company/CompanyDropdown.tsx:60
 msgid "You left your job!"
 msgstr "आपने अपनी नौकरी छोड़ दी!"
 
@@ -9051,7 +9060,7 @@ msgstr "सदस्यता लेने के लिए आपको वे�
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "आपको सभी 3 नैतिकता अंक खर्च करने होंगे ({pointsRemaining} शेष)"
 
-#: src/components/_user/UserEquipments.tsx:141
+#: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
 msgstr "आपको पहले एक हथियार सुसज्जित करना होगा"
 
@@ -9263,7 +9272,7 @@ msgstr "आपके देश ने <1/> के विरुद्ध <0/> म
 msgid "Your current job"
 msgstr "आपकी वर्तमान नौकरी"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "आपका वर्तमान आदेश"
 
@@ -9328,7 +9337,7 @@ msgstr "आपकी MU की प्रतिष्ठा <0/> है और �
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "बोली लगाने के लिए आपकी MU के पास स्वीकृति शुल्क चुकाने हेतु पर्याप्त धन होना चाहिए। भुगतान केवल जीतने पर काटा जाएगा और अनुबंध पूरा होने पर वापस कर दिया जाएगा।"
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "आपके प्रस्ताव"
 

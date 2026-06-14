@@ -132,7 +132,7 @@ msgstr "{0} cégei"
 
 #. placeholder {0}: activeCompaniesCount.data ?? 0
 #. placeholder {1}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:182
+#: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "{0}/{1} active"
 msgstr "{0}/{1} aktív"
 
@@ -147,7 +147,7 @@ msgid "{0}% income tax will be deducted from your workers wages."
 msgstr "{0}% jövedelemadó kerül levonásra a dolgozóid fizetéséből."
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
-#: src/components/_economy/company/CompanyDropdown.tsx:243
+#: src/components/_economy/company/CompanyDropdown.tsx:314
 msgid "{0}% of invested"
 msgstr "{0}% a befektetésből"
 
@@ -790,7 +790,7 @@ msgstr "<0>Minden <1/> összes sebzés, amit mindkét oldal okoz, egy <2>{0}</2>
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
 #. placeholder {2}: 10
-#: src/components/_user/worker/WorkerItem.tsx:112
+#: src/components/_user/worker/WorkerItem.tsx:122
 msgid "<0>Everyday passed working for same employer, the fidelity bonus increases by <1>{0}</1>.</0><2>It increase by <3>{1}</3> the production bonus until <4>{2}</4>.</2><5>This bonus is applied after work. So it is not counted in wage.</5>"
 msgstr "<0>Minden egyes nap, amit ugyanannál a munkaadónál dolgozol, a hűségbónusz <1>{0}</1> értékkel nő.</0><2>Ez <3>{1}</3> értékkel növeli a termelési bónuszt, maximum <4>{2}</4> értékig.</2><5>Ez a bónusz a munka után kerül alkalmazásra, így nem számít bele a fizetésbe.</5>"
 
@@ -1549,7 +1549,7 @@ msgstr "Majdnem kész..."
 msgid "Alpha Tester"
 msgstr "Alfa Tesztelő"
 
-#: src/components/_user/UserEquipments.tsx:130
+#: src/components/_user/UserEquipments.tsx:144
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Lőszer"
@@ -1661,7 +1661,7 @@ msgstr "Jóváhagyva"
 msgid "Arcane Boots"
 msgstr "Titokzatos csizma"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:231
+#: src/components/_economy/inventory/ConsumeItems.tsx:243
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1693,11 +1693,11 @@ msgstr "Biztosan le akarod adni ezt az ajánlatot?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Biztosan elő akarod léptetni ezt a tagot parancsnokká?"
 
-#: src/pages/market/index.tsx:174
+#: src/pages/market/index.tsx:193
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Biztosan törölni akarod az összes vételi megbízást?"
 
-#: src/pages/market/index.tsx:236
+#: src/pages/market/index.tsx:256
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Biztosan törölni akarod az összes eladási megbízást?"
 
@@ -1859,7 +1859,7 @@ msgid "Auto approval"
 msgstr "Automatikus jóváhagyás"
 
 #: src/components/_layout/LayoutOptions.tsx:190
-#: src/components/_user/kits/KitsPopover.tsx:221
+#: src/components/_user/kits/KitsPopover.tsx:220
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Automatikusan generál <0>Termelési Pontokat</0> az idő múlásával, munka nélkül."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:288
+#: src/components/_economy/inventory/ConsumeItems.tsx:300
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -2029,7 +2029,7 @@ msgstr ""
 msgid "Battle orders to defend your core regions and revolts cost <0>{0}</0> less."
 msgstr ""
 
-#: src/components/_layout/LayoutMenu.tsx:157
+#: src/components/_layout/LayoutMenu.tsx:167
 #: src/components/_military/battle/BattlesHeader.tsx:21
 #: src/components/_military/war/WarHeader.tsx:84
 #: src/pages/region/[regionId]/index.tsx:132
@@ -2059,7 +2059,7 @@ msgid "Become a Candidate"
 msgstr "Jelöltté válás"
 
 #: src/components/_layout/LayoutOptions.tsx:210
-#: src/components/_user/kits/KitsPopover.tsx:245
+#: src/components/_user/kits/KitsPopover.tsx:244
 msgid "Best"
 msgstr ""
 
@@ -2100,7 +2100,7 @@ msgstr "Bónusz sebzés"
 msgid "Boost your production!"
 msgstr "Növeld a termelésed!"
 
-#: src/components/_user/UserEquipments.tsx:200
+#: src/components/_user/UserEquipments.tsx:215
 #: src/utils/translations.tsx:202
 msgid "Boots"
 msgstr "Csizma"
@@ -2202,7 +2202,7 @@ msgid "Buy Items"
 msgstr "Tárgyak vásárlása"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:135
+#: src/pages/market/index.tsx:155
 msgid "Buy orders"
 msgstr "Vételi ajánlatok"
 
@@ -2367,7 +2367,7 @@ msgstr ""
 msgid "Change produced item"
 msgstr "Termelt tárgy módosítása"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:159
+#: src/components/_economy/company/CompanyDropdown.tsx:194
 msgid "Change production"
 msgstr "Termelés módosítása"
 
@@ -2408,7 +2408,7 @@ msgstr "{0} adójának módosítása erre:"
 msgid "Check your loot!"
 msgstr "Nézd meg a zsákmányod!"
 
-#: src/components/_user/UserEquipments.tsx:166
+#: src/components/_user/UserEquipments.tsx:181
 #: src/utils/translations.tsx:193
 msgid "Chest"
 msgstr "Mellvért"
@@ -2491,7 +2491,7 @@ msgstr "Kattints az országod beszélgetésére, hogy csevegj a többi állampol
 msgid "Click to apply and start earning money right away."
 msgstr "Kattints a jelentkezéshez, és kezdj el azonnal pénzt keresni."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:175
+#: src/components/_economy/inventory/ConsumeItems.tsx:187
 msgid "Click to consume."
 msgstr ""
 
@@ -2554,7 +2554,7 @@ msgstr "Komodor"
 msgid "Community"
 msgstr "Közösség"
 
-#: src/components/_layout/LayoutMenu.tsx:199
+#: src/components/_layout/LayoutMenu.tsx:209
 #: src/components/_user/user/MyAvatar.tsx:48
 #: src/components/_user/user/UserHeader.tsx:206
 #: src/components/_user/user/WealthPanel.tsx:42
@@ -2571,7 +2571,7 @@ msgstr "Vállalat limit"
 msgid "Companies limit reached"
 msgstr "Vállalat limit elérve"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:89
+#: src/components/_economy/company/CompanyDropdown.tsx:93
 msgid "Company destroyed!"
 msgstr "Vállalat megsemmisítve!"
 
@@ -2579,11 +2579,11 @@ msgstr "Vállalat megsemmisítve!"
 msgid "Company disabled"
 msgstr "Vállalat kikapcsolva"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:116
+#: src/components/_economy/company/CompanyDropdown.tsx:120
 msgid "Company disabled!"
 msgstr "Vállalat kikapcsolva!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:115
+#: src/components/_economy/company/CompanyDropdown.tsx:119
 msgid "Company enabled!"
 msgstr "Vállalat bekapcsolva!"
 
@@ -2598,6 +2598,10 @@ msgstr "Vállalat termelési tárhelye"
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:44
 msgid "Company renamed!"
 msgstr "Vállalat átnevezve!"
+
+#: src/components/_economy/company/CompanyDropdown.tsx:143
+msgid "Company upgraded!"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:194
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2709,7 +2713,7 @@ msgstr "Hódító"
 msgid "Consider giving it to your local moderator"
 msgstr "Fontold meg, hogy odaadod a helyi moderátorodnak"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:172
+#: src/components/_economy/inventory/ConsumeItems.tsx:184
 msgid "Consume items"
 msgstr ""
 
@@ -3277,7 +3281,7 @@ msgstr "Leírás eltávolítva"
 msgid "Description updated!"
 msgstr "Leírás frissítve!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:233
+#: src/components/_economy/company/CompanyDropdown.tsx:304
 msgid "Destruct"
 msgstr "Lebontás"
 
@@ -3307,7 +3311,7 @@ msgstr "Diplomáciai"
 msgid "Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:189
+#: src/components/_economy/company/CompanyDropdown.tsx:260
 msgid "Disable company"
 msgstr "Vállalat kikapcsolása"
 
@@ -3518,7 +3522,7 @@ msgstr "Alkalmazotti Termelés"
 msgid "Empty"
 msgstr "Üres"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:179
+#: src/components/_economy/company/CompanyDropdown.tsx:250
 msgid "Enable company"
 msgstr "Vállalat engedélyezése"
 
@@ -3585,7 +3589,7 @@ msgstr "Vállalkozás"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/pages/market/index.tsx:78
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:61
 msgid "Equipment"
@@ -3595,7 +3599,7 @@ msgstr "Felszerelés"
 msgid "Equipment:"
 msgstr "Felszerelés:"
 
-#: src/components/_economy/market/MarketHeader.tsx:26
+#: src/components/_economy/market/MarketHeader.tsx:19
 msgid "Equipments"
 msgstr "Felszerelések"
 
@@ -3813,7 +3817,7 @@ msgstr "Díj"
 msgid "Feed"
 msgstr "Hírfolyam"
 
-#: src/components/_user/worker/WorkerItem.tsx:110
+#: src/components/_user/worker/WorkerItem.tsx:120
 msgid "Fidelity Bonus"
 msgstr "Hűségbónusz"
 
@@ -4022,10 +4026,6 @@ msgstr "Szerezz több skint egyszerre 30% kedvezménnyel!"
 msgid "Get supporter plan"
 msgstr "Támogatói csomag beszerzése"
 
-#: src/components/_user/kits/KitsPopover.tsx:209
-msgid "Get Supporter Plan"
-msgstr ""
-
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Ajándék Vatou-tól, ne mondd el senkinek"
@@ -4075,7 +4075,7 @@ msgstr "Ad <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Glóbusz (kísérleti)"
 
-#: src/components/_user/UserEquipments.tsx:217
+#: src/components/_user/UserEquipments.tsx:232
 #: src/utils/translations.tsx:211
 msgid "Gloves"
 msgstr "Kesztyű"
@@ -4286,7 +4286,7 @@ msgstr "Életerő"
 msgid "Heavy Ammo"
 msgstr "Nehéz lőszer"
 
-#: src/components/_user/UserEquipments.tsx:151
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
 msgid "Helmet"
 msgstr "Sisak"
@@ -4477,12 +4477,12 @@ msgstr "Kezdő"
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
 msgstr "Ezen szabályzat szándékos vagy ismételt megsértése végleges kitiltást eredményez."
 
-#: src/components/_layout/LayoutMenu.tsx:126
+#: src/components/_layout/LayoutMenu.tsx:127
 #: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4557,7 +4557,7 @@ msgstr "j. Spam és ismétlődő üzenetek"
 msgid "Job"
 msgstr "Munka"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:202
+#: src/components/_economy/company/CompanyDropdown.tsx:273
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:42
 msgid "Job market"
 msgstr "Munkaerőpiac"
@@ -4566,11 +4566,11 @@ msgstr "Munkaerőpiac"
 msgid "Job offer"
 msgstr "Állásajánlat"
 
-#: src/pages/market/index.tsx:77
+#: src/pages/market/index.tsx:84
 msgid "Job offers"
 msgstr "Állásajánlatok"
 
-#: src/components/_economy/market/MarketHeader.tsx:32
+#: src/components/_economy/market/MarketHeader.tsx:25
 msgid "Jobs"
 msgstr "Munkák"
 
@@ -4603,7 +4603,7 @@ msgstr "Csatlakozz az országod chatjéhez!"
 msgid "Joinable"
 msgstr ""
 
-#: src/components/_user/worker/WorkerItem.tsx:150
+#: src/components/_user/worker/WorkerItem.tsx:160
 msgid "Joined"
 msgstr "Csatlakozott"
 
@@ -4660,7 +4660,7 @@ msgstr ""
 msgid "Knife"
 msgstr "Kés"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:154
 msgid "Knives do not accept ammo"
 msgstr "A kések nem használnak lőszert"
 
@@ -4740,7 +4740,7 @@ msgstr "Ólom"
 msgid "Leather Sling"
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:221
+#: src/components/_economy/company/CompanyDropdown.tsx:292
 msgid "Leave"
 msgstr "Kilépés"
 
@@ -4995,8 +4995,8 @@ msgstr ""
 msgid "Map Accent"
 msgstr "Térkép kiemelés"
 
-#: src/components/_economy/market/MarketHeader.tsx:44
-#: src/components/_layout/LayoutMenu.tsx:179
+#: src/components/_economy/market/MarketHeader.tsx:37
+#: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
 #: src/pages/party/[partyId]/account.tsx:24
 #: src/pages/user/[userId]/account.tsx:26
@@ -5015,6 +5015,11 @@ msgstr "Marsall"
 #: src/components/_military/mu/MuLevel.tsx:81
 msgid "Max level reached!"
 msgstr "Maximális szint elérve!"
+
+#: src/components/_economy/company/CompanyDropdown.tsx:214
+#: src/components/_economy/company/CompanyDropdown.tsx:232
+msgid "Maxed!"
+msgstr ""
 
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:109
@@ -5307,7 +5312,7 @@ msgstr "Indítványok"
 msgid "Move a company to another region"
 msgstr "Helyezz át egy vállalatot egy másik régióba"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:144
+#: src/components/_economy/company/CompanyDropdown.tsx:179
 #: src/components/_economy/company/MoveCompanyForm.tsx:64
 msgid "Move company"
 msgstr "Vállalat áthelyezése"
@@ -5320,7 +5325,7 @@ msgstr "Vállalat áthelyezése"
 msgid "Move the company"
 msgstr "A vállalat áthelyezése"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:170
+#: src/components/_economy/company/CompanyDropdown.tsx:241
 msgid "Move to top"
 msgstr "Felülre helyezés"
 
@@ -5328,7 +5333,7 @@ msgstr "Felülre helyezés"
 msgid "Moved to a new company"
 msgstr "Új vállalathoz költözött"
 
-#: src/components/_layout/LayoutMenu.tsx:139
+#: src/components/_layout/LayoutMenu.tsx:140
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
 msgid "MU"
 msgstr "KE"
@@ -5485,7 +5490,7 @@ msgstr "Új etikai konfiguráció"
 msgid "New item offer"
 msgstr "Új tárgykínálat"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:151
+#: src/components/_economy/company/CompanyDropdown.tsx:186
 #: src/components/_economy/workOffer/WorkOfferList.tsx:172
 #: src/pages/company/[companyId]/index.tsx:67
 msgid "New job offer"
@@ -5665,6 +5670,10 @@ msgstr "Még nincsenek adományok"
 msgid "No ground ranking yet."
 msgstr "Még nincs földi rangsor."
 
+#: src/components/_user/kits/KitsPopover.tsx:130
+msgid "No kits yet - add one to quick-equip a full loadout."
+msgstr ""
+
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
 msgstr "Még nincsenek törvények"
@@ -5738,7 +5747,7 @@ msgid "No sworn enemy"
 msgstr "Nincs esküdt ellenség"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:127
+#: src/pages/market/index.tsx:147
 msgid "No trading orders"
 msgstr "Nincs kereskedelmi megbízás"
 
@@ -5960,7 +5969,7 @@ msgstr "Parancsok"
 msgid "Orders & actions"
 msgstr "Rendelések és műveletek"
 
-#: src/pages/market/index.tsx:122
+#: src/pages/market/index.tsx:142
 msgid "Orders cancelled"
 msgstr "Megrendelések törölve"
 
@@ -6029,7 +6038,7 @@ msgstr ""
 msgid "Packs"
 msgstr "Csomagok"
 
-#: src/components/_user/UserEquipments.tsx:183
+#: src/components/_user/UserEquipments.tsx:198
 #: src/utils/translations.tsx:220
 msgid "Pants"
 msgstr "Nadrág"
@@ -6763,8 +6772,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr "Egy tag eltávolítása a párt tanácsból"
 
-#: src/pages/market/index.tsx:178
-#: src/pages/market/index.tsx:240
+#: src/pages/market/index.tsx:197
+#: src/pages/market/index.tsx:260
 msgid "Remove all"
 msgstr "Összes eltávolítása"
 
@@ -6807,7 +6816,7 @@ msgstr "A jelenlegi pártvezető eltávolítása posztjáról"
 msgid "Removed from Military Unit"
 msgstr "Eltávolítva a katonai egységből"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:211
+#: src/components/_economy/company/CompanyDropdown.tsx:282
 msgid "Rename"
 msgstr "Átnevezés"
 
@@ -7071,10 +7080,6 @@ msgstr "Kevés az életerőd?"
 msgid "Save"
 msgstr "Mentés"
 
-#: src/components/_user/kits/KitsPopover.tsx:195
-msgid "Save your equipment kits"
-msgstr ""
-
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
 msgstr "Mentsd el a haladásod!"
@@ -7170,7 +7175,7 @@ msgstr "Önálló munka"
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Dolgozz <0>{count}</0> alkalommal a saját vállalatoddban"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:253
+#: src/components/_economy/company/CompanyDropdown.tsx:324
 msgid "Sell company?"
 msgstr "Eladod a vállalatot?"
 
@@ -7187,7 +7192,7 @@ msgid "Sell Items"
 msgstr "Tárgyak eladása"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:187
+#: src/pages/market/index.tsx:206
 msgid "Sell orders"
 msgstr "Eladási megbízások"
 
@@ -7195,7 +7200,7 @@ msgstr "Eladási megbízások"
 msgid "Sell price:"
 msgstr "Eladási ár:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "sells"
 msgstr "elad"
 
@@ -7665,8 +7670,8 @@ msgstr "Támogató terv"
 msgid "Supporter Plan"
 msgstr "Támogató Terv"
 
-#: src/components/_user/kits/KitsPopover.tsx:198
-msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
+#: src/components/_user/kits/KitsPopover.tsx:209
+msgid "Supporter Plan: up to {premiumMax} kits"
 msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
@@ -7913,7 +7918,7 @@ msgstr "Csak ez a menet"
 msgid "This user is not part of any family group"
 msgstr "Ez a felhasználó nem tagja egyetlen családi csoportnak sem"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:232
+#: src/components/_economy/inventory/ConsumeItems.tsx:244
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -8080,8 +8085,8 @@ msgstr "összesen"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:139
-#: src/pages/market/index.tsx:191
+#: src/pages/market/index.tsx:159
+#: src/pages/market/index.tsx:210
 msgid "Total"
 msgstr "Összesen"
 
@@ -8149,12 +8154,8 @@ msgstr "Torna elkezdődött"
 msgid "Tournament Won!"
 msgstr "Torna megnyerve!"
 
-#: src/components/_economy/market/MarketHeader.tsx:20
-msgid "Trade"
-msgstr "Kereskedés"
-
 #: src/components/_economy/transaction/TransactionList.tsx:71
-#: src/pages/market/index.tsx:56
+#: src/pages/market/index.tsx:63
 msgid "Trading"
 msgstr "Kereskedelem"
 
@@ -8171,7 +8172,7 @@ msgid "Transac."
 msgstr "Tranzak."
 
 #: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:83
+#: src/pages/market/index.tsx:90
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Tranzakciók"
@@ -8225,7 +8226,7 @@ msgstr ""
 msgid "Unblock (show content)"
 msgstr "Feloldás (tartalom megjelenítése)"
 
-#: src/components/_user/UserEquipments.tsx:103
+#: src/components/_user/UserEquipments.tsx:117
 msgid "Unequip all"
 msgstr "Összes levétele"
 
@@ -8326,6 +8327,10 @@ msgstr "Munkás frissítése"
 msgid "Upgrade a company"
 msgstr "Fejlessz egy vállalatot"
 
+#: src/components/_economy/company/CompanyDropdown.tsx:200
+msgid "Upgrade automated engine"
+msgstr ""
+
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
 msgstr "Vállalat fejlesztése"
@@ -8333,6 +8338,10 @@ msgstr "Vállalat fejlesztése"
 #: src/components/_user/mission/mission.frontConfig.tsx:462
 msgid "Upgrade Skills"
 msgstr "Képességek fejlesztése"
+
+#: src/components/_economy/company/CompanyDropdown.tsx:218
+msgid "Upgrade storage"
+msgstr ""
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
@@ -8627,7 +8636,7 @@ msgstr "Várakozás a(z) {0}. szintre"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Várakozás arra, hogy a munkás elfogadja vagy elutasítsa a bércsökkentést. Nem változtathatod meg a bért, amíg nem válaszol."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
 msgid "wants"
 msgstr "szeretne"
 
@@ -8661,7 +8670,7 @@ msgid "Wealth"
 msgstr "Vagyon"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
-#: src/components/_user/UserEquipments.tsx:120
+#: src/components/_user/UserEquipments.tsx:134
 msgid "Weapon"
 msgstr "Fegyver"
 
@@ -8813,7 +8822,7 @@ msgid "World Cup Ball"
 msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:222
-#: src/components/_user/kits/KitsPopover.tsx:259
+#: src/components/_user/kits/KitsPopover.tsx:258
 msgid "Worst"
 msgstr ""
 
@@ -8843,7 +8852,7 @@ msgid "XP"
 msgstr "XP"
 
 #. placeholder {0}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:197
+#: src/components/_economy/company/CompanyDropdown.tsx:268
 msgid "You already have {0} active companies. Disable one first."
 msgstr "Már van {0} aktív vállalatod. Először tiltsd le az egyiket."
 
@@ -9022,7 +9031,7 @@ msgstr "Meghívtál egy barátot vagy spammeltél a fórumon. Miután elérik a(
 msgid "You left the company."
 msgstr "Elhagytad a vállalatot."
 
-#: src/components/_economy/company/CompanyDropdown.tsx:56
+#: src/components/_economy/company/CompanyDropdown.tsx:60
 msgid "You left your job!"
 msgstr "Elhagytad az állásod!"
 
@@ -9051,7 +9060,7 @@ msgstr "A webes verzióban kell lenned az előfizetéshez"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Mind a 3 etikai pontot el kell költened ({pointsRemaining} maradt)"
 
-#: src/components/_user/UserEquipments.tsx:141
+#: src/components/_user/UserEquipments.tsx:156
 msgid "You need to equip a weapon first"
 msgstr "Először fel kell szerelned egy fegyvert"
 
@@ -9263,7 +9272,7 @@ msgstr "Az országod felkelést kezdett <0/> területén <1/> ellen"
 msgid "Your current job"
 msgstr "Jelenlegi munkád"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
 msgid "Your current order"
 msgstr "Jelenlegi megrendelésed"
 
@@ -9328,7 +9337,7 @@ msgstr "A KE-d <0/> hírnevű és nem licitálhat zsoldos szerződésekre. Fizes
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr "A KE-dnek elegendő pénzzel kell rendelkeznie az elfogadási díj fedezéséhez a licitáláshoz. A kifizetés csak akkor kerül levonásra, ha nyersz, és visszatérítésre kerül a szerződés teljesítésekor."
 
-#: src/components/_economy/market/MarketHeader.tsx:14
+#: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
 msgstr "Ajánlataid"
 
