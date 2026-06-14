@@ -5676,7 +5676,7 @@ msgstr "Nav ieņemšanas punktu kopvērtējumā."
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr "Vēl nav komplektu - pievieno kādu, lai ātri apvilktu pilnu ekipējumu"
+msgstr "Vēl nav komplektu - pievieno kādu, lai ātri apvilktu pilnu ekipējumu."
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
