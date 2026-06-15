@@ -6318,7 +6318,7 @@ msgstr "انتخابات رئاسية"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:430
 msgid "Price auto-matches existing orders"
-msgstr ""
+msgstr "تتم مطابقة الأسعار تلقائيًا مع الطلبات الحالية للعنصر"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
