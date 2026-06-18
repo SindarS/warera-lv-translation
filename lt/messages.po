@@ -40,7 +40,7 @@ msgstr " - Priežastis: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr " - Daugkartinis išteklių ar pinigų aukojimas kariniam vienetui ar šaliai."
+msgstr " - Daugkartinis išteklių ar pinigų aukojimas kariniam daliniui ar šaliai."
 
 #: src/components/_common/GameRules.tsx:131
 msgid " - Repeatedly tipping articles"
@@ -9333,7 +9333,7 @@ msgstr "Tavo karinio dalinio pavadinimas"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr "Tavo karinio vieneto pilietybė yra šalis, kuriai jis atstovauja. Jos pakeitimas yra nemokamas ir gali būti atliktas tik kartą per {cooldownDays} dienų."
+msgstr "Tavo karinio dalinio pilietybė yra šalis, kuriai jis atstovauja. Jos pakeitimas yra nemokamas ir gali būti atliktas tik kartą per {cooldownDays} dienų."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
