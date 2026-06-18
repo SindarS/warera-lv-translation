@@ -1661,7 +1661,7 @@ msgstr "Arcane Batai"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
-msgstr "Ar tikrai nori suvartoti piliulę?"
+msgstr "Ar tikrai nori suvartoti tabletę?"
 
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
@@ -2109,16 +2109,16 @@ msgstr "Batai"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:103
 msgid "Bounty"
-msgstr "Atlygis"
+msgstr "Premija"
 
 #: src/components/_military/battle/BattleSystem.tsx:850
 #: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
-msgstr "Atlygio laukimo laikas"
+msgstr "Premijos laukimo laikas"
 
 #: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
-msgstr "Atlygis bus prieinamas po"
+msgstr "Premija bus prieinamas po"
 
 #: src/utils/translations.tsx:31
 msgid "Bread"
@@ -6802,7 +6802,7 @@ msgstr "Pašalinti avatarą"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:116
 msgid "Remove bounty"
-msgstr "Pašalinti atlygį"
+msgstr "Pašalinti premiją"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:31
 msgid "Remove council member"
@@ -7865,7 +7865,7 @@ msgstr "Šis veiksmas pateiks tavo MU statymą šiai sutarčiai."
 
 #: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
-msgstr "Šis atlygis skirtas tik šalies piliečiams."
+msgstr "Ši premija skirta tik šalies piliečiams."
 
 #: src/components/_economy/company/CompanyTags.tsx:66
 msgid "This company is disabled because the owner reached the company limit."
