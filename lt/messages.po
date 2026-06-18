@@ -3867,7 +3867,7 @@ msgstr "Finansuoti pasipriešinimą okupuotam regionui išlaisvinti"
 
 #: src/components/_political/law/law.frontConfig.tsx:627
 msgid "Finance a revolt to liberate <0/>"
-msgstr "Finansuoti sukilimą, kad išlaisvintumėte <0/>"
+msgstr "Finansuoti sukilimą, kad išlaisvintum <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:613
 #: src/components/_political/law/lawNames.tsx:38
