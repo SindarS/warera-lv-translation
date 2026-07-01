@@ -5712,7 +5712,7 @@ msgstr "Nav neviena uzdevuma"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:173
 msgid "No money ranking yet."
-msgstr "Vēl nav atlīdzību reitinga"
+msgstr "Vēl nav atlīdzību kopvērtējuma"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:62
 msgid "No motions yet"
