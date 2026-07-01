@@ -2050,7 +2050,7 @@ msgstr "Kauju lodziņi kartē"
 #: src/components/_military/war/WarItem.tsx:46
 #: src/components/_military/war/WarItem.tsx:80
 msgid "Battles won"
-msgstr "Uzvarētās kaujas"
+msgstr "Uzvarētas kaujas"
 
 #: src/components/_military/war/WarComparison.tsx:66
 msgid "Battles Won"
