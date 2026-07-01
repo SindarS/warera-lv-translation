@@ -5676,7 +5676,7 @@ msgstr "Vēl nav ziedojumu"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:172
 msgid "No ground ranking yet."
-msgstr "Nav ieņemšanas punktu reitingā"
+msgstr "Nav ieņemšanas punktu kopvērtējumā"
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
