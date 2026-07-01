@@ -6913,7 +6913,7 @@ msgstr "Pāriestatīt CAPTCHA"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:129
 msgid "Reset Survivor"
-msgstr "Pāriestatīšanas izdzīvotājs"
+msgstr "Pasaules gala izdzīvotājs"
 
 #: src/pages/user/[userId]/settings.tsx:74
 msgid "Reset tutorials"
