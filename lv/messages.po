@@ -3024,7 +3024,7 @@ msgstr "Spēlētāju bojājumi"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:114
 msgid "Damage ranking"
-msgstr "Bojājumu reitingi"
+msgstr "Bojājumu kopvērtējums"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
