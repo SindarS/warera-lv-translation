@@ -5462,7 +5462,7 @@ msgstr "Nekad nepadodies!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:16
 msgid "Never stop gambling"
-msgstr "Nekad neatmet dalību azartspēles"
+msgstr "Nekad neatmet azartspēles"
 
 #: src/components/_other/shop/SkinPackItem.tsx:91
 #: src/components/_social/ArticleList.tsx:161
