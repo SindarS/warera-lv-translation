@@ -2118,7 +2118,7 @@ msgstr "Premijos laukimo laikas"
 
 #: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
-msgstr "Premija bus prieinamas po"
+msgstr "Premija bus prieinama po"
 
 #: src/utils/translations.tsx:31
 msgid "Bread"
