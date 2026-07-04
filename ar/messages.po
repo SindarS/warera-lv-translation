@@ -8825,7 +8825,7 @@ msgstr "العمال"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
-msgstr "العمل لدى الآخرين طريقة رائعة لكسب المال في البداية في بدايتك للعبة."
+msgstr "العمل لدى الآخرين طريقة رائعة لكسب المال في بدايتك للعبة."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
