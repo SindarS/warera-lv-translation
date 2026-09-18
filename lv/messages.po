@@ -8,8 +8,8 @@ msgstr ""
 "Language: lv\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-09-18 15:38+0300\n"
-"Last-Translator: Sindar\n"
+"PO-Revision-Date: 2026-09-18 22:20+0300\n"
+"Last-Translator: LV translator team\n"
 "Language-Team: Patriots, EriksR, AriDev, Sindar\n"
 "Plural-Forms: nplurals=3; plural=(n%10==0 || (n%100>=11 && n%100<=19) ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
 
@@ -197,7 +197,7 @@ msgstr "Reģistrētas {registeredCount} valstis"
 
 #: src/pages/events/index.tsx:95
 msgid "{registeredCount} MUs registered"
-msgstr "Reģistrētas {registeredCount} MVs"
+msgstr "Reģistrētas {registeredCount} militārās vienības"
 
 #: src/components/_military/battle/BattleTimeline.tsx:79
 msgid "{roundsToWin} Rounds to win "
@@ -827,12 +827,12 @@ msgstr "<0>Emotikoni</0> čatā"
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:64
 msgid "<0>Every <1/> damage dealt in this round across both sides rolls an <2>{0}</2> into the round loot pool.</0><3>The pool is handed out at the end of the round: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr "<0>Katrs <1/> nodarītais bojājums šī raunda abās pusēs atver vienu <2>{0}</2> kopējā raunda laupījumu fondā.</0><3>Raundā iegūtais laupījums tiek izdalīts raunda beigās: top 1 bojājumu veicējs saņem top 1 ekipējumu un tā tālāk... Tavs potenciālais laupījums ir norādīts pie lietotājvārda zemāk bojājumu reitingā.</3>"
+msgstr "<0>Par katriem <1/> nodarītajiem bojājumiem, atver vienu <2>{0}</2> raunda laupījumu fondā.</0><3>Laupījums tiek izdalīts raunda beigās: top 1 bojājumu veicējs saņem top 1 ekipējumu un tā tālāk... Tavs potenciālais laupījums ir norādīts pie lietotājvārda zemāk bojājumu reitingā.</3>"
 
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:79
 msgid "<0>Every <1/> total damage dealt across both sides rolls an <2>{0}</2> into the battle loot pool.</0><3>The pool is handed out at the end of the battle: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr "<0>Katrs <1/> nodarītais bojājums šīs kaujas abās pusēs atver vienu <2>{0}</2> kopējā kaujas laupījumu fondā.</0><3>Kaujā iegūtais laupījums tiek izdalīts kaujas beigās: top 1 bojājumu veicējs saņem top 1 ekipējumu un tā tālāk... Tavs potenciālais laupījums ir norādīts pie lietotājvārda zemāk bojājumu reitingā.</3>"
+msgstr "<0>Par katriem <1/> nodarītajiem bojājumiem, atver vienu <2>{0}</2> kaujas laupījumu fondā.</0><3>Laupījums tiek izdalīts kaujas beigās: top 1 bojājumu veicējs saņem top 1 ekipējumu un tā tālāk... Tavs potenciālais laupījums ir norādīts pie lietotājvārda zemāk bojājumu reitingā.</3>"
 
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
@@ -1423,7 +1423,7 @@ msgstr "Aktīvie pilsoņi"
 #. placeholder {0}: staticGameConfig.user.activeCitizenMinLevel
 #: src/components/_political/country/CountryHeader.tsx:195
 msgid "Active citizens (citizenship of this country, active and level {0}+)"
-msgstr ""
+msgstr "Aktīvie pilsoņi (ar šīs valsts pilsonību, aktīvi un sasnieguši {0}+ līmeni)"
 
 #: src/pages/region/[regionId]/index.tsx:212
 msgid "Active construction"
@@ -1914,7 +1914,7 @@ msgstr "Pēc taimera beigām <0>{actualTickPoints}</0> tiks piešķirti pusei ar
 
 #: src/components/_political/country/CountryTooltip.tsx:141
 msgid "At war with"
-msgstr "Karo ar"
+msgstr "Karastāvoklī ar"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:271
 msgid "Atlas"
@@ -2933,7 +2933,7 @@ msgstr "Apsver to atdot savam vietējam moderatoram"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:554
 msgid "Construct"
-msgstr ""
+msgstr "Būvēt"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:177
 msgid "Consume items"
@@ -3341,7 +3341,7 @@ msgstr "Nodari <0/> kaujās ar valsts/MV rīkojumiem"
 
 #: src/components/_user/user/MilitaryRank.tsx:97
 msgid "Deal <0>damages</0> in battles to climb the ranks!"
-msgstr "Nodari <0>bojājumus</0> kaujās, paaugstinātu savu dienesta pakāpi!"
+msgstr "Nodari <0>bojājumus</0> kaujās, lai paaugstinātu savu dienesta pakāpi!"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
@@ -3462,7 +3462,7 @@ msgstr "Aizsardzības pakts: rīkojumi par pakta dalībvalsti maksā par {orderD
 
 #: src/components/_political/country/CountryTooltip.tsx:127
 msgid "Defensive pacts"
-msgstr "Aizsardzības pakti"
+msgstr "Aizsardzības pakti ar"
 
 #: src/components/_political/law/law.frontConfig.tsx:228
 msgid "Define <0/> as an enemy, increasing damages when fighting them"
@@ -6447,7 +6447,7 @@ msgstr "Nav partiju"
 
 #: src/components/_user/user/SkillUpgrade.tsx:287
 msgid "No prestige points left, tap to reset staged points"
-msgstr "Nav atlicis prestiža punktu, uzspied, lai atiestatītu ieguldītos punktus"
+msgstr "Nav atlicis prestiža punktu. Uzspied, lai atiestatītu ieguldītos punktus"
 
 #: src/pages/country/[countryId]/index.tsx:382
 msgid "No production bonus from resources. This country has no specialization."
@@ -7671,7 +7671,7 @@ msgstr "Reģistrētās valstis"
 #: src/components/_military/tournament/TournamentHeader.tsx:65
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:120
 msgid "Registered MUs"
-msgstr "Reģistrētās MVs"
+msgstr "Reģistrētās militārās vienības"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:57
 msgid "Registration closes in"
@@ -9016,7 +9016,7 @@ msgstr "Šim likumam ir papildu mainīgās izmaksas"
 
 #: src/components/_political/law/LawTypeSelect.tsx:209
 msgid "This law requires at least {minActiveCitizen} active citizens (level 10+) in the country."
-msgstr "Šī likuma iesniegšanai nepieciešami vismaz {minActiveCitizen} aktīvi pilsoņi (virs 10. līmeņa)."
+msgstr "Šī likuma ierosināšanai nepieciešami vismaz {minActiveCitizen} aktīvi pilsoņi (virs 10. līmeņa)."
 
 #: src/components/_political/government/Government.tsx:266
 msgid "This member won't be able to be nominated again for {cooldownDays} days."
@@ -9032,7 +9032,7 @@ msgstr "Tikai šim raundam"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:125
 msgid "This tournament has no equipment rarity cap: any gear can be used."
-msgstr "Šim turnīram nav ekipējuma ierobežojuma: var izmantot visu veidu ekipējumu."
+msgstr "Šim turnīram nav ekipējuma ierobežojuma: var izmantot visu līmeņu ekipējumu."
 
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
