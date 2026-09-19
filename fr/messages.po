@@ -827,12 +827,12 @@ msgstr "<0>Emôtes</0> dans le chat"
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:64
 msgid "<0>Every <1/> damage dealt in this round across both sides rolls an <2>{0}</2> into the round loot pool.</0><3>The pool is handed out at the end of the round: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr ""
+msgstr "<0>À chaque <1/> dégâts infligés au cours de cette manche, quel que soit le camp, ajoute un <2>{0}</2> à la réserve de butin de la manche.</0><3>La réserve est distribuée à la fin de la manche : le joueur ayant infligé le plus de dégâts obtient l'objet le plus précieux, le deuxième obtient l'objet suivant, et ainsi de suite. L'objet qui t'es attribué est indiqué sur ta ligne dans le classement ci-dessous.</3>"
 
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:79
 msgid "<0>Every <1/> total damage dealt across both sides rolls an <2>{0}</2> into the battle loot pool.</0><3>The pool is handed out at the end of the battle: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr ""
+msgstr "<0>À chaque <1/> point de dégâts total infligé par les deux camps ajoute un <2>{0}</2> au butin de la bataille.</0><3>Le butin est distribué à la fin de la bataille : le joueur ayant infligé le plus de dégâts reçoit l'objet le plus précieux, le deuxième reçoit l'objet suivant, et ainsi de suite. L'objet qui t'es attribué est indiqué sur ta ligne dans le classement ci-dessous.</3>"
 
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
@@ -2822,7 +2822,7 @@ msgstr "Entreprise améliorée !"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:207
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
-msgstr "Termine des missions tous les jours pour gagner de l'XP et monter de niveau plus vite. Clique pour réclamer !"
+msgstr "Termine des missions tous les jours pour gagner de l'EXP et monter de niveau plus vite. Clique pour réclamer !"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:234
 #: src/components/_user/milestone/MilestoneItem.tsx:327
@@ -3802,7 +3802,7 @@ msgstr "Compétences économiques"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:155
 msgid "Economy & Companies"
-msgstr "Économie & Entreprises"
+msgstr "Économie et entreprises"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:140
 msgid "Edit country order"
@@ -3938,7 +3938,7 @@ msgstr "Terminée"
 
 #: src/components/_military/war/WarItem.tsx:102
 msgid "Ended <0/>"
-msgstr "S'est terminée il y a <0/>"
+msgstr "Est terminée depuis <0/>"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:107
 #: src/components/_military/battle/ActiveBattlesList.tsx:162
@@ -4340,7 +4340,7 @@ msgstr "Fléau"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:181
 msgid "Focus on you"
-msgstr "Priorité sur vous"
+msgstr "Centrer sur toi"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:94
 #: src/components/_political/region/SetResistanceFocusModal.tsx:143
@@ -5771,7 +5771,7 @@ msgstr "Paliers de récompenses obtenus, tous classements confondus"
 #: src/components/_user/user/UserHeader.tsx:232
 #: src/pages/user/[userId]/milestones.tsx:20
 msgid "Milestones"
-msgstr "Étapes clés"
+msgstr "Étapes-clés"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:159
 msgid "Military & Battles"
@@ -5866,7 +5866,7 @@ msgstr "Missions"
 
 #: src/components/_user/mission/MissionsHeader.tsx:50
 msgid "Missions & milestones"
-msgstr "Missions et étapes clés"
+msgstr "Missions et étapes-clés"
 
 #: src/components/_user/mission/MissionsHeader.tsx:73
 #: src/components/_user/user/UserRankingsPanel.tsx:92
@@ -5887,7 +5887,7 @@ msgstr "Argent gagné des contrats de mercenaire."
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:134
 msgid "Money ranking"
-msgstr "Classement d'argent"
+msgstr "Classement de l'argent amassé"
 
 #: src/components/_political/event/EventList.tsx:112
 msgid "Money transfer"
@@ -6560,7 +6560,7 @@ msgstr "Est dans aucune alliance"
 
 #: src/components/_military/mu/MuSettings.tsx:67
 msgid "Not set"
-msgstr "Non défini"
+msgstr "Non établi"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:170
 msgid "Nothing in play. Hit in an ongoing battle to start earning, and take a top damage rank to claim a spot in its loot pool."
@@ -6898,7 +6898,7 @@ msgstr "Candidature à l'élection du parti ouverte"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2046
 msgid "Party election ended"
-msgstr "L'élection du parti s'est terminée"
+msgstr "Les élections du parti sont terminées"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2043
 msgid "Party election vote open"
@@ -6906,31 +6906,31 @@ msgstr "Vote aux élections du parti ouvert"
 
 #: src/components/_political/election/election.frontConfig.tsx:33
 msgid "Party Leader election"
-msgstr "Élection du chef de parti"
+msgstr "Élections de chef de parti"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:230
 msgid "Party Leader election candidacy is now open in <0/>"
-msgstr "Les candidatures pour l'élection du chef de parti sont ouvertes dans <0/>"
+msgstr "Les candidatures pour les élections de chef de parti seront ouvertes dans <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:280
 msgid "Party Leader election has ended in <0/>. Check the results!"
-msgstr "L'élection du chef de parti s'est terminée dans <0/>. Consultez les résultats !"
+msgstr "Les élections de chef de parti s'est terminée dans <0/>. Consulte les résultats !"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:255
 msgid "Party Leader election voting is now open in <0/>"
-msgstr "Le vote pour l'élection du chef de parti est ouvert dans <0/>"
+msgstr "Le vote pour les élections de chef de parti est ouvert dans <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:235
 msgid "Party Primary election candidacy is now open in <0/>"
-msgstr "Les candidatures à la primaire du parti sera ouverte dans <0/>"
+msgstr "Les candidatures à la primaire du parti seront ouvertes dans <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:285
 msgid "Party Primary election has ended in <0/>. Check the results!"
-msgstr "L'élection à la primaire du parti s'est terminée à <0/>. Vérifiez les résultats !"
+msgstr "Les élections primaires du parti se sont terminées à <0/>. Vérifie les résultats !"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:260
 msgid "Party Primary election voting is now open in <0/>"
-msgstr "Le vote pour la primaire du parti sera ouvert dans <0/>"
+msgstr "Le vote pour les primaires du parti sera ouvert dans <0/>"
 
 #: src/components/_political/election/CandidateFormModal.tsx:72
 msgid "Paste a link to your campaign article, or leave empty."
@@ -7905,7 +7905,7 @@ msgstr "Résidents"
 
 #: src/components/_political/region/RegionHeader.tsx:90
 msgid "Residents (home here)"
-msgstr "Résidents (à la maison ici)"
+msgstr "Résidents (ici à la maison)"
 
 #: src/components/_military/hit/HitButton.tsx:529
 #: src/components/_user/mission/mission.frontConfig.tsx:564
@@ -8585,11 +8585,11 @@ msgstr "A commencée"
 
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
-msgstr "A commencée il y a <0/>"
+msgstr "Commencée depuis <0/>"
 
 #: src/components/_military/battle/BattleHeader.tsx:195
 msgid "Started<0/><1/>"
-msgstr "A commencée il y a <0/><1/>"
+msgstr "Commencée depuis <0/><1/>"
 
 #: src/components/_user/mission/MissionsList.tsx:308
 msgid "Starting"
@@ -9799,7 +9799,7 @@ msgstr "Votes"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "Vote in an election"
-msgstr "Votes à une élection"
+msgstr "Voter à une élection"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:103
 msgid "Voter"
@@ -10361,11 +10361,11 @@ msgstr "Tu reçois"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:306
 msgid "You receive if all sell"
-msgstr "Tu réçois le montant si tout est vendu."
+msgstr "Tu reçois le montant si tout est vendu."
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:286
 msgid "You receive, per item"
-msgstr "Tu réçois, par objet"
+msgstr "Tu reçois, par objet"
 
 #. placeholder {0}: data.rank
 #: src/components/_user/notification/notification.frontConfig.tsx:1267
