@@ -80,7 +80,7 @@ msgstr "(desenvolvimento próprio)"
 #. placeholder {0}: Math.max(items.length, 1)
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:327
 msgid "{0, plural, one {Put on sale} other {Put # items on sale}}"
-msgstr ""
+msgstr "{0, plural, one {Colocar à venda} other {Colocar # itens à venda}}"
 
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
@@ -176,7 +176,7 @@ msgstr "{draftPrestigeCount} ponto(s) de prestígio nesta habilidade ({savedPres
 
 #: src/components/_economy/inventory/DismantleModal.tsx:196
 msgid "{equippedCount, plural, one {# of them is equipped} other {# of them are equipped}}"
-msgstr ""
+msgstr "{equippedCount, plural, one {# está equipado} other {# estão equipados}}"
 
 #: src/components/_user/user/Level.tsx:126
 msgid "{nextLevelSkillPoints} Skill Points"
@@ -184,7 +184,7 @@ msgstr "{nextLevelSkillPoints} Pontos de Habilidade"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:187
 msgid "{rareCount, plural, one {# of them is rare or better} other {# of them are rare or better}}"
-msgstr ""
+msgstr "{rareCount, plural, one {# é raro ou de nível superior} other {# são raros ou de nível superior}}"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:167
 #: src/components/_political/map/MapMenu.tsx:605
@@ -214,11 +214,11 @@ msgstr "{score}/{0} Rondas"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:178
 msgid "{selectedCount, plural, one {Dismantle # item for} other {Dismantle # items for}}"
-msgstr ""
+msgstr "{selectedCount, plural, one {Desmontar # item por} other {Desmontar # itens por}}"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:283
 msgid "{selectedCount} selected"
-msgstr ""
+msgstr "{selectedCount} selecionados"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:79
 msgid "{value} km"
@@ -827,12 +827,12 @@ msgstr "<0>Emotes</0> e GIFs no chat"
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:64
 msgid "<0>Every <1/> damage dealt in this round across both sides rolls an <2>{0}</2> into the round loot pool.</0><3>The pool is handed out at the end of the round: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr ""
+msgstr "<0>Cada <1/> de dano causado nesta ronda, independentemente do lado, acrescenta uma <2>{0}</2> às recompensas da ronda.</0><3>As recompensas são distribuídas no final da ronda: o jogador que causar mais dano recebe o item mais valioso, o segundo classificado recebe o seguinte, e assim sucessivamente. O item que te corresponde é apresentado na tua linha da classificação abaixo.</3>"
 
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:79
 msgid "<0>Every <1/> total damage dealt across both sides rolls an <2>{0}</2> into the battle loot pool.</0><3>The pool is handed out at the end of the battle: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr ""
+msgstr "<0>Cada <1/> de dano causado nesta ronda, independentemente do lado, acrescenta uma <2>{0}</2> às recompensas da ronda.</0><3>As recompensas são distribuídas no final da ronda: o jogador que causar mais dano recebe o item mais valioso, o segundo classificado recebe o seguinte, e assim sucessivamente. O item que te corresponde é apresentado na tua linha da classificação abaixo.</3>"
 
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
@@ -1605,7 +1605,7 @@ msgstr "Aliados"
 #. placeholder {1}: sharedRange.max
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:139
 msgid "Allowed between {0} and {1}"
-msgstr ""
+msgstr "O preço tem de estar entre {0} e {1}"
 
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:48
 msgid "Allowed wage range:"
@@ -2656,7 +2656,7 @@ msgstr "Resgatado até agora"
 #: src/components/_economy/inventory/DismantleModal.tsx:294
 #: src/components/_economy/inventory/ItemSelectorModal.tsx:166
 msgid "Clear"
-msgstr ""
+msgstr "Deselecionar"
 
 #: src/components/_political/country/CountrySelectV2.tsx:278
 msgid "Clear selection"
@@ -3665,7 +3665,7 @@ msgstr "Equipamentos desmontados"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:175
 msgid "Dismantle items"
-msgstr ""
+msgstr "Desmontar itens"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:153
 msgid "Dismiss"
@@ -3757,7 +3757,7 @@ msgstr "e. Referências a guerras e conflitos armados atuais fora do jogo (nomea
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:211
 msgid "Each item gets its own offer, all at the same price."
-msgstr ""
+msgstr "Cada item é vendido separadamente, mas todos ao mesmo preço."
 
 #: src/components/_user/user/SkillUpgrade.tsx:293
 msgid "Each prestige point gives the equivalent of {skillBonusLevels} level of the selected skill"
@@ -3957,7 +3957,7 @@ msgstr "Alferes"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:133
 msgid "Enter a price"
-msgstr ""
+msgstr "Insere um preço"
 
 #: src/components/_political/law/LawFormModal.tsx:244
 msgid "Enter article ID"
@@ -3994,7 +3994,7 @@ msgstr "Equipamentos"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:246
 msgid "Equipped items are left out of select all."
-msgstr ""
+msgstr "Os itens equipados não são incluídos ao selecionar tudo."
 
 #: src/components/_political/law/GenericLawStatus.tsx:44
 msgid "Error"
@@ -5381,7 +5381,7 @@ msgstr "Linha"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:297
 msgid "Listed at, taxes included"
-msgstr ""
+msgstr "Preço com imposto incluído"
 
 #: src/utils/translations.tsx:72
 msgid "Little cuties used to make steaks :("
@@ -5528,7 +5528,7 @@ msgstr "Mercado"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:205
 msgid "Market average"
-msgstr ""
+msgstr "Preço médio"
 
 #: src/components/_political/country/CountryTaxes.tsx:24
 #: src/components/_political/law/LawFormModal.tsx:258
@@ -6375,7 +6375,7 @@ msgstr "Região-base ainda não definida"
 #: src/components/_economy/inventory/DismantleModal.tsx:263
 #: src/components/_economy/inventory/ItemSelectorModal.tsx:198
 msgid "No items found"
-msgstr ""
+msgstr "Nenhum item encontrado"
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
@@ -6489,7 +6489,7 @@ msgstr "Nenhuma guerra encontrada"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:239
 msgid "No weapons or equipment to dismantle"
-msgstr ""
+msgstr "Não tens armas ou equipamento para desmontar"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:182
 msgid "No work offers"
@@ -6994,11 +6994,11 @@ msgstr "Verificação de telemóvel necessária"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:136
 msgid "Pick a fight!"
-msgstr "Escolha uma batalha!"
+msgstr "Escolhe uma batalha!"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:217
 msgid "Pick up to {maxItemsPerListing} weapons or equipment in perfect condition to sell at the same price."
-msgstr ""
+msgstr "Seleciona até {maxItemsPerListing} armas ou qualquer outro tipo de equipamentos ainda não utilizados para os vender ao mesmo preço."
 
 #: src/utils/translations.tsx:117
 msgid "Pill"
@@ -7156,7 +7156,7 @@ msgstr "Prestígio!"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:238
 msgid "Price"
-msgstr ""
+msgstr "Preço"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:558
 msgid "Price auto-matches existing orders"
@@ -8142,7 +8142,7 @@ msgstr "Selecione uma região"
 #. placeholder {0}: bulkItems.length
 #: src/components/_economy/inventory/DismantleModal.tsx:258
 msgid "Select all ({0})"
-msgstr ""
+msgstr "Selecionar tudo ({0})"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:141
 msgid "Select an occupied region"
@@ -8181,7 +8181,7 @@ msgstr "Trabalha <0/> vezes nas tuas empresas"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:77
 msgid "Sell an item"
-msgstr ""
+msgstr "Vender equipamento"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:332
 msgid "Sell company?"
@@ -8690,7 +8690,7 @@ msgstr "Sugar Daddy"
 #. placeholder {0}: sharedRange.estimatedValue
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:253
 msgid "Suggested price <0>{0}</0>"
-msgstr ""
+msgstr "Preço sugerido <0>{0}</0>"
 
 #: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
@@ -8898,11 +8898,11 @@ msgstr "O depósito dá um bónus de produção da seguinte porcentagem."
 
 #: src/pages/region/[regionId]/index.tsx:80
 msgid "The deposit will expire in the following amount of time."
-msgstr "O depósito expirará em."
+msgstr "O depósito expira em"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:716
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
-msgstr "O efeito dos teus buffs terminou. A fase de debuff começou e durará <0>{debuffDuration}h</0>."
+msgstr "O efeito dos teus buffs terminou. A fase de debuff começou e durará <0>{debuffDuration}h</0>"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
@@ -8920,7 +8920,7 @@ msgstr "A UM receberá de volta a caução, um pagamento parcial pelo dano dado,
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:136
 msgid "The price must be positive"
-msgstr ""
+msgstr "O preço tem de ser superior a 0"
 
 #: src/components/_political/event/event.frontConfig.tsx:88
 msgid "The revolution in <0/> has been suppressed. The government remains in power."
@@ -8936,7 +8936,7 @@ msgstr "O sorteio é ignorado enquanto tiveres {maxLoots} caixas por recolher"
 
 #: src/pages/region/[regionId]/index.tsx:110
 msgid "The strategic resource will be reshuffled in the following amount of time."
-msgstr "O recurso estratégico será redistribuído em."
+msgstr "O recurso estratégico será redistribuído em"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1358
 msgid "The tournament has ended for your team <0/>. Check the results!"
@@ -8952,7 +8952,7 @@ msgstr "É estritamente proibido o uso de bots, scripts ou qualquer forma de aut
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:228
 msgid "These items have no authorized price in common. Remove the cheapest or the most valuable one."
-msgstr ""
+msgstr "Não é possível definir um preço comum para estes itens. Remove o mais barato ou o mais caro."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
@@ -10170,7 +10170,7 @@ msgstr "Comprou um café ao dev <3"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:594
 msgid "You bought items."
-msgstr "Compraste itens."
+msgstr "Compraste itens"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:77
 msgid "You broke the rng"
@@ -10223,7 +10223,7 @@ msgstr "Ganhou gems com a venda de um conjunto de skin!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:730
 msgid "You feel healthy, the debuff effect no longer affects you."
-msgstr "Sentes-te saudável, o efeito de debuff já não te afeta."
+msgstr "Sentes-te saudável, o efeito de debuff já não te afeta"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:159
 msgid "You gifted a supporter plan subscription to someone <3"
@@ -10337,7 +10337,7 @@ msgstr "Tens de pertencer a um país para participar"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:177
 msgid "You need to be level {minLevel} to sell equipment"
-msgstr ""
+msgstr "Tens de ser, pelo menos, nível {minLevel} para vender equipamento"
 
 #: src/components/_user/UserEquipments.tsx:160
 msgid "You need to equip a weapon first"
@@ -10357,15 +10357,15 @@ msgstr "Entraste em prestígio e desceste de nível"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:288
 msgid "You receive"
-msgstr ""
+msgstr "Recebes"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:306
 msgid "You receive if all sell"
-msgstr ""
+msgstr "Valor total"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:286
 msgid "You receive, per item"
-msgstr ""
+msgstr "Preço por item"
 
 #. placeholder {0}: data.rank
 #: src/components/_user/notification/notification.frontConfig.tsx:1267
@@ -10384,7 +10384,7 @@ msgstr "Recebeste a skin \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:596
 msgid "You sold items."
-msgstr "Vendeste itens."
+msgstr "Vendeste itens"
 
 #. placeholder {0}: data.bannerTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1461
@@ -10426,7 +10426,7 @@ msgstr "Testou a versão alpha (utilizador antes de 20 de Março de 2025)"
 #: src/components/_user/notification/notification.frontConfig.tsx:2031
 #: src/components/_user/notification/notification.frontConfig.tsx:2048
 msgid "You were elected"
-msgstr "Foi eleito"
+msgstr "Foste eleito"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:59
 msgid "You were elected as a congress member of your country"
@@ -10483,7 +10483,7 @@ msgstr "Estás pronto!"
 
 #: src/components/_user/premium/PremiumCard.tsx:55
 msgid "You're already a supporter <0/>"
-msgstr "Você já é apoiante <0/>"
+msgstr "Já és apoiante <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:38
 msgid "You're climbing, don't stop now"
@@ -10491,7 +10491,7 @@ msgstr "Estás a subir, não pares agora"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:85
 msgid "You're going to be a legend for, like, 100 hits!"
-msgstr "Vais ser uma lenda por uns 100 golpes!"
+msgstr "Vais ser uma lenda, pelo menos por 100 golpes!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:49
 msgid "You're literally one case away from greatness"
@@ -10507,19 +10507,19 @@ msgstr "Estás no auge"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:198
 msgid "You've completed some missions! Let's collect your XP rewards."
-msgstr "Concluiu algumas missões! Vamos recolher as suas recompensas de XP."
+msgstr "Concluíste algumas missões! Vamos recolher as tuas recompensas de XP."
 
 #: src/components/_user/user/Level.tsx:134
 msgid "You've reached max level!"
-msgstr "Alcançou o nível máximo!"
+msgstr "Alcançaste o nível máximo!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:48
 msgid "Your <0>Production</0> bar is full! Click to produce items and add them to your inventory."
-msgstr "A sua barra de <0>Produção</0> está cheia! Clique para produzir itens e adicioná-los ao inventário."
+msgstr "A tua barra de <0>Produção</0> está cheia! Clica para produzir itens e adicioná-los ao teu inventário."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
-msgstr "A tua conta foi automaticamente reportada por suspeita de cheating."
+msgstr "A tua conta foi denunciada automaticamente por batota"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:74
 msgid "Your ancestors are proud"
@@ -10557,7 +10557,7 @@ msgstr "Os teus cidadãos vão ver <0/> na sua lista de batalhas, com esta mensa
 
 #: src/pages/country/[countryId]/index.tsx:142
 msgid "Your citizenship is going to change"
-msgstr "A sua cidadania irá mudar"
+msgstr "A tua cidadania vai mudar"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:141
 #: src/pages/index.tsx:135
@@ -10594,11 +10594,11 @@ msgstr "Emprego atual"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "Your current order"
-msgstr "Sua ordem atual"
+msgstr "A tua ordem atual"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1701
 msgid "Your daily missions have been reset! Complete them to earn rewards."
-msgstr "As missões diárias foram reiniciadas! Complete-as para ganhar XP e recompensas."
+msgstr "As missões diárias foram reiniciadas! Completa-as para ganhar XP e recompensas"
 
 #: src/pages/user/[userId]/settings.tsx:67
 msgid "Your email"
@@ -10651,7 +10651,7 @@ msgstr "A tua sorte foi de férias"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
 msgid "Your military unit name"
-msgstr "Nome da sua unidade militar"
+msgstr "Nome da tua unidade militar"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
