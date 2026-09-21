@@ -2117,7 +2117,7 @@ msgstr "الاضرار الاضافية للمعركة"
 #: src/components/_political/event/EventList.tsx:108
 #: src/components/_user/notification/notification.frontConfig.tsx:2066
 msgid "Battle ended"
-msgstr "انتهاء معركة"
+msgstr "انتهت المعركة"
 
 #: src/components/_military/battle/BattleName.tsx:150
 msgid "Battle for {regionName} {score}"
